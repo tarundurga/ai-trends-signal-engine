@@ -1,0 +1,32 @@
+[
+  {
+    "week": "2025-W51",
+    "themes": {
+      "Creative & Knowledge Work Reinvention": {
+        "total": 137,
+        "largecap": 44,
+        "midcap": 92
+      },
+      "Agentic & Automated Workflows": {
+        "total": 2,
+        "largecap": 0,
+        "midcap": 1
+      },
+      "Role Redesign & Job Architecture": {
+        "total": 1,
+        "largecap": 0,
+        "midcap": 0
+      },
+      "Governance, Risk & Trust": {
+        "total": 4,
+        "largecap": 1,
+        "midcap": 1
+      },
+      "AI Enablement & Fluency": {
+        "total": 2,
+        "largecap": 0,
+        "midcap": 2
+      }
+    }
+  }
+]
