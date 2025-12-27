@@ -1,5 +1,13 @@
 {
   "segment": "midcap",
-  "greenhouse": [],
-  "lever": []
+  "greenhouse": [{ "name": "Postman", "board_url": "https://boards.greenhouse.io/postman" },
+    { "name": "BrowserStack", "board_url": "https://boards.greenhouse.io/browserstack" },
+    { "name": "Freshworks", "board_url": "https://boards.greenhouse.io/freshworks" },
+    { "name": "Zerodha", "board_url": "https://boards.greenhouse.io/zerodha" },
+    { "name": "Groww", "board_url": "https://boards.greenhouse.io/groww" }],
+  "lever": [{ "name": "Chargebee", "api_url": "https://api.lever.co/v0/postings/chargebee?mode=json" },
+    { "name": "Whatfix", "api_url": "https://api.lever.co/v0/postings/whatfix?mode=json" },
+    { "name": "MoEngage", "api_url": "https://api.lever.co/v0/postings/moengage?mode=json" },
+    { "name": "CleverTap", "api_url": "https://api.lever.co/v0/postings/clevertap?mode=json" },
+    { "name": "Licious", "api_url": "https://api.lever.co/v0/postings/licious?mode=json" }]
 }
