@@ -1,5 +1,14 @@
 {
   "segment": "largecap",
-  "greenhouse": [],
-  "lever": []
+  "greenhouse": [{ "name": "Flipkart", "board_url": "https://boards.greenhouse.io/flipkart" },
+    { "name": "PhonePe", "board_url": "https://boards.greenhouse.io/phonepe" },
+    { "name": "Meesho", "board_url": "https://boards.greenhouse.io/meesho" },
+    { "name": "Swiggy", "board_url": "https://boards.greenhouse.io/swiggy" },
+    { "name": "Razorpay", "board_url": "https://boards.greenhouse.io/razorpay" }
+  ],
+  "lever": [{ "name": "Amazon India", "api_url": "https://api.lever.co/v0/postings/amazon?mode=json" },
+    { "name": "Microsoft India", "api_url": "https://api.lever.co/v0/postings/microsoft?mode=json" },
+    { "name": "Adobe India", "api_url": "https://api.lever.co/v0/postings/adobe?mode=json" },
+    { "name": "Salesforce India", "api_url": "https://api.lever.co/v0/postings/salesforce?mode=json" },
+    { "name": "Intuit India", "api_url": "https://api.lever.co/v0/postings/intuit?mode=json" }]
 }
