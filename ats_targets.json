@@ -1,0 +1,14 @@
+{
+  "greenhouse": [
+    {
+      "name": "ExampleCompany",
+      "board_url": "https://boards.greenhouse.io/examplecompany"
+    }
+  ],
+  "lever": [
+    {
+      "name": "ExampleCompany",
+      "api_url": "https://api.lever.co/v0/postings/examplecompany?mode=json"
+    }
+  ]
+}
