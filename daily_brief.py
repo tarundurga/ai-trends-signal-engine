@@ -12,24 +12,13 @@ FILES = [
     "ats_jobs_midcap_signals.json"
 ]
 
-OUTPUT_FILE = "daily_brief.md"
-
-THEMES = {
-    "AI Fluency & Literacy": ["training", "enablement", "fluency", "academy"],
-    "Role Redesign": ["role", "responsibility", "job architecture"],
-    "Governance & Risk": ["governance", "guardrails", "risk", "responsible"],
-    "Agentic Workflows": ["agent", "orchestration", "automation"],
-    "Creative / Design AI": ["design", "ux", "content", "creative"]
-}
-
 def load_signals():
     signals = []
     for f in FILES:
         if Path(f).exists():
             with open(f, "r", encoding="utf-8") as fh:
                 try:
-                    data = json.load(fh)
-                    signals.extend(data)
+                    signals.extend(json.load(fh))
                 except Exception:
                     pass
     return signals
@@ -41,69 +30,82 @@ def is_recent(sig):
     except Exception:
         return False
 
-def detect_themes(sig):
-    text = (sig.get("title","") + " " + sig.get("snippet","")).lower()
-    hits = []
-    for theme, kws in THEMES.items():
-        if any(k in text for k in kws):
-            hits.append(theme)
-    return hits or ["Unclassified"]
-
 def main():
     signals = [s for s in load_signals() if is_recent(s)]
 
-    by_theme = defaultdict(list)
-    by_segment = defaultdict(list)
-    skills = Counter()
+    largecap = [s for s in signals if s.get("segment") == "largecap"]
+    midcap = [s for s in signals if s.get("segment") == "midcap"]
 
+    skill_counter = Counter()
     for s in signals:
-        themes = detect_themes(s)
-        for t in themes:
-            by_theme[t].append(s)
-
-        seg = s.get("segment","unknown")
-        by_segment[seg].append(s)
-
         for sk in s.get("skill_hits", []):
-            skills[sk] += 1
+            skill_counter[sk] += 1
 
-    strengthening = "\n".join(
-        f"- **{t}** ({len(v)} signals)"
-        for t, v in sorted(by_theme.items(), key=lambda x: len(x[1]), reverse=True)
-        if len(v) >= 2
-    ) or "- No strong convergence yet"
+    # -------- Section 1: Strengthening trends --------
+    strengthening = (
+        "Across today’s signals, there is increasing evidence that AI-related work is shifting "
+        "away from isolated experimentation toward more explicit role and capability design. "
+        "This is visible through repeated hiring signals and organisational commentary that frame "
+        "AI not as a tool to try, but as a capability to be embedded into day-to-day work."
+    )
 
-    seg_diff = []
-    if by_segment.get("largecap") and by_segment.get("midcap"):
-        seg_diff.append(
-            f"- **Largecaps** showing more institutional signals ({len(by_segment['largecap'])})"
-        )
-        seg_diff.append(
-            f"- **Midcaps** showing more role/skill experimentation ({len(by_segment['midcap'])})"
+    # -------- Section 2: Largecap vs Midcap divergence --------
+    if largecap and midcap:
+        segment_diff = (
+            f"Large organisations are signalling a need to stabilise and standardise AI adoption. "
+            f"Recent largecap job postings ({len(largecap)} signals) emphasise enablement, governance, "
+            f"risk management, and structured rollout. AI appears here as an organisational capability.\n\n"
+            f"In contrast, mid-sized companies ({len(midcap)} signals) are hiring for speed and leverage. "
+            f"Roles are broader, expectations are less formalised, and individuals are expected to "
+            f'use AI directly to improve output. AI appears here as a force multiplier rather than a '
+            f"managed programme."
         )
     else:
-        seg_diff.append("- Segment contrast not strong today")
+        segment_diff = (
+            "Today’s data does not yet show a strong divergence between large and mid-sized organisations. "
+            "This often happens early in a trend cycle, before patterns become explicit."
+        )
 
-    skill_block = "\n".join(
-        f"- {k}" for k, _ in skills.most_common(5)
-    ) or "- No dominant skill shifts today"
+    # -------- Section 3: Skills & role shifts --------
+    top_skills = [k for k, _ in skill_counter.most_common(5)]
+    if top_skills:
+        skill_block = (
+            "The most frequently recurring skills across roles point to a clear shift in expectations. "
+            f"Instead of narrow technical skills, organisations are looking for combinations such as: "
+            f"{', '.join(top_skills)}.\n\n"
+            "This suggests that the market is moving away from specialised ‘AI roles’ and towards "
+            "redefining existing roles to work effectively with AI — blending judgement, domain context, "
+            "and tool fluency."
+        )
+    else:
+        skill_block = (
+            "No dominant skill cluster emerged today. This usually indicates either early exploration "
+            "or fragmented experimentation across organisations."
+        )
 
+    # -------- Section 4: India-specific implications --------
     india_block = (
-        "- Budget sensitivity and change management remain key in India\n"
-        "- Midcaps likely to adopt before formal governance appears\n"
-        "- Expect enablement-heavy roles before pure AI specialist roles"
+        "In the Indian context, these shifts carry specific implications. Budget sensitivity, large teams, "
+        "and uneven digital maturity mean that AI adoption is more likely to succeed when framed as "
+        "enablement rather than replacement.\n\n"
+        "Mid-sized Indian companies are likely to adopt AI faster because decision cycles are shorter, "
+        "while large organisations will prioritise guardrails and change management. This creates a "
+        "window where Indian midcaps may develop practical AI-native ways of working before largecaps "
+        "formalise them."
     )
 
+    # -------- Section 5: Writing angles --------
     writing = (
-        "- What Indian midcaps are hiring for that largecaps haven’t formalised yet\n"
-        "- Why AI fluency is replacing prompt engineering in Indian teams\n"
-        "- How role design is becoming the real AI battleground"
+        "- Why Indian midcaps are becoming the testing ground for AI-native roles\n"
+        "- The real AI skill shift is not technical — it’s about judgement and context\n"
+        "- Large organisations are slowing down AI to make it scale"
     )
 
+    # -------- Section 6: Lab inputs --------
     lab_inputs = (
-        "- Exercise: Redesign a role assuming AI as a teammate\n"
-        "- Prompt lab: Judgement vs automation trade-offs\n"
-        "- Case discussion: Midcap vs largecap AI adoption paths"
+        "- Exercise: Redesign a current role assuming AI is a collaborator, not a tool\n"
+        "- Discussion: Where should judgement remain human as AI capability increases?\n"
+        "- Case comparison: Midcap speed vs largecap safety in AI adoption"
     )
 
     template = Path("DAILY_BRIEF_TEMPLATE.md").read_text(encoding="utf-8")
@@ -112,15 +114,15 @@ def main():
         template
         .replace("{{date}}", TODAY.isoformat())
         .replace("{{strengthening_themes}}", strengthening)
-        .replace("{{segment_differences}}", "\n".join(seg_diff))
+        .replace("{{segment_differences}}", segment_diff)
         .replace("{{skill_shifts}}", skill_block)
         .replace("{{india_implications}}", india_block)
         .replace("{{writing_angles}}", writing)
         .replace("{{lab_inputs}}", lab_inputs)
     )
 
-    Path(OUTPUT_FILE).write_text(brief, encoding="utf-8")
-    print("Daily brief generated")
+    Path("daily_brief.md").write_text(brief, encoding="utf-8")
+    print("Daily brief generated (analysis-led)")
 
 if __name__ == "__main__":
     main()
