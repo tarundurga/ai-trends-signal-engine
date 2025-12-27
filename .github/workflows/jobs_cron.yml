@@ -1,0 +1,32 @@
+name: Daily ATS Job Signal Fetch
+
+on:
+  schedule:
+    - cron: "50 1 * * *"  # ~7:20 AM IST
+  workflow_dispatch:
+
+jobs:
+  fetch-jobs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run ATS jobs fetch
+        run: python jobs_fetch.py
+
+      - name: Commit results
+        run: |
+          git config user.name "ai-signal-bot"
+          git config user.email "ai-signal-bot@users.noreply.github.com"
+          git add ats_jobs_largecap_signals.json ats_jobs_midcap_signals.json
+          git commit -m "Daily ATS job signal update" || echo "No changes"
+          git push
