@@ -1,0 +1,32 @@
+name: Weekly Contrarian Insights
+
+on:
+  schedule:
+    - cron: "15 4 * * 5"   # Fridays ~9:45 AM IST
+  workflow_dispatch:
+
+jobs:
+  contrarian:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate contrarian insights
+        run: python contrarian_insights.py
+
+      - name: Commit insights
+        env:
+          GIT_TERMINAL_PROMPT: "0"
+        run: |
+          git config user.name "ai-signal-bot"
+          git config user.email "ai-signal-bot@users.noreply.github.com"
+          git add contrarian_insights.md
+          git commit -m "Weekly contrarian insights update" || echo "No changes"
+          git push
