@@ -8,6 +8,9 @@ on:
 jobs:
   snapshot:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -17,6 +20,17 @@ jobs:
         with:
           python-version: "3.11"
 
+      - name: Install dependencies (if any)
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      # Governance gate: promoted trends must follow schema
+      - name: Validate promoted trends registry (governance gate)
+        run: |
+          test -f TRENDS_REGISTRY.json
+          python validate_trends_registry.py TRENDS_REGISTRY.json
+
       - name: Run trend evolution snapshot
         run: python trend_evolution.py
 
@@ -24,6 +38,10 @@ jobs:
         run: |
           git config user.name "ai-signal-bot"
           git config user.email "ai-signal-bot@users.noreply.github.com"
-          git add trend_history.json
-          git commit -m "Weekly trend evolution snapshot" || echo "No changes"
+
+          # Commit both: authoritative registry + generated weekly history
+          git add TRENDS_REGISTRY.json trend_history.json
+
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
+          git commit -m "Trend evolution: weekly snapshot"
           git push
