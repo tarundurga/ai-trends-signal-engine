@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "source_of_truth": "Promoted trends only. Daily briefs/headlines do not write here.",
+    "promotion_gate": "Weekly Trend Candidate Review",
+    "version": 1
+  },
+  "trends": [
+    {
+      "id": "TR-001",
+      "name": "Example trend name (tentative)",
+      "status": "emerging",
+      "first_promoted_on": "2025-12-29",
+      "last_reviewed_on": "2025-12-29",
+      "time_horizon": "6-36 months",
+      "india_translation": "How this manifests in Indian organisations.",
+      "summary": "What is changing (describe the shift, not the phenomenon).",
+      "promotion_evidence": {
+        "review_window": "last 7 days",
+        "evidence_types": ["headline_patterns", "recurring_observations", "discourse_signals"],
+        "evidence_notes": "Why this graduated from sensing to an active trend.",
+        "falsifiers": [
+          "What would weaken or invalidate this trend"
+        ],
+        "confidence": "low"
+      }
+    }
+  ]
+}
