@@ -1,4 +1,4 @@
-# Daily AI Work & Skills Brief — 2025-12-30
+# Daily AI Work & Skills Brief — 2025-12-31
 
 ## 1. What is strengthening (signal-backed trends)
 Across today’s signals, there is increasing evidence that AI-related work is shifting away from isolated experimentation toward more explicit role and capability design. This is visible through repeated hiring signals and organisational commentary that frame AI not as a tool to try, but as a capability to be embedded into day-to-day work.
