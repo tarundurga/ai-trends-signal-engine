@@ -1,6 +1,6 @@
 [
   {
-    "captured_at": "2026-01-13T03:18:36.209039",
+    "captured_at": "2026-01-14T03:26:20.797224",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -16,7 +16,7 @@
     "notes": "greenhouse fetch error"
   },
   {
-    "captured_at": "2026-01-13T03:18:36.386771",
+    "captured_at": "2026-01-14T03:26:20.978666",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -34,7 +34,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-13T03:18:36.389952",
+    "captured_at": "2026-01-14T03:26:20.981858",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -52,7 +52,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-13T03:18:36.392456",
+    "captured_at": "2026-01-14T03:26:20.984482",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -72,7 +72,25 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-13T03:18:36.396039",
+    "captured_at": "2026-01-14T03:26:20.988066",
+    "segment": "largecap",
+    "source_channel": "ats_jobs",
+    "source_type": "job_posting",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "PhonePe",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Associate Manager - Technology Risk & Compliance",
+    "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
+    "link": "https://job-boards.greenhouse.io/phonepe/jobs/7588164003",
+    "evidence_weight": 5,
+    "notes": "greenhouse; location=Bangalore; team=Financial Services Compliance; created_at=2026-01-13T05:12:59-05:00",
+    "skill_hits": [],
+    "ai_related": true
+  },
+  {
+    "captured_at": "2026-01-14T03:26:20.990854",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -90,7 +108,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-13T03:18:36.399365",
+    "captured_at": "2026-01-14T03:26:20.994004",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -103,7 +121,7 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7545987003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Bangalore; team=Data Science; created_at=2026-01-11T23:46:44-05:00",
+    "notes": "greenhouse; location=Bangalore/ Pune; team=Data Science; created_at=2026-01-13T00:49:47-05:00",
     "skill_hits": [
       "python",
       "sql"
@@ -111,7 +129,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-13T03:18:36.402372",
+    "captured_at": "2026-01-14T03:26:20.997110",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -134,7 +152,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-13T03:18:36.405357",
+    "captured_at": "2026-01-14T03:26:21.000217",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -154,7 +172,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-13T03:18:36.408408",
+    "captured_at": "2026-01-14T03:26:21.003253",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -176,7 +194,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-13T03:18:36.411589",
+    "captured_at": "2026-01-14T03:26:21.006425",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -185,37 +203,18 @@
     "org_name": "PhonePe",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Ops Engineer 5 to 8 Years",
+    "title": "Lead - People Experience",
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
-    "link": "https://job-boards.greenhouse.io/phonepe/jobs/7511746003",
+    "link": "https://job-boards.greenhouse.io/phonepe/jobs/7588095003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Bangalore; team=Site Reliability; created_at=2025-11-26T03:22:33-05:00",
-    "skill_hits": [],
-    "ai_related": true
-  },
-  {
-    "captured_at": "2026-01-13T03:18:36.414011",
-    "segment": "largecap",
-    "source_channel": "ats_jobs",
-    "source_type": "job_posting",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "PhonePe",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Procurement Ops Manager, SRE",
-    "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
-    "link": "https://job-boards.greenhouse.io/phonepe/jobs/7450677003",
-    "evidence_weight": 5,
-    "notes": "greenhouse; location=Bangalore; team=Site Reliability; created_at=2025-11-26T03:22:33-05:00",
+    "notes": "greenhouse; location=Bangalore; team=People Experience; created_at=2026-01-13T00:43:36-05:00",
     "skill_hits": [
-      "enablement",
-      "governance"
+      "design"
     ],
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-13T03:18:36.416406",
+    "captured_at": "2026-01-14T03:26:21.010440",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -233,7 +232,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-13T03:18:36.419147",
+    "captured_at": "2026-01-14T03:26:21.013341",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -253,7 +252,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-13T03:18:36.423873",
+    "captured_at": "2026-01-14T03:26:21.018088",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -271,7 +270,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-13T03:18:36.426016",
+    "captured_at": "2026-01-14T03:26:21.020253",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -289,7 +288,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-13T03:18:36.429162",
+    "captured_at": "2026-01-14T03:26:21.023516",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -309,27 +308,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-13T03:18:36.431949",
-    "segment": "largecap",
-    "source_channel": "ats_jobs",
-    "source_type": "job_posting",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "PhonePe",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Site Reliability Engineer (1-3 years) Pune",
-    "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
-    "link": "https://job-boards.greenhouse.io/phonepe/jobs/6686507003",
-    "evidence_weight": 5,
-    "notes": "greenhouse; location=Pune; team=Site Reliability; created_at=2025-12-01T06:23:24-05:00",
-    "skill_hits": [
-      "python"
-    ],
-    "ai_related": true
-  },
-  {
-    "captured_at": "2026-01-13T03:18:36.434671",
+    "captured_at": "2026-01-14T03:26:21.026257",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -349,7 +328,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-13T03:18:36.437389",
+    "captured_at": "2026-01-14T03:26:21.028991",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -367,7 +346,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-13T03:18:36.439877",
+    "captured_at": "2026-01-14T03:26:21.031516",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -388,7 +367,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-13T03:18:36.444026",
+    "captured_at": "2026-01-14T03:26:21.035703",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -409,7 +388,28 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-13T03:18:36.448233",
+    "captured_at": "2026-01-14T03:26:21.039937",
+    "segment": "largecap",
+    "source_channel": "ats_jobs",
+    "source_type": "job_posting",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "PhonePe",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Site Reliability Engineer 3 ",
+    "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
+    "link": "https://job-boards.greenhouse.io/phonepe/jobs/5854614003",
+    "evidence_weight": 5,
+    "notes": "greenhouse; location=Bangalore; team=Tech Infra & IT_L1; created_at=2026-01-13T04:58:58-05:00",
+    "skill_hits": [
+      "design",
+      "python"
+    ],
+    "ai_related": true
+  },
+  {
+    "captured_at": "2026-01-14T03:26:21.042684",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -429,7 +429,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-13T03:18:36.451190",
+    "captured_at": "2026-01-14T03:26:21.045647",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -450,7 +450,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-13T03:18:36.454648",
+    "captured_at": "2026-01-14T03:26:21.049117",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -470,7 +470,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-13T03:18:36.458076",
+    "captured_at": "2026-01-14T03:26:21.052561",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -491,7 +491,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-13T03:18:36.461496",
+    "captured_at": "2026-01-14T03:26:21.056000",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -512,28 +512,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-13T03:18:36.464240",
-    "segment": "largecap",
-    "source_channel": "ats_jobs",
-    "source_type": "job_posting",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "PhonePe",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Site Reliability Engineer (8 - 13 yrs)",
-    "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
-    "link": "https://job-boards.greenhouse.io/phonepe/jobs/5854614003",
-    "evidence_weight": 5,
-    "notes": "greenhouse; location=Bangalore; team=Tech Infra & IT_L1; created_at=2025-11-26T03:22:33-05:00",
-    "skill_hits": [
-      "design",
-      "python"
-    ],
-    "ai_related": true
-  },
-  {
-    "captured_at": "2026-01-13T03:18:36.466975",
+    "captured_at": "2026-01-14T03:26:21.058764",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -554,7 +533,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-13T03:18:36.470504",
+    "captured_at": "2026-01-14T03:26:21.062302",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -576,7 +555,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-13T03:18:36.475854",
+    "captured_at": "2026-01-14T03:26:21.067712",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -597,7 +576,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-13T03:18:36.479289",
+    "captured_at": "2026-01-14T03:26:21.071054",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -618,7 +597,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-13T03:18:36.483025",
+    "captured_at": "2026-01-14T03:26:21.074625",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -638,7 +617,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-13T03:18:36.485994",
+    "captured_at": "2026-01-14T03:26:21.077470",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -659,7 +638,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-13T03:18:36.490186",
+    "captured_at": "2026-01-14T03:26:21.081489",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -679,7 +658,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-13T03:18:36.493228",
+    "captured_at": "2026-01-14T03:26:21.084402",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -699,7 +678,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-13T03:18:36.496271",
+    "captured_at": "2026-01-14T03:26:21.087307",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -719,7 +698,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-13T03:18:36.499324",
+    "captured_at": "2026-01-14T03:26:21.090229",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -739,7 +718,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-13T03:18:36.502678",
+    "captured_at": "2026-01-14T03:26:21.093066",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -759,7 +738,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-13T03:18:36.506458",
+    "captured_at": "2026-01-14T03:26:21.096644",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -779,7 +758,27 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-13T03:18:36.509915",
+    "captured_at": "2026-01-14T03:26:21.099944",
+    "segment": "largecap",
+    "source_channel": "ats_jobs",
+    "source_type": "job_posting",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "PhonePe",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Software Engineer - Backend (7-10 years), Pune",
+    "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
+    "link": "https://job-boards.greenhouse.io/phonepe/jobs/7585854003",
+    "evidence_weight": 5,
+    "notes": "greenhouse; location=Pune; team=Engineering Development; created_at=2026-01-13T04:44:23-05:00",
+    "skill_hits": [
+      "design"
+    ],
+    "ai_related": true
+  },
+  {
+    "captured_at": "2026-01-14T03:26:21.103258",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -799,7 +798,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-13T03:18:36.513400",
+    "captured_at": "2026-01-14T03:26:21.106569",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -819,7 +818,27 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-13T03:18:36.516859",
+    "captured_at": "2026-01-14T03:26:21.109858",
+    "segment": "largecap",
+    "source_channel": "ats_jobs",
+    "source_type": "job_posting",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "PhonePe",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Software Engineer - Test - Pune",
+    "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
+    "link": "https://job-boards.greenhouse.io/phonepe/jobs/7167998003",
+    "evidence_weight": 5,
+    "notes": "greenhouse; location=Pune; team=Engineering Development; created_at=2026-01-13T05:52:21-05:00",
+    "skill_hits": [
+      "python"
+    ],
+    "ai_related": true
+  },
+  {
+    "captured_at": "2026-01-14T03:26:21.113350",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -837,7 +856,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-13T03:18:36.865576",
+    "captured_at": "2026-01-14T03:26:21.480702",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -853,7 +872,7 @@
     "notes": "greenhouse fetch error"
   },
   {
-    "captured_at": "2026-01-13T03:18:37.018121",
+    "captured_at": "2026-01-14T03:26:21.699569",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -869,7 +888,7 @@
     "notes": "greenhouse fetch error"
   },
   {
-    "captured_at": "2026-01-13T03:18:37.387380",
+    "captured_at": "2026-01-14T03:26:22.030018",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -885,7 +904,7 @@
     "notes": "greenhouse fetch error"
   },
   {
-    "captured_at": "2026-01-13T03:18:37.975473",
+    "captured_at": "2026-01-14T03:26:22.265764",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -901,7 +920,7 @@
     "notes": "lever fetch error"
   },
   {
-    "captured_at": "2026-01-13T03:18:38.324586",
+    "captured_at": "2026-01-14T03:26:22.453977",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -917,7 +936,7 @@
     "notes": "lever fetch error"
   },
   {
-    "captured_at": "2026-01-13T03:18:38.670485",
+    "captured_at": "2026-01-14T03:26:22.724558",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -933,7 +952,7 @@
     "notes": "lever fetch error"
   },
   {
-    "captured_at": "2026-01-13T03:18:39.204033",
+    "captured_at": "2026-01-14T03:26:22.971214",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -949,7 +968,7 @@
     "notes": "lever fetch error"
   },
   {
-    "captured_at": "2026-01-13T03:18:39.494499",
+    "captured_at": "2026-01-14T03:26:23.139315",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "error",
