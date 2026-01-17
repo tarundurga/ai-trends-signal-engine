@@ -1,6 +1,6 @@
 [
   {
-    "captured_at": "2026-01-16T03:20:12.880497",
+    "captured_at": "2026-01-17T03:13:09.701524",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -20,7 +20,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:12.883173",
+    "captured_at": "2026-01-17T03:13:09.704816",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -40,7 +40,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:12.885665",
+    "captured_at": "2026-01-17T03:13:09.707401",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -60,7 +60,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:12.888356",
+    "captured_at": "2026-01-17T03:13:09.710083",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -80,7 +80,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:12.890955",
+    "captured_at": "2026-01-17T03:13:09.712691",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -100,7 +100,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:12.893668",
+    "captured_at": "2026-01-17T03:13:09.715422",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -120,7 +120,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:12.896461",
+    "captured_at": "2026-01-17T03:13:09.718151",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -140,7 +140,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:12.899383",
+    "captured_at": "2026-01-17T03:13:09.721073",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -160,7 +160,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:12.902110",
+    "captured_at": "2026-01-17T03:13:09.723780",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -183,7 +183,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:12.905289",
+    "captured_at": "2026-01-17T03:13:09.726975",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -203,7 +203,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:12.908951",
+    "captured_at": "2026-01-17T03:13:09.730620",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -223,7 +223,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:12.912520",
+    "captured_at": "2026-01-17T03:13:09.734166",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -243,61 +243,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:12.915627",
-    "segment": "midcap",
-    "source_channel": "ats_jobs",
-    "source_type": "job_posting",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "Postman",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Corporate Solutions Engineer",
-    "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;Who Are We?&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Postman is the world\u2019s leading API platform, used by more than 45 million+ developers and 500,000 organizations, including 98% of the Fortune 500. Postman is helping developers and profe",
-    "link": "https://job-boards.greenhouse.io/postman/jobs/7540048003",
-    "evidence_weight": 5,
-    "notes": "greenhouse; location=Boston, Massachusetts; team=Sales; created_at=2026-01-15T17:01:09-05:00",
-    "skill_hits": [],
-    "ai_related": true
-  },
-  {
-    "captured_at": "2026-01-16T03:20:12.919005",
-    "segment": "midcap",
-    "source_channel": "ats_jobs",
-    "source_type": "job_posting",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "Postman",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Corporate Solutions Engineer",
-    "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;Who Are We?&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Postman is the world\u2019s leading API platform, used by more than 45 million+ developers and 500,000 organizations, including 98% of the Fortune 500. Postman is helping developers and profe",
-    "link": "https://job-boards.greenhouse.io/postman/jobs/7540056003",
-    "evidence_weight": 5,
-    "notes": "greenhouse; location=New York, New York, United States; team=Sales; created_at=2026-01-15T17:01:09-05:00",
-    "skill_hits": [],
-    "ai_related": true
-  },
-  {
-    "captured_at": "2026-01-16T03:20:12.922380",
-    "segment": "midcap",
-    "source_channel": "ats_jobs",
-    "source_type": "job_posting",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "Postman",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Corporate Solutions Engineer",
-    "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;Who Are We?&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Postman is the world\u2019s leading API platform, used by more than 45 million+ developers and 500,000 organizations, including 98% of the Fortune 500. Postman is helping developers and profe",
-    "link": "https://job-boards.greenhouse.io/postman/jobs/7540054003",
-    "evidence_weight": 5,
-    "notes": "greenhouse; location=Austin, Texas, United States; team=Sales; created_at=2026-01-15T17:01:09-05:00",
-    "skill_hits": [],
-    "ai_related": true
-  },
-  {
-    "captured_at": "2026-01-16T03:20:12.925765",
+    "captured_at": "2026-01-17T03:13:09.737276",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -315,7 +261,61 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:12.929288",
+    "captured_at": "2026-01-17T03:13:09.740711",
+    "segment": "midcap",
+    "source_channel": "ats_jobs",
+    "source_type": "job_posting",
+    "geo_primary": "Global",
+    "india_relevance": "Medium",
+    "org_name": "Postman",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Corporate Solutions Engineer",
+    "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;Who Are We?&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Postman is the world\u2019s leading API platform, used by more than 45 million+ developers and 500,000 organizations, including 98% of the Fortune 500. Postman is helping developers and profe",
+    "link": "https://job-boards.greenhouse.io/postman/jobs/7540048003",
+    "evidence_weight": 5,
+    "notes": "greenhouse; location=Boston, Massachusetts; team=Sales; created_at=2026-01-15T17:01:09-05:00",
+    "skill_hits": [],
+    "ai_related": true
+  },
+  {
+    "captured_at": "2026-01-17T03:13:09.744118",
+    "segment": "midcap",
+    "source_channel": "ats_jobs",
+    "source_type": "job_posting",
+    "geo_primary": "Global",
+    "india_relevance": "Medium",
+    "org_name": "Postman",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Corporate Solutions Engineer",
+    "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;Who Are We?&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Postman is the world\u2019s leading API platform, used by more than 45 million+ developers and 500,000 organizations, including 98% of the Fortune 500. Postman is helping developers and profe",
+    "link": "https://job-boards.greenhouse.io/postman/jobs/7540054003",
+    "evidence_weight": 5,
+    "notes": "greenhouse; location=Austin, Texas, United States; team=Sales; created_at=2026-01-15T17:01:09-05:00",
+    "skill_hits": [],
+    "ai_related": true
+  },
+  {
+    "captured_at": "2026-01-17T03:13:09.747517",
+    "segment": "midcap",
+    "source_channel": "ats_jobs",
+    "source_type": "job_posting",
+    "geo_primary": "Global",
+    "india_relevance": "Medium",
+    "org_name": "Postman",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Corporate Solutions Engineer",
+    "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;Who Are We?&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Postman is the world\u2019s leading API platform, used by more than 45 million+ developers and 500,000 organizations, including 98% of the Fortune 500. Postman is helping developers and profe",
+    "link": "https://job-boards.greenhouse.io/postman/jobs/7540056003",
+    "evidence_weight": 5,
+    "notes": "greenhouse; location=New York, New York, United States; team=Sales; created_at=2026-01-15T17:01:09-05:00",
+    "skill_hits": [],
+    "ai_related": true
+  },
+  {
+    "captured_at": "2026-01-17T03:13:09.750983",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -335,7 +335,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:12.932717",
+    "captured_at": "2026-01-17T03:13:09.754119",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -355,7 +355,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:12.935169",
+    "captured_at": "2026-01-17T03:13:09.756850",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -373,7 +373,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:12.938299",
+    "captured_at": "2026-01-17T03:13:09.760150",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -393,7 +393,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:12.940845",
+    "captured_at": "2026-01-17T03:13:09.762842",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -414,7 +414,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:12.943909",
+    "captured_at": "2026-01-17T03:13:09.766163",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -435,7 +435,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:12.947070",
+    "captured_at": "2026-01-17T03:13:09.769569",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -455,7 +455,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:12.949561",
+    "captured_at": "2026-01-17T03:13:09.772206",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -476,7 +476,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:12.953342",
+    "captured_at": "2026-01-17T03:13:09.776009",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -494,7 +494,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:12.956786",
+    "captured_at": "2026-01-17T03:13:09.779582",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -514,7 +514,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:12.959941",
+    "captured_at": "2026-01-17T03:13:09.782801",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -532,7 +532,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:12.963287",
+    "captured_at": "2026-01-17T03:13:09.786238",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -552,7 +552,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:12.966457",
+    "captured_at": "2026-01-17T03:13:09.789427",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -570,7 +570,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:12.970191",
+    "captured_at": "2026-01-17T03:13:09.793263",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -592,7 +592,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:12.972853",
+    "captured_at": "2026-01-17T03:13:09.796022",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -613,7 +613,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:12.977034",
+    "captured_at": "2026-01-17T03:13:09.800291",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -634,7 +634,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:12.981386",
+    "captured_at": "2026-01-17T03:13:09.804688",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -655,7 +655,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:12.985210",
+    "captured_at": "2026-01-17T03:13:09.808514",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -675,7 +675,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:12.988129",
+    "captured_at": "2026-01-17T03:13:09.811408",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -695,7 +695,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:12.991458",
+    "captured_at": "2026-01-17T03:13:09.814775",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -717,7 +717,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:12.994327",
+    "captured_at": "2026-01-17T03:13:09.817639",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -738,7 +738,25 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:12.997666",
+    "captured_at": "2026-01-17T03:13:09.820951",
+    "segment": "midcap",
+    "source_channel": "ats_jobs",
+    "source_type": "job_posting",
+    "geo_primary": "Global",
+    "india_relevance": "Medium",
+    "org_name": "Postman",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Manager, Corporate Sales",
+    "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;Who Are We?&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Postman is the world\u2019s leading API platform, used by more than 45 million+ developers and 500,000 organizations, including 98% of the Fortune 500. Postman is helping developers and profe",
+    "link": "https://job-boards.greenhouse.io/postman/jobs/7595477003",
+    "evidence_weight": 5,
+    "notes": "greenhouse; location=New York, New York, United States; team=Sales; created_at=2026-01-16T18:26:13-05:00",
+    "skill_hits": [],
+    "ai_related": true
+  },
+  {
+    "captured_at": "2026-01-17T03:13:09.824152",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -756,7 +774,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.000757",
+    "captured_at": "2026-01-17T03:13:09.827310",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -776,7 +794,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.004072",
+    "captured_at": "2026-01-17T03:13:09.830724",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -798,29 +816,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.007174",
-    "segment": "midcap",
-    "source_channel": "ats_jobs",
-    "source_type": "job_posting",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "Postman",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Member of Technical Staff,  AI Platform & Architecture (Infrastructure)",
-    "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;Who Are We?&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Postman is the world\u2019s leading API platform, used by more than 45 million+ developers and 500,000 organizations, including 98% of the Fortune 500. Postman is helping developers and profe",
-    "link": "https://job-boards.greenhouse.io/postman/jobs/7452534003",
-    "evidence_weight": 5,
-    "notes": "greenhouse; location=San Francisco, California, United States; team=AI; created_at=2026-01-15T17:01:09-05:00",
-    "skill_hits": [
-      "design",
-      "python",
-      "training"
-    ],
-    "ai_related": true
-  },
-  {
-    "captured_at": "2026-01-16T03:20:13.009559",
+    "captured_at": "2026-01-17T03:13:09.833812",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -842,7 +838,29 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.011840",
+    "captured_at": "2026-01-17T03:13:09.836083",
+    "segment": "midcap",
+    "source_channel": "ats_jobs",
+    "source_type": "job_posting",
+    "geo_primary": "Global",
+    "india_relevance": "Medium",
+    "org_name": "Postman",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Member of Technical Staff,  AI Platform & Architecture (Infrastructure)",
+    "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;Who Are We?&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Postman is the world\u2019s leading API platform, used by more than 45 million+ developers and 500,000 organizations, including 98% of the Fortune 500. Postman is helping developers and profe",
+    "link": "https://job-boards.greenhouse.io/postman/jobs/7452534003",
+    "evidence_weight": 5,
+    "notes": "greenhouse; location=San Francisco, California, United States; team=AI; created_at=2026-01-15T17:01:09-05:00",
+    "skill_hits": [
+      "design",
+      "python",
+      "training"
+    ],
+    "ai_related": true
+  },
+  {
+    "captured_at": "2026-01-17T03:13:09.838467",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -862,7 +880,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.015714",
+    "captured_at": "2026-01-17T03:13:09.842369",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -882,7 +900,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.018864",
+    "captured_at": "2026-01-17T03:13:09.845610",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -902,25 +920,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.021891",
-    "segment": "midcap",
-    "source_channel": "ats_jobs",
-    "source_type": "job_posting",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "Postman",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Named Account Executive",
-    "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;Who Are We?&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Postman is the world\u2019s leading API platform, used by more than 45 million+ developers and 500,000 organizations, including 98% of the Fortune 500. Postman is helping developers and profe",
-    "link": "https://job-boards.greenhouse.io/postman/jobs/7587550003",
-    "evidence_weight": 5,
-    "notes": "greenhouse; location=Austin, Texas, United States; team=Sales; created_at=2026-01-15T17:01:09-05:00",
-    "skill_hits": [],
-    "ai_related": true
-  },
-  {
-    "captured_at": "2026-01-16T03:20:13.024706",
+    "captured_at": "2026-01-17T03:13:09.848705",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -938,7 +938,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.027517",
+    "captured_at": "2026-01-17T03:13:09.851517",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -956,7 +956,25 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.030309",
+    "captured_at": "2026-01-17T03:13:09.854310",
+    "segment": "midcap",
+    "source_channel": "ats_jobs",
+    "source_type": "job_posting",
+    "geo_primary": "Global",
+    "india_relevance": "Medium",
+    "org_name": "Postman",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Named Account Executive",
+    "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;Who Are We?&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Postman is the world\u2019s leading API platform, used by more than 45 million+ developers and 500,000 organizations, including 98% of the Fortune 500. Postman is helping developers and profe",
+    "link": "https://job-boards.greenhouse.io/postman/jobs/7587550003",
+    "evidence_weight": 5,
+    "notes": "greenhouse; location=Austin, Texas, United States; team=Sales; created_at=2026-01-15T17:01:09-05:00",
+    "skill_hits": [],
+    "ai_related": true
+  },
+  {
+    "captured_at": "2026-01-17T03:13:09.857137",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -977,7 +995,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.033489",
+    "captured_at": "2026-01-17T03:13:09.860362",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -995,7 +1013,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.036789",
+    "captured_at": "2026-01-17T03:13:09.863746",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1017,7 +1035,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.040142",
+    "captured_at": "2026-01-17T03:13:09.867160",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1037,7 +1055,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.043037",
+    "captured_at": "2026-01-17T03:13:09.870064",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1055,7 +1073,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.046952",
+    "captured_at": "2026-01-17T03:13:09.873488",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1075,7 +1093,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.050115",
+    "captured_at": "2026-01-17T03:13:09.876620",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1095,7 +1113,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.053525",
+    "captured_at": "2026-01-17T03:13:09.880084",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1117,7 +1135,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.055906",
+    "captured_at": "2026-01-17T03:13:09.882470",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1137,7 +1155,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.060958",
+    "captured_at": "2026-01-17T03:13:09.887674",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1158,7 +1176,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.064251",
+    "captured_at": "2026-01-17T03:13:09.891023",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1180,7 +1198,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.067528",
+    "captured_at": "2026-01-17T03:13:09.894531",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1202,7 +1220,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.070011",
+    "captured_at": "2026-01-17T03:13:09.897189",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1222,7 +1240,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.074031",
+    "captured_at": "2026-01-17T03:13:09.901450",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1240,7 +1258,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.076443",
+    "captured_at": "2026-01-17T03:13:09.903968",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1260,7 +1278,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.079491",
+    "captured_at": "2026-01-17T03:13:09.906982",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1282,7 +1300,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.082218",
+    "captured_at": "2026-01-17T03:13:09.909739",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1302,7 +1320,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.085988",
+    "captured_at": "2026-01-17T03:13:09.913463",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1320,7 +1338,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.089640",
+    "captured_at": "2026-01-17T03:13:09.917059",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1338,7 +1356,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.092838",
+    "captured_at": "2026-01-17T03:13:09.920242",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1359,7 +1377,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.096935",
+    "captured_at": "2026-01-17T03:13:09.924245",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1372,12 +1390,12 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;Who Are We?&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Postman is the world\u2019s leading API platform, used by more than 45 million+ developers and 500,000 organizations, including 98% of the Fortune 500. Postman is helping developers and profe",
     "link": "https://job-boards.greenhouse.io/postman/jobs/6512669003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=San Francisco, California, United States; team=Sales; created_at=2026-01-15T17:01:09-05:00",
+    "notes": "greenhouse; location=San Francisco, California, United States; team=Sales; created_at=2026-01-16T16:46:49-05:00",
     "skill_hits": [],
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.100520",
+    "captured_at": "2026-01-17T03:13:09.927768",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1401,7 +1419,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.103714",
+    "captured_at": "2026-01-17T03:13:09.930917",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1421,7 +1439,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.107489",
+    "captured_at": "2026-01-17T03:13:09.934651",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1439,7 +1457,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.110157",
+    "captured_at": "2026-01-17T03:13:09.937286",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1459,7 +1477,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.113205",
+    "captured_at": "2026-01-17T03:13:09.940372",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1482,7 +1500,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.117025",
+    "captured_at": "2026-01-17T03:13:09.944196",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1502,7 +1520,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.120104",
+    "captured_at": "2026-01-17T03:13:09.947242",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1522,7 +1540,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.123172",
+    "captured_at": "2026-01-17T03:13:09.950349",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1540,7 +1558,25 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.125840",
+    "captured_at": "2026-01-17T03:13:09.953037",
+    "segment": "midcap",
+    "source_channel": "ats_jobs",
+    "source_type": "job_posting",
+    "geo_primary": "Global",
+    "india_relevance": "Medium",
+    "org_name": "Postman",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Software Engineer (Frontend) - Ecosystems",
+    "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;Who Are We?&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Postman is the world\u2019s leading API platform, used by more than 45 million+ developers and 500,000 organizations, including 98% of the Fortune 500. Postman is helping developers and profe",
+    "link": "https://job-boards.greenhouse.io/postman/jobs/7580179003",
+    "evidence_weight": 5,
+    "notes": "greenhouse; location=San Francisco, California, United States; team=Platform Engineering; created_at=2026-01-16T16:14:10-05:00",
+    "skill_hits": [],
+    "ai_related": true
+  },
+  {
+    "captured_at": "2026-01-17T03:13:09.955862",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1560,7 +1596,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.129536",
+    "captured_at": "2026-01-17T03:13:09.959500",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1581,7 +1617,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.132762",
+    "captured_at": "2026-01-17T03:13:09.962696",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1601,7 +1637,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.136325",
+    "captured_at": "2026-01-17T03:13:09.966204",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1623,7 +1659,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.139663",
+    "captured_at": "2026-01-17T03:13:09.969504",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1643,7 +1679,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.142751",
+    "captured_at": "2026-01-17T03:13:09.972545",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1663,7 +1699,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.146116",
+    "captured_at": "2026-01-17T03:13:09.975871",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1684,7 +1720,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.149414",
+    "captured_at": "2026-01-17T03:13:09.979165",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1705,7 +1741,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.152705",
+    "captured_at": "2026-01-17T03:13:09.982429",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1726,7 +1762,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.155989",
+    "captured_at": "2026-01-17T03:13:09.985722",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1747,7 +1783,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.159270",
+    "captured_at": "2026-01-17T03:13:09.989106",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1768,7 +1804,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.162576",
+    "captured_at": "2026-01-17T03:13:09.992405",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1786,7 +1822,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.165257",
+    "captured_at": "2026-01-17T03:13:09.995047",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1804,7 +1840,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.167929",
+    "captured_at": "2026-01-17T03:13:09.997670",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1822,7 +1858,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.170588",
+    "captured_at": "2026-01-17T03:13:10.000334",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1840,7 +1876,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.174091",
+    "captured_at": "2026-01-17T03:13:10.003997",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1860,7 +1896,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.177181",
+    "captured_at": "2026-01-17T03:13:10.007272",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1880,7 +1916,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.180440",
+    "captured_at": "2026-01-17T03:13:10.010493",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1900,7 +1936,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.183572",
+    "captured_at": "2026-01-17T03:13:10.013608",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1920,7 +1956,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.254009",
+    "captured_at": "2026-01-17T03:13:10.066347",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -1936,7 +1972,7 @@
     "notes": "greenhouse fetch error"
   },
   {
-    "captured_at": "2026-01-16T03:20:13.320379",
+    "captured_at": "2026-01-17T03:13:10.183060",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -1952,7 +1988,7 @@
     "notes": "greenhouse fetch error"
   },
   {
-    "captured_at": "2026-01-16T03:20:13.578224",
+    "captured_at": "2026-01-17T03:13:10.480012",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -1968,7 +2004,7 @@
     "notes": "greenhouse fetch error"
   },
   {
-    "captured_at": "2026-01-16T03:20:13.657177",
+    "captured_at": "2026-01-17T03:13:10.577029",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1990,7 +2026,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.659635",
+    "captured_at": "2026-01-17T03:13:10.580778",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -2008,7 +2044,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.661389",
+    "captured_at": "2026-01-17T03:13:10.582922",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -2029,7 +2065,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.663296",
+    "captured_at": "2026-01-17T03:13:10.585014",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -2050,7 +2086,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.665628",
+    "captured_at": "2026-01-17T03:13:10.587364",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -2070,7 +2106,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.667017",
+    "captured_at": "2026-01-17T03:13:10.588778",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -2090,7 +2126,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.668724",
+    "captured_at": "2026-01-17T03:13:10.590668",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -2112,7 +2148,27 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-01-16T03:20:13.798120",
+    "captured_at": "2026-01-17T03:13:10.592199",
+    "segment": "midcap",
+    "source_channel": "ats_jobs",
+    "source_type": "job_posting",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "Groww",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Senior Analyst - Finance (CA Qualified)",
+    "snippet": "&lt;div&gt;&lt;strong&gt;About Groww:&lt;/strong&gt;&lt;/div&gt; &lt;div&gt;We are a passionate group of people focused on making financial services accessible to every Indian through a multi-product platform. Each day, we help millions of customers take charge of their financial journey. Customer o",
+    "link": "https://job-boards.eu.greenhouse.io/groww/jobs/4752343101",
+    "evidence_weight": 5,
+    "notes": "greenhouse; location=Bengaluru-VTP, India; team=Finance; created_at=2026-01-16T07:27:09-05:00",
+    "skill_hits": [
+      "design"
+    ],
+    "ai_related": true
+  },
+  {
+    "captured_at": "2026-01-17T03:13:10.992977",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -2128,7 +2184,7 @@
     "notes": "lever fetch error"
   },
   {
-    "captured_at": "2026-01-16T03:20:13.944185",
+    "captured_at": "2026-01-17T03:13:11.492805",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -2144,7 +2200,7 @@
     "notes": "lever fetch error"
   },
   {
-    "captured_at": "2026-01-16T03:20:14.120555",
+    "captured_at": "2026-01-17T03:13:11.932708",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -2160,7 +2216,7 @@
     "notes": "lever fetch error"
   },
   {
-    "captured_at": "2026-01-16T03:20:14.245876",
+    "captured_at": "2026-01-17T03:13:12.373190",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -2176,7 +2232,7 @@
     "notes": "lever fetch error"
   },
   {
-    "captured_at": "2026-01-16T03:20:14.374813",
+    "captured_at": "2026-01-17T03:13:12.782751",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "error",
