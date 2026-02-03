@@ -1,15 +1,15 @@
-# Daily AI Work & Skills Brief — 2026-02-02
+# Daily AI Work & Skills Brief — 2026-02-03
 
 ## 1. What is strengthening (signal-backed trends)
 Across today’s signals, there is increasing evidence that AI-related work is shifting away from isolated experimentation toward more explicit role and capability design. This is visible through repeated hiring signals and organisational commentary that frame AI not as a tool to try, but as a capability to be embedded into day-to-day work.
 
 ## 2. How Largecaps and Midcaps are diverging
-Large organisations are signalling a need to stabilise and standardise AI adoption. Recent largecap job postings (52 signals) emphasise enablement, governance, risk management, and structured rollout. AI appears here as an organisational capability.
+Large organisations are signalling a need to stabilise and standardise AI adoption. Recent largecap job postings (50 signals) emphasise enablement, governance, risk management, and structured rollout. AI appears here as an organisational capability.
 
-In contrast, mid-sized companies (118 signals) are hiring for speed and leverage. Roles are broader, expectations are less formalised, and individuals are expected to use AI directly to improve output. AI appears here as a force multiplier rather than a managed programme.
+In contrast, mid-sized companies (122 signals) are hiring for speed and leverage. Roles are broader, expectations are less formalised, and individuals are expected to use AI directly to improve output. AI appears here as a force multiplier rather than a managed programme.
 
 ## 3. Skills & role shifts to pay attention to
-The most frequently recurring skills across roles point to a clear shift in expectations. Instead of narrow technical skills, organisations are looking for combinations such as: design, python, enablement, training, evaluation.
+The most frequently recurring skills across roles point to a clear shift in expectations. Instead of narrow technical skills, organisations are looking for combinations such as: design, python, enablement, governance, training.
 
 This suggests that the market is moving away from specialised ‘AI roles’ and towards redefining existing roles to work effectively with AI — blending judgement, domain context, and tool fluency.
 
