@@ -1,6 +1,6 @@
 [
   {
-    "captured_at": "2026-02-03T04:01:18.536735",
+    "captured_at": "2026-02-04T03:59:14.984070",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -16,7 +16,7 @@
     "notes": "greenhouse fetch error"
   },
   {
-    "captured_at": "2026-02-03T04:01:18.633864",
+    "captured_at": "2026-02-04T03:59:15.088909",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -34,7 +34,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-02-03T04:01:18.637983",
+    "captured_at": "2026-02-04T03:59:15.093171",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -54,7 +54,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-02-03T04:01:18.641608",
+    "captured_at": "2026-02-04T03:59:15.096804",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -72,7 +72,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-02-03T04:01:18.644478",
+    "captured_at": "2026-02-04T03:59:15.099652",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -90,7 +90,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-02-03T04:01:18.647705",
+    "captured_at": "2026-02-04T03:59:15.102922",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -111,7 +111,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-02-03T04:01:18.650844",
+    "captured_at": "2026-02-04T03:59:15.106115",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -134,7 +134,29 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-02-03T04:01:18.653937",
+    "captured_at": "2026-02-04T03:59:15.109262",
+    "segment": "largecap",
+    "source_channel": "ats_jobs",
+    "source_type": "job_posting",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "PhonePe",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": " Employee Relations Lead - Merchant BU",
+    "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
+    "link": "https://job-boards.greenhouse.io/phonepe/jobs/7594295003",
+    "evidence_weight": 5,
+    "notes": "greenhouse; location=Bangalore; team=HR Business Partnering; created_at=2026-02-03T06:05:32-05:00",
+    "skill_hits": [
+      "design",
+      "governance",
+      "training"
+    ],
+    "ai_related": true
+  },
+  {
+    "captured_at": "2026-02-04T03:59:15.113249",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -154,29 +176,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-02-03T04:01:18.656969",
-    "segment": "largecap",
-    "source_channel": "ats_jobs",
-    "source_type": "job_posting",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "PhonePe",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "ER Manager, Merchant Business",
-    "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
-    "link": "https://job-boards.greenhouse.io/phonepe/jobs/7594295003",
-    "evidence_weight": 5,
-    "notes": "greenhouse; location=Bangalore; team=HR Business Partnering; created_at=2026-01-29T03:10:16-05:00",
-    "skill_hits": [
-      "design",
-      "governance",
-      "training"
-    ],
-    "ai_related": true
-  },
-  {
-    "captured_at": "2026-02-03T04:01:18.660793",
+    "captured_at": "2026-02-04T03:59:15.116345",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -198,7 +198,28 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-02-03T04:01:18.663973",
+    "captured_at": "2026-02-04T03:59:15.119575",
+    "segment": "largecap",
+    "source_channel": "ats_jobs",
+    "source_type": "job_posting",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "PhonePe",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "FTC, Insurance BU",
+    "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
+    "link": "https://job-boards.greenhouse.io/phonepe/jobs/7616604003",
+    "evidence_weight": 5,
+    "notes": "greenhouse; location=Bangalore; team=Accounting; created_at=2026-02-03T04:08:12-05:00",
+    "skill_hits": [
+      "power bi",
+      "python"
+    ],
+    "ai_related": true
+  },
+  {
+    "captured_at": "2026-02-04T03:59:15.122246",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -218,7 +239,27 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-02-03T04:01:18.667308",
+    "captured_at": "2026-02-04T03:59:15.125617",
+    "segment": "largecap",
+    "source_channel": "ats_jobs",
+    "source_type": "job_posting",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "PhonePe",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Lead Background Verification",
+    "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
+    "link": "https://job-boards.greenhouse.io/phonepe/jobs/7588162003",
+    "evidence_weight": 5,
+    "notes": "greenhouse; location=Bangalore; team=People Experience; created_at=2026-02-03T05:29:07-05:00",
+    "skill_hits": [
+      "governance"
+    ],
+    "ai_related": true
+  },
+  {
+    "captured_at": "2026-02-04T03:59:15.129197",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -238,7 +279,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-02-03T04:01:18.671132",
+    "captured_at": "2026-02-04T03:59:15.133556",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -259,7 +300,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-02-03T04:01:18.675039",
+    "captured_at": "2026-02-04T03:59:15.137908",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -279,7 +320,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-02-03T04:01:18.679764",
+    "captured_at": "2026-02-04T03:59:15.142670",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -297,7 +338,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-02-03T04:01:18.681916",
+    "captured_at": "2026-02-04T03:59:15.144864",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -319,7 +360,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-02-03T04:01:18.686345",
+    "captured_at": "2026-02-04T03:59:15.149337",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -339,27 +380,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-02-03T04:01:18.689061",
-    "segment": "largecap",
-    "source_channel": "ats_jobs",
-    "source_type": "job_posting",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "PhonePe",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Site Reliability Engineer (1-3yrs)",
-    "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
-    "link": "https://job-boards.greenhouse.io/phonepe/jobs/7570814003",
-    "evidence_weight": 5,
-    "notes": "greenhouse; location=Bangalore; team=Site Reliability; created_at=2026-01-29T03:10:16-05:00",
-    "skill_hits": [
-      "python"
-    ],
-    "ai_related": true
-  },
-  {
-    "captured_at": "2026-02-03T04:01:18.691785",
+    "captured_at": "2026-02-04T03:59:15.152129",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -377,7 +398,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-02-03T04:01:18.694283",
+    "captured_at": "2026-02-04T03:59:15.154675",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -398,7 +419,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-02-03T04:01:18.698428",
+    "captured_at": "2026-02-04T03:59:15.158863",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -419,7 +440,49 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-02-03T04:01:18.702676",
+    "captured_at": "2026-02-04T03:59:15.163489",
+    "segment": "largecap",
+    "source_channel": "ats_jobs",
+    "source_type": "job_posting",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "PhonePe",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Site Reliability Engineer 3",
+    "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
+    "link": "https://job-boards.greenhouse.io/phonepe/jobs/7018596003",
+    "evidence_weight": 5,
+    "notes": "greenhouse; location=Bangalore; team=Site Reliability; created_at=2026-02-03T04:34:26-05:00",
+    "skill_hits": [
+      "design",
+      "evaluation",
+      "python"
+    ],
+    "ai_related": true
+  },
+  {
+    "captured_at": "2026-02-04T03:59:15.168966",
+    "segment": "largecap",
+    "source_channel": "ats_jobs",
+    "source_type": "job_posting",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "PhonePe",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Site Reliability Engineer 3",
+    "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
+    "link": "https://job-boards.greenhouse.io/phonepe/jobs/6671983003",
+    "evidence_weight": 5,
+    "notes": "greenhouse; location=Bangalore; team=Site Reliability; created_at=2026-02-03T04:31:43-05:00",
+    "skill_hits": [
+      "python"
+    ],
+    "ai_related": true
+  },
+  {
+    "captured_at": "2026-02-04T03:59:15.171732",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -440,7 +503,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-02-03T04:01:18.705421",
+    "captured_at": "2026-02-04T03:59:15.174512",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -453,7 +516,7 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7611156003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Pune; team=Site Reliability; created_at=2026-02-02T07:01:18-05:00",
+    "notes": "greenhouse; location=Pune; team=Site Reliability; created_at=2026-02-03T05:03:21-05:00",
     "skill_hits": [
       "design",
       "python"
@@ -461,7 +524,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-02-03T04:01:18.709399",
+    "captured_at": "2026-02-04T03:59:15.178478",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -481,28 +544,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-02-03T04:01:18.712841",
-    "segment": "largecap",
-    "source_channel": "ats_jobs",
-    "source_type": "job_posting",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "PhonePe",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Site Reliability Engineer 6 to 10 yrs - Big Data - DWH",
-    "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
-    "link": "https://job-boards.greenhouse.io/phonepe/jobs/6660908003",
-    "evidence_weight": 5,
-    "notes": "greenhouse; location=Bangalore; team=Site Reliability; created_at=2026-01-29T03:10:16-05:00",
-    "skill_hits": [
-      "design",
-      "python"
-    ],
-    "ai_related": true
-  },
-  {
-    "captured_at": "2026-02-03T04:01:18.716277",
+    "captured_at": "2026-02-04T03:59:15.181961",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -523,7 +565,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-02-03T04:01:18.719027",
+    "captured_at": "2026-02-04T03:59:15.184757",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -545,7 +587,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-02-03T04:01:18.724443",
+    "captured_at": "2026-02-04T03:59:15.190149",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -566,7 +608,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-02-03T04:01:18.727882",
+    "captured_at": "2026-02-04T03:59:15.193629",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -586,7 +628,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-02-03T04:01:18.730865",
+    "captured_at": "2026-02-04T03:59:15.196651",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -607,7 +649,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-02-03T04:01:18.735065",
+    "captured_at": "2026-02-04T03:59:15.200893",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -627,7 +669,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-02-03T04:01:18.738147",
+    "captured_at": "2026-02-04T03:59:15.203961",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -647,7 +689,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-02-03T04:01:18.741121",
+    "captured_at": "2026-02-04T03:59:15.206979",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -667,7 +709,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-02-03T04:01:18.744609",
+    "captured_at": "2026-02-04T03:59:15.210504",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -687,7 +729,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-02-03T04:01:18.748385",
+    "captured_at": "2026-02-04T03:59:15.214352",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -707,7 +749,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-02-03T04:01:18.751876",
+    "captured_at": "2026-02-04T03:59:15.217890",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -727,7 +769,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-02-03T04:01:18.755348",
+    "captured_at": "2026-02-04T03:59:15.222234",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -747,7 +789,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-02-03T04:01:18.758820",
+    "captured_at": "2026-02-04T03:59:15.225970",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -767,7 +809,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-02-03T04:01:18.762325",
+    "captured_at": "2026-02-04T03:59:15.229432",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -787,7 +829,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-02-03T04:01:18.765894",
+    "captured_at": "2026-02-04T03:59:15.233135",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -805,7 +847,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-02-03T04:01:18.769724",
+    "captured_at": "2026-02-04T03:59:15.237326",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -823,7 +865,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-02-03T04:01:18.773632",
+    "captured_at": "2026-02-04T03:59:15.241532",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -841,7 +883,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-02-03T04:01:18.852917",
+    "captured_at": "2026-02-04T03:59:15.479008",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -857,7 +899,7 @@
     "notes": "greenhouse fetch error"
   },
   {
-    "captured_at": "2026-02-03T04:01:19.593912",
+    "captured_at": "2026-02-04T03:59:15.567000",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -873,7 +915,7 @@
     "notes": "greenhouse fetch error"
   },
   {
-    "captured_at": "2026-02-03T04:01:19.742615",
+    "captured_at": "2026-02-04T03:59:15.644052",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -889,7 +931,7 @@
     "notes": "greenhouse fetch error"
   },
   {
-    "captured_at": "2026-02-03T04:01:20.044154",
+    "captured_at": "2026-02-04T03:59:15.938647",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -905,7 +947,7 @@
     "notes": "lever fetch error"
   },
   {
-    "captured_at": "2026-02-03T04:01:23.322094",
+    "captured_at": "2026-02-04T03:59:16.574598",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -921,7 +963,7 @@
     "notes": "lever fetch error"
   },
   {
-    "captured_at": "2026-02-03T04:01:23.623706",
+    "captured_at": "2026-02-04T03:59:16.855783",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -937,7 +979,7 @@
     "notes": "lever fetch error"
   },
   {
-    "captured_at": "2026-02-03T04:01:23.891458",
+    "captured_at": "2026-02-04T03:59:20.134910",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -953,7 +995,7 @@
     "notes": "lever fetch error"
   },
   {
-    "captured_at": "2026-02-03T04:01:24.157023",
+    "captured_at": "2026-02-04T03:59:20.565226",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "error",
