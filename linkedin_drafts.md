@@ -1,4 +1,4 @@
-# LinkedIn Drafts — Week of 2026-01-30
+# LinkedIn Drafts — Week of 2026-02-06
 
 ## Draft 1 — CXO lens (decision-grade)
 **Hook:** Most AI strategies are still tool strategies. That’s the wrong unit of change.
@@ -6,9 +6,9 @@
 What’s emerging more clearly is this: AI adoption is becoming a *work design* problem.
 
 Two patterns are diverging:
-Large organisations (51 signals) are converging on stability and risk management — building enablement programs, governance layers, and controlled rollouts.
+Large organisations (49 signals) are converging on stability and risk management — building enablement programs, governance layers, and controlled rollouts.
 
-Mid-sized organisations (112 signals) are prioritising speed and leverage, expecting individuals to integrate AI directly into their work with minimal formal structure.
+Mid-sized organisations (126 signals) are prioritising speed and leverage, expecting individuals to integrate AI directly into their work with minimal formal structure.
 
 And a repeatable whitespace shows up across both:
 Several gaps are becoming visible between intent and execution:
@@ -63,7 +63,7 @@ A lot of organisations are optimising for training completion and tool usage.
 But the real question is: are decisions getting better?
 
 **What people are saying:** ‘We need more AI tools / pilots to move faster.’
-**What’s actually happening (signals):** Signals point more strongly to enablement + role change + governance than tool novelty (this week: largecap=51, midcap=112; trend_snapshot=2026-W04). Hiring signals increasingly expect AI-in-role rather than ‘AI team’ add-ons.
+**What’s actually happening (signals):** Signals point more strongly to enablement + role change + governance than tool novelty (this week: largecap=49, midcap=126; trend_snapshot=2026-W05). Hiring signals increasingly expect AI-in-role rather than ‘AI team’ add-ons.
 **Why this matters (India):** In India, tool adoption outpaces role clarity. Without explicit accountability, you risk inconsistent outputs and manager confusion—especially in large, distributed teams.
 **Safer move for leaders:** Start with role redesign + manager guidance for 2–3 workflows, then scale tools and standards behind that.
 
