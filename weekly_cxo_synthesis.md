@@ -1,4 +1,4 @@
-# Weekly AI Work & Skills Synthesis — Week of 2026-01-30
+# Weekly AI Work & Skills Synthesis — Week of 2026-02-06
 
 ## 1. What materially changed this week
 This week marked a shift from exploratory AI conversations toward more explicit discussions around how work, roles, and accountability need to change as AI becomes embedded in daily operations.
@@ -7,14 +7,14 @@ This week marked a shift from exploratory AI conversations toward more explicit 
 It is now clearer that AI adoption is not bottlenecked by technology availability, but by organisational readiness — particularly role design, decision rights, and manager capability.
 
 ## 3. Largecap vs Midcap: how strategies are diverging
-Large organisations (51 signals) are converging on stability and risk management — building enablement programs, governance layers, and controlled rollouts.
+Large organisations (49 signals) are converging on stability and risk management — building enablement programs, governance layers, and controlled rollouts.
 
-Mid-sized organisations (112 signals) are prioritising speed and leverage, expecting individuals to integrate AI directly into their work with minimal formal structure.
+Mid-sized organisations (126 signals) are prioritising speed and leverage, expecting individuals to integrate AI directly into their work with minimal formal structure.
 
 ## 4. Skills & roles leaders should start preparing for
 Leaders should begin preparing for hybrid roles that combine domain expertise, judgement, and AI fluency rather than standalone AI specialists.
 
-Recurring skill signals this week include: design, python, governance, enablement, training, evaluation.
+Recurring skill signals this week include: design, enablement, python, training, governance, evaluation.
 
 ## 5. What decisions should NOT be rushed yet
 - Fully autonomous, agent-driven decision systems
