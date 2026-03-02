@@ -1,6 +1,81 @@
 [
   {
-    "captured_at": "2026-03-01T03:59:33.370658",
+    "captured_at": "2026-03-02T03:40:28.328683",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Nothing Phone 4a and 4a Pro launching on 5 March: Design, expected specs and more",
+    "snippet": "Nothing is set to launch its Phone 4 (a) series on 5 March. The launch event is also likely to see the unveling of new Headphone (a) with bold colors and long battery life. The Phone 4a will likely include a Snapdragon 7s Gen 4 processor, a triple camera setup along with a 6.78 inch OLED display.",
+    "link": "https://www.livemint.com/technology/gadgets/nothing-phone-4a-and-4a-pro-launching-on-5-march-design-expected-specs-and-more-11772366311005.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-03-02T03:40:28.328698",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "OpenAI defends rival Anthropic against Pentagon ban, Sam Altman calls it \u2018extremely scary precedent\u2019",
+    "snippet": "OpenAI CEO Sam Altman expressed concerns over the US government's ban on rival Anthropic, labeling it a scary precedent. Despite OpenAI's past tensions with Anthropic, Altman defended the rival AI lab during a recent AMA session.",
+    "link": "https://www.livemint.com/technology/tech-news/openai-defends-rival-anthropic-against-pentagon-ban-sam-altman-calls-it-extremely-scary-precedent-11772358073748.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-03-02T03:40:28.328704",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Did Grok predict US attack on Iran? Elon Musk claims victory for xAI after viral test",
+    "snippet": "&amp;nbsp;Elon Musk's Grok chatbot uniquely predicted the date of the US strike on Iran as 28 February 2026, even prior to the attack. The prediction was made by the AI chatbot in a methodological test on 25 February.",
+    "link": "https://www.livemint.com/technology/tech-news/did-grok-predict-us-attack-on-iran-elon-musk-claims-victory-for-xai-after-viral-test-11772358748837.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-03-02T03:40:28.328711",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Anthropic's Claude AI hits number 1 spot on App Store as users boycott OpenAI's new Pentagon deal",
+    "snippet": "Anthropic's Claude has jumped to the number 1 spot on the Apple App Store hours after being banned by the US government. Meanwhile, OpenAI's ChatGPT is once again facing calls for boycott and subscription cancellations after its deal with the US government.&amp;nbsp;",
+    "link": "https://www.livemint.com/technology/tech-news/anthropics-claude-hits-number-1-spot-on-app-store-as-users-boycott-openais-new-pentagon-deal-donald-trump-11772336493386.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-03-02T03:40:28.328717",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Trump banned Anthropic \u2014 hours later, US military used its Claude AI in Iran strikes: Report",
+    "snippet": "Despite announcing a phase-out, the US used Anthropic's AI during an airstrike on Iran. The technology supported intelligence and target identification, underscoring its significance in military operations, including previous use in capturing Nicol\u00e1s Maduro.",
+    "link": "https://www.livemint.com/technology/tech-news/trump-banned-anthropic-hours-later-us-military-used-its-ai-in-iran-strikes-report-11772338406852.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-03-02T03:40:28.328723",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -15,7 +90,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-03-01T03:59:33.370669",
+    "captured_at": "2026-03-02T03:40:28.328736",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -30,7 +105,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-03-01T03:59:33.370673",
+    "captured_at": "2026-03-02T03:40:28.328744",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -45,7 +120,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-03-01T03:59:33.370676",
+    "captured_at": "2026-03-02T03:40:28.328751",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -60,7 +135,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-03-01T03:59:33.370678",
+    "captured_at": "2026-03-02T03:40:28.328758",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -75,7 +150,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-03-01T03:59:33.370681",
+    "captured_at": "2026-03-02T03:40:28.757161",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -83,14 +158,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Govts SIM binding directive on app-based messaging platforms ultra vires: Tech industry body BIF",
-    "snippet": "Govt's SIM binding directive on app-based messaging platforms 'ultra vires': Tech industry body BIF",
-    "link": "https://www.livemint.com/technology/govts-sim-binding-directive-on-app-based-messaging-platforms-ultra-vires-tech-industry-body-bif-11772192037328.html",
+    "title": "\u2018Grok hasn\u2019t driven anyone to suicide, ChatGPT has\u2019: Elon Musk in OpenAI lawsuit deposition",
+    "snippet": "",
+    "link": "https://indianexpress.com/article/technology/tech-news-technology/grok-chatgpt-suicide-elon-musk-deposition-openai-10559901/",
     "evidence_weight": 3,
-    "notes": "Mint - Tech"
+    "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-03-01T03:59:33.370688",
+    "captured_at": "2026-03-02T03:40:28.757171",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -98,14 +173,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Smartphone market set for biggest-ever decline in 2026 on memory price surge, IDC says",
-    "snippet": "IDC-SMARTPHONE/ (PIX):Smartphone market set for biggest-ever decline in 2026 on memory price surge, IDC says",
-    "link": "https://www.livemint.com/technology/smartphone-market-set-for-biggest-ever-decline-in-2026-on-memory-price-surge-idc-says-11772132768291.html",
+    "title": "Everything Xiaomi announced ahead of MWC 2026, including Leica edition phone, photography kits, and more",
+    "snippet": "",
+    "link": "https://indianexpress.com/article/technology/mobile-tabs/xiaomi-17-leica-edition-phone-everything-announced-mwc-2026-10559088/",
     "evidence_weight": 3,
-    "notes": "Mint - Tech"
+    "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-03-01T03:59:33.370692",
+    "captured_at": "2026-03-02T03:40:28.757175",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -113,14 +188,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Tim Cook announces Apple product launches starting March 2; new iPhone, iPad, and Mac updates anticipated",
-    "snippet": "Apple is expected to spread its announcements across several days, building toward a media event likely on Wednesday, March 4.",
-    "link": "https://www.livemint.com/technology/tech-news/tim-cook-announces-apple-product-launches-starting-march-2-new-iphone-ipad-and-mac-updates-anticipated-11772125932408.html",
+    "title": "New York sues Counter-Strike game developer saying \u2018loot boxes\u2019 promote gambling",
+    "snippet": "",
+    "link": "https://indianexpress.com/article/technology/gaming/new-york-sues-counter-strike-game-developer-saying-loot-boxes-promote-gambling-10558749/",
     "evidence_weight": 3,
-    "notes": "Mint - Tech"
+    "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-03-01T03:59:33.370696",
+    "captured_at": "2026-03-02T03:40:28.757178",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -128,14 +203,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Delhi govt submits proposal to Centre on setting up two AI centres of excellence",
-    "snippet": "Delhi govt submits proposal to Centre on setting up two AI centres of excellence",
-    "link": "https://www.livemint.com/technology/delhi-govt-submits-proposal-to-centre-on-setting-up-two-ai-centres-of-excellence-11772126328003.html",
+    "title": "Burger King is testing AI headsets that will know if employees say \u2018welcome\u2019 or \u2018thank you\u2019",
+    "snippet": "",
+    "link": "https://indianexpress.com/article/technology/tech-news-technology/burger-king-is-testing-ai-headsets-that-will-know-if-employees-say-welcome-or-thank-you-10558736/",
     "evidence_weight": 3,
-    "notes": "Mint - Tech"
+    "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-03-01T03:59:33.370699",
+    "captured_at": "2026-03-02T03:40:28.757181",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -143,14 +218,29 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Guardrails off for Anthropic: Firm tweaks AI safety policy amid heightened competition, lack of regulation\u2014what changes?",
-    "snippet": "Once focused on the proper development of AI technology with safety in mind, Anthropic is now weakening its foundational safety principle amid growing competition and lack of government regulation.",
-    "link": "https://www.livemint.com/technology/tech-news/guardrails-off-for-anthropic-firm-tweaks-ai-safety-policy-amid-heightened-competition-lack-of-regulation-what-changes-11772071493999.html",
+    "title": "OpenAI details layered protections in US defense department pact",
+    "snippet": "",
+    "link": "https://indianexpress.com/article/technology/artificial-intelligence/openai-details-layered-protections-in-us-defense-department-pact-10558725/",
     "evidence_weight": 3,
-    "notes": "Mint - Tech"
+    "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-03-01T03:59:33.938863",
+    "captured_at": "2026-03-02T03:40:28.757184",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Pentagon standoff is a decisive moment for how AI will be used in war",
+    "snippet": "",
+    "link": "https://indianexpress.com/article/technology/artificial-intelligence/pentagon-standoff-is-a-decisive-moment-for-how-ai-will-be-used-in-war-10558716/",
+    "evidence_weight": 3,
+    "notes": "Indian Express - Tech"
+  },
+  {
+    "captured_at": "2026-03-02T03:40:28.757187",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -165,7 +255,7 @@
     "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-03-01T03:59:33.938871",
+    "captured_at": "2026-03-02T03:40:28.757190",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -180,7 +270,7 @@
     "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-03-01T03:59:33.938874",
+    "captured_at": "2026-03-02T03:40:28.757193",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -195,7 +285,7 @@
     "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-03-01T03:59:33.938877",
+    "captured_at": "2026-03-02T03:40:28.757200",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -210,97 +300,7 @@
     "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-03-01T03:59:33.938880",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Vijay Sales Holi Sale 2026: Get 65 per cent off ACs, smartphones from Rs 6,399, and massive bank discounts",
-    "snippet": "",
-    "link": "https://indianexpress.com/article/technology/tech-news-technology/vijay-sales-holi-sale-2026-offers-discounts-cards-10557207/",
-    "evidence_weight": 3,
-    "notes": "Indian Express - Tech"
-  },
-  {
-    "captured_at": "2026-03-01T03:59:33.938883",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "ChatGPT records strongest subscriber growth as number of weekly users nears a billion",
-    "snippet": "",
-    "link": "https://indianexpress.com/article/technology/tech-news-technology/chatgpt-records-strongest-subscriber-growth-as-number-of-weekly-users-nears-a-billion-10557308/",
-    "evidence_weight": 3,
-    "notes": "Indian Express - Tech"
-  },
-  {
-    "captured_at": "2026-03-01T03:59:33.938885",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Zoom unveils Virtual Agent 3.0 for customer support with AI capabilities to avoid repeat contacts",
-    "snippet": "",
-    "link": "https://indianexpress.com/article/technology/tech-news-technology/zoom-new-virtual-agent-customer-support-ai-10557274/",
-    "evidence_weight": 3,
-    "notes": "Indian Express - Tech"
-  },
-  {
-    "captured_at": "2026-03-01T03:59:33.938888",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Vivo X200T review: When performance, cameras, and battery finally agree",
-    "snippet": "",
-    "link": "https://indianexpress.com/article/technology/tech-reviews/vivo-x200t-review-10557070/",
-    "evidence_weight": 3,
-    "notes": "Indian Express - Tech"
-  },
-  {
-    "captured_at": "2026-03-01T03:59:33.938891",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "I swapped my Apple Watch for the Polar Loop for 3 weeks: Here is why the \u201cBoost Score\u201d changed my routine",
-    "snippet": "",
-    "link": "https://indianexpress.com/article/technology/tech-reviews/polar-loop-review-fitness-band-price-features-battery-life-10557066/",
-    "evidence_weight": 3,
-    "notes": "Indian Express - Tech"
-  },
-  {
-    "captured_at": "2026-03-01T03:59:33.938898",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Google finally ends iPhone envy: Here is how to turn your Android photos into custom stickers instantly",
-    "snippet": "",
-    "link": "https://indianexpress.com/article/technology/tech-news-technology/google-photos-android-sticker-feature-how-to-use-10557040/",
-    "evidence_weight": 3,
-    "notes": "Indian Express - Tech"
-  },
-  {
-    "captured_at": "2026-03-01T03:59:34.105687",
+    "captured_at": "2026-03-02T03:40:28.826881",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -308,14 +308,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "SemicON: Modi launches Micron facility in Gujarat",
-    "snippet": "The semiconductor assembly, testing, marking and packaging facility in the industrial hub of Sanand is the first of 10 projects under the India Semiconductor Mission (ISM) that has begun commercial production and shipment. It converts advanced DRAM (dynamic random access memory) and NAND (flash memo",
-    "link": "https://economictimes.indiatimes.com/tech/technology/semicon-modi-launches-micron-facility-in-gujarat/articleshow/128893995.cms",
+    "title": "South Korea's Lee to hold summit with Singapore's Wong on AI, tech cooperation",
+    "snippet": "The \u2060leaders are expected to announce the \u200bstart of negotiations to upgrade \u200btheir existing free trade agreement, said South \u200bKorea's presidential Blue House. The countries are also expected to sign five memorandums of understanding (MOUs), covering \u200careas such as AI, small modular reactors (SMRs), ",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/south-koreas-lee-to-hold-summit-with-singapores-wong-on-ai-tech-cooperation/articleshow/128934365.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-03-01T03:59:34.105695",
+    "captured_at": "2026-03-02T03:40:28.826889",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -323,14 +323,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "India's role in semiconductor supply chain 'essential' as others seek to dominate sector: US envoy",
-    "snippet": "US ambassador to India Sergio Gor on Saturday said as other countries in the neighbourhood seek to dominate the production of \"legacy chips\", India offers a reliable alternative and has an important role in the global semiconductor supply chain.",
-    "link": "https://economictimes.indiatimes.com/tech/technology/indias-role-in-semiconductor-supply-chain-essential-as-others-seek-to-dominate-sector-us-envoy/articleshow/128892361.cms",
+    "title": "How talks between Anthropic and the Defence department fell apart",
+    "snippet": "Days before a Friday. deadline, Emil Michael pushed to finalise a $200 million AI contract between the Pentagon and Anthropic, but disputes over lawful surveillance and guardrails stalled negotiations. Defence Secretary Pete Hegseth labelled Anthropic a security risk. OpenAI, led by Sam Altman, quic",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/how-talks-between-anthropic-and-the-defence-department-fell-apart/articleshow/128934197.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-03-01T03:59:34.105698",
+    "captured_at": "2026-03-02T03:40:28.826893",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -338,14 +338,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Fino Payments Bank used shell cos, payment aggregators to move illicit funds from online money gaming: Sources",
-    "snippet": "GST authorities have arrested its managing director and CEO Rishi Gupta for violating the law related to the Goods and Services Tax (GST), Fino Payments Bank had said on Friday. Sources in the know of the case said that the initial investigation by the Directorate General of GST Intelligence (DGGI) ",
-    "link": "https://economictimes.indiatimes.com/tech/technology/fino-payments-bank-used-shell-cos-payment-aggregators-to-move-illicit-funds-from-online-money-gaming-report/articleshow/128891045.cms",
+    "title": "Australia says it may go after app stores, search engines in AI age crackdown",
+    "snippet": "Australia in December became the first country to ban social media for teenagers, citing mental health concerns, prompting an outpouring of world leaders saying they would do the same. The country now says it is spearheading a similar crackdown on \u200cAI by putting age \u2060restrictions on the \u2060content peo",
+    "link": "https://economictimes.indiatimes.com/tech/technology/australia-says-it-may-go-after-app-stores-search-engines-in-ai-age-crackdown/articleshow/128933307.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-03-01T03:59:34.105701",
+    "captured_at": "2026-03-02T03:40:28.826896",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -353,14 +353,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Fino Payments Bank CEO arrest rattles fintech industry; Payments Council writes to FM",
-    "snippet": "The Payments Council of India (PCI), which represents digital payments companies, has written to finance minister Nirmala Sitharaman seeking urgent intervention and calling for greater proportionality in enforcement action. Several industry leaders, including Navin Surya, founder-chairman of the Fin",
-    "link": "https://economictimes.indiatimes.com/tech/technology/fino-payments-bank-ceo-arrest-rattles-fintech-industry-payments-council-writes-to-fm/articleshow/128889527.cms",
+    "title": "Iran crisis hits India\u2019s economy; PE firms dial up SaaS deals",
+    "snippet": "The ongoing conflict in the Middle East is likely to significantly impact Indian industries. This and more in today\u2019s ETtech Morning Dispatch.",
+    "link": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/iran-crisis-india-impact-pe-firms-dial-up-saas-deals/articleshow/128932484.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-03-01T03:59:34.105704",
+    "captured_at": "2026-03-02T03:40:28.826899",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -368,14 +368,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Micron to produce hundreds of millions of AI-ready chips annually at new Sanand facility in Gujarat:CEO",
-    "snippet": "Speaking at the inauguration of the plant, Mehrotra emphasised that \"this facility will convert advanced DRAM and NAND wafers from Micron's global network into multiple hundreds of millions of chips per year that go into our finished products for our global customers.",
-    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/micron-to-produce-hundreds-of-millions-of-ai-ready-chips-annually-at-new-sanand-facility-in-gujaratceo/articleshow/128885152.cms",
+    "title": "Iran-Israel war: Companies could see rise in digital threats, say experts",
+    "snippet": "Iran-Israel war: Cybersecurity experts and consultants have issued advisories to Indian corporates warning that hackers could attempt to attack critical infrastructure including power grids, telecommunication networks, banking ATMs, as observed during Operation Sindoor.",
+    "link": "https://economictimes.indiatimes.com/tech/information-tech/iran-israel-war-companies-could-see-rise-in-digital-threats-say-experts/articleshow/128922838.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-03-01T03:59:34.105707",
+    "captured_at": "2026-03-02T03:40:28.826902",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -383,14 +383,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "PM Modi inaugurates Micron's Semiconductor ATMP facility in Gujarat",
-    "snippet": "Prime Minister Narendra Modi on Saturday inaugurated the Semiconductor Assembly, Test and Packaging (ATMP) facility of Micron Semiconductor Technology India Private Limited in Sanand.",
-    "link": "https://economictimes.indiatimes.com/tech/technology/pm-modi-inaugurates-microns-semiconductor-atmp-facility-in-gujarat/articleshow/128884241.cms",
+    "title": "Iran-Israel war: Electronics exports of $4.5 billion at risk",
+    "snippet": "Iran-Israel war: The UAE was the second-largest buyer of Indian electronic products, according to data from the commerce and industry ministry. In the first nine months (April-December) of FY26, the UAE was the destination for $4.1 billion of electronics exports.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/iran-israel-war-electronics-exports-of-4-5-billion-at-risk/articleshow/128924247.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-03-01T03:59:34.105710",
+    "captured_at": "2026-03-02T03:40:28.826905",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -398,14 +398,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "PETA India writes to Galgotias University, seeks robo dog donation to replace circus animals",
-    "snippet": "The robotic dog in question was recently displayed at the India AI Impact Summit 2026, where the university courted controversy after trying to pass off the Chinese robot as its own development. The university was asked to vacate the event premises and remove its stall.",
-    "link": "https://economictimes.indiatimes.com/tech/technology/peta-india-writes-to-galgotias-university-seeks-robo-dog-donation-to-replace-circus-animals/articleshow/128882591.cms",
+    "title": "Iran-Israel war: AI-hit tech companies fear slowdown in spends",
+    "snippet": "Iran-Israel war: The Strait of Hormuz, through which a third of the world's seaborne oil passes, was temporarily closed following the escalation, rattling global energy markets and threatening a price rise. With approximately 60% of India's oil imports sourced from the Middle East, higher crude pric",
+    "link": "https://economictimes.indiatimes.com/tech/information-tech/iran-israel-war-ai-hit-tech-companies-fear-slowdown-in-spends/articleshow/128924211.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-03-01T03:59:34.105712",
+    "captured_at": "2026-03-02T03:40:28.826908",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -413,14 +413,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Canada minister to meet with OpenAI's Altman to discuss safety measures after shooting",
-    "snippet": "Canada's \u200bminister in \u200bcharge of artificial \u200bintelligence said on Friday that he will meet with \u200cOpenAI Chief \u2060Executive \u2060Sam Altman next \u200bweek to discuss how the ChatGPT \u200bmaker plans to boost safety protocols in \u200bthe wake \u2060of a \u200crecent school \u200bshooting \u200bin the Canadian \u2060province of British Columbia",
-    "link": "https://economictimes.indiatimes.com/tech/technology/canada-minister-to-meet-with-openais-altman-to-discuss-safety-measures-after-shooting/articleshow/128882019.cms",
+    "title": "Time for India to 'learn to run' in semicon journey: Ashwini Vaishnaw",
+    "snippet": "Vaishnaw laid out a roadmap for ISM 2.0 (India Semiconductor Mission) wherein he said that it would be the 'reverse' of ISM 1.0 and would focus on strengthening the design ecosystem, bringing the materials ecosystem to the forefront and further expanding the talent pool to address gaps in the indust",
+    "link": "https://economictimes.indiatimes.com/tech/technology/time-for-india-to-learn-to-run-in-semicon-journey-ashwini-vaishnaw/articleshow/128923390.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-03-01T03:59:34.105715",
+    "captured_at": "2026-03-02T03:40:28.826911",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -428,14 +428,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "AI cannot replace core functions in legal profession, trained mind will prevail: Justice Viswanathan",
-    "snippet": "Justice Viswanathan said there had been instances in the court when lawyers relied on AI-generated citations that have turned out to be fictitious. He advised that artificial intelligence should be used like any other professional tool - with skill, caution, and with one's own mind firmly in charge.",
-    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-cannot-replace-core-functions-in-legal-profession-trained-mind-will-prevail-justice-viswanathan/articleshow/128881091.cms",
+    "title": "PE firms up SaaS buyouts as AI resets valuations &amp; biz models",
+    "snippet": "Over the past year, multiple mid-to-late stage SaaS companies have seen majority stake purchases by private equity or have consolidated internally in what is a shift from the typical venture-led growth rounds from a few years ago.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/pe-firms-up-saas-buyouts-as-ai-resets-valuations-biz-models/articleshow/128922439.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-03-01T03:59:34.105718",
+    "captured_at": "2026-03-02T03:40:28.826913",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -443,14 +443,44 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Jack Dorsey's blunt AI warning sharpens debate over jobs and profits",
-    "snippet": "Block \u200cshares rose sharply on \u2060Friday, underscoring \u2060how markets are increasingly rewarding companies that present AI not as an experiment but as a driver of structural change. Dorsey also delivered a blunt warning to peers: most companies are behind the AI curve and will \u200breach the same conclusion ",
-    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/dorseys-blunt-ai-warning-sharpens-debate-over-jobs-and-profits/articleshow/128880883.cms",
+    "title": "Govt support can help India up its eGame: Krafton India CEO",
+    "snippet": "South Korean video game firm Krafton is known for developing Battlegrounds Mobile India, which has more than 100 million registered users in the country. The Korean exchange-listed company reported annual revenue of approximately $2.56 billion in fiscal year 2025.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/govt-support-can-help-india-up-its-egame-krafton-india-ceo/articleshow/128922341.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-03-01T03:59:34.412879",
+    "captured_at": "2026-03-02T03:40:29.241234",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "Global",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Military briefing: Iran\u2019s new retaliation strategy",
+    "snippet": "Islamic republic launches constant barrages at Israel while targeting civilian sites around the Gulf",
+    "link": "https://www.ft.com/content/f2eae858-a5a4-4c49-9526-e1757a2d55e2",
+    "evidence_weight": 3,
+    "notes": "FT - Technology"
+  },
+  {
+    "captured_at": "2026-03-02T03:40:29.241245",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "Global",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Survivor\u2019s guilt, overwork and AI: inside Amazon\u2019s mass lay-offs",
+    "snippet": "Drive for \u2018leaner\u2019 operations piles pressure on employees but could be a playbook for rivals",
+    "link": "https://www.ft.com/content/433f41f2-bf6d-4bdf-a561-50ab516bc62d",
+    "evidence_weight": 3,
+    "notes": "FT - Technology"
+  },
+  {
+    "captured_at": "2026-03-02T03:40:29.241249",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -465,7 +495,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-03-01T03:59:34.412889",
+    "captured_at": "2026-03-02T03:40:29.241252",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -480,7 +510,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-03-01T03:59:34.412892",
+    "captured_at": "2026-03-02T03:40:29.241255",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -495,7 +525,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-03-01T03:59:34.412896",
+    "captured_at": "2026-03-02T03:40:29.241258",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -510,7 +540,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-03-01T03:59:34.412899",
+    "captured_at": "2026-03-02T03:40:29.241261",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -525,7 +555,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-03-01T03:59:34.412902",
+    "captured_at": "2026-03-02T03:40:29.241264",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -540,7 +570,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-03-01T03:59:34.412904",
+    "captured_at": "2026-03-02T03:40:29.241267",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -555,7 +585,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-03-01T03:59:34.412907",
+    "captured_at": "2026-03-02T03:40:29.241270",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -570,37 +600,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-03-01T03:59:34.412909",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "US court blocks landmark law limiting social media use for children",
-    "snippet": "Judge rules Virginia does not have right to restrict \u2018minors\u2019 access to constitutionally protected speech\u2019",
-    "link": "https://www.ft.com/content/d8267b9e-109b-4e00-9e82-159a9f5b7cdd",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-03-01T03:59:34.412912",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Paramount clinches Warner Bros deal after Netflix walks away",
-    "snippet": "Streaming company\u2019s decision ends months-long battle to buy parent of CNN, HBO and franchises such as Harry Potter",
-    "link": "https://www.ft.com/content/fdb3478b-a124-403e-ab39-0d0b33493294",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-03-01T03:59:34.573294",
+    "captured_at": "2026-03-02T03:40:29.377524",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -615,7 +615,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-03-01T03:59:34.573302",
+    "captured_at": "2026-03-02T03:40:29.377535",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -630,7 +630,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-03-01T03:59:34.573306",
+    "captured_at": "2026-03-02T03:40:29.377538",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -645,7 +645,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-03-01T03:59:34.573309",
+    "captured_at": "2026-03-02T03:40:29.377542",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -660,7 +660,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-03-01T03:59:34.573312",
+    "captured_at": "2026-03-02T03:40:29.377545",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -675,7 +675,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-03-01T03:59:34.573315",
+    "captured_at": "2026-03-02T03:40:29.377548",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -690,7 +690,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-03-01T03:59:34.573318",
+    "captured_at": "2026-03-02T03:40:29.377551",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -705,7 +705,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-03-01T03:59:34.573320",
+    "captured_at": "2026-03-02T03:40:29.377554",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -720,7 +720,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-03-01T03:59:34.573323",
+    "captured_at": "2026-03-02T03:40:29.377557",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -735,7 +735,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-03-01T03:59:34.573326",
+    "captured_at": "2026-03-02T03:40:29.377560",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
