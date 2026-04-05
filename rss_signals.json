@@ -1,6 +1,66 @@
 [
   {
-    "captured_at": "2026-04-04T03:44:54.294971",
+    "captured_at": "2026-04-05T04:13:20.930875",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Apple 50th anniversary sale: iPhone 17 drops below  \u20b950,000, iPhone 17 Pro Max available at  \u20b91,02,900",
+    "snippet": "Apple celebrates 50 years with discounts on iPhones including the iPhone 17 and Pro Max. Customers can benefit from trade-in bonuses and cashback offers",
+    "link": "https://www.livemint.com/technology/gadgets/apple-50th-anniversary-sale-iphone-17-drops-below-rs-50-000-iphone-17-pro-max-available-at-rs-102900-11775295923758.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-04-05T04:13:20.930887",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Claude AI can now search your Outlook emails and Teams chats for free: Here's how it works",
+    "snippet": "Anthropic has enabled all Claude users to access the Microsoft 365 connector. The feature was previously available only to the company's Team and Enterprise users. With the new integration users can search and analyze data from Microsoft apps without manual uploading the files.",
+    "link": "https://www.livemint.com/technology/tech-news/claude-ai-can-now-search-your-outlook-emails-and-teams-chats-for-free-heres-how-it-works-11775288608129.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-04-05T04:13:20.930890",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Mark Zuckerberg's Meta builds new AI hardware divison, hires hires veteran engineer for mysterious AI gadget: Report",
+    "snippet": "Meta is assembling a hardware team under its Superintelligence Labs and is hiring Rui Xu from Dreamer to lead the effort. The move is said to indicate the company's interest in developing AI gadgets beyond beyond smart glasses and VR headsets.",
+    "link": "https://www.livemint.com/technology/tech-news/mark-zuckerbergs-meta-builds-new-ai-hardware-divison-hires-hires-veteran-engineer-for-mysterious-ai-gadget-report-11775279852534.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-04-05T04:13:20.930893",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Using OpenClaw on Claude? Anthropic is about to start charging you extra",
+    "snippet": "Anthropic will stop supporting third-party AI tools like OpenClaw for its Claude subscription. The company says users will need to pay separately for OpenClaw usage.&amp;nbsp;",
+    "link": "https://www.livemint.com/technology/tech-news/using-openclaw-on-claude-anthropic-is-about-to-start-charging-you-extra-11775273277585.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-04-05T04:13:20.930896",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -15,7 +75,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-04-04T03:44:54.294982",
+    "captured_at": "2026-04-05T04:13:20.930899",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -30,7 +90,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-04-04T03:44:54.294986",
+    "captured_at": "2026-04-05T04:13:20.930906",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -45,7 +105,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-04-04T03:44:54.294989",
+    "captured_at": "2026-04-05T04:13:20.930910",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -60,7 +120,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-04-04T03:44:54.294992",
+    "captured_at": "2026-04-05T04:13:20.930914",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -75,7 +135,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-04-04T03:44:54.294995",
+    "captured_at": "2026-04-05T04:13:20.930917",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -90,7 +150,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-04-04T03:44:54.295000",
+    "captured_at": "2026-04-05T04:13:21.290992",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -98,14 +158,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "What is OpenAI\u2019s \u2018Spud\u2019? Greg Brockman teases new ChatGPT model built on years of research",
-    "snippet": "OpenAI's Greg Brockman has announced that the company's upcoming AI model \u2018Spud\u2019 is a result of two years of research. The new model will serve as a foundational base model for future ChatGPT iterations",
-    "link": "https://www.livemint.com/technology/tech-news/what-is-openai-s-spud-greg-brockman-teases-new-chatgpt-model-build-on-years-of-research-11775105908398.html",
+    "title": "Telegram\u2019s Durov says Russia triggered payment system problem by blocking VPNs",
+    "snippet": "",
+    "link": "https://indianexpress.com/article/technology/tech-news-technology/telegrams-durov-says-russia-triggered-payment-system-problem-by-blocking-vpns-10619638/",
     "evidence_weight": 3,
-    "notes": "Mint - Tech"
+    "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-04-04T03:44:54.295005",
+    "captured_at": "2026-04-05T04:13:21.291001",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -113,14 +173,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Redmi Note 15 SE 5G with 6.77-inch AMOLED display and 5,800 mAH battery launched in India, price starts at\u2026",
-    "snippet": "Xiaomi has launched the budget-friendly Redmi Note 15 SE 5G with a 120Hz AMOLED display, Snapdragon 6 Gen 3 processor, and military-grade durability. The phone starts at a price of  \u20b919,999 and will be available from April 7&amp;nbsp;",
-    "link": "https://www.livemint.com/technology/gadgets/redmi-note-15-se-5g-with-6-77-inch-amoled-display-and-5-800-mah-battery-launched-in-india-price-starts-at-11775112299774.html",
+    "title": "What teens are doing with those role-playing chatbots",
+    "snippet": "",
+    "link": "https://indianexpress.com/article/technology/artificial-intelligence/what-teens-are-doing-with-those-role-playing-chatbots-10619619/",
     "evidence_weight": 3,
-    "notes": "Mint - Tech"
+    "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-04-04T03:44:54.295008",
+    "captured_at": "2026-04-05T04:13:21.291005",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -128,14 +188,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "ChatGPT and Anthropic could soon route extremist AI users to a new third-party tool: Report",
-    "snippet": "A new tool being developed in New Zealand aims to direct individuals exhibiting violent extremist tendencies on ChatGPT to deradicalization support. The tool is being created by a company called ThroughLine.",
-    "link": "https://www.livemint.com/technology/tech-news/chatgpt-users-showing-extremist-tendencies-may-be-guided-to-support-via-a-new-tool-report-11775108046552.html",
+    "title": "Your car is now a mobile office: Google Meet launches on Apple CarPlay with a strict safety twist",
+    "snippet": "",
+    "link": "https://indianexpress.com/article/technology/tech-news-technology/google-meet-apple-carplay-features-android-auto-launch-10618798/",
     "evidence_weight": 3,
-    "notes": "Mint - Tech"
+    "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-04-04T03:44:54.295012",
+    "captured_at": "2026-04-05T04:13:21.291009",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -143,14 +203,44 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Meta warns iPhone users of Italian spyware campaign disguised as WhatsApp: Here's what you need to know",
-    "snippet": "WhatsApp has alerted around 200 users in Italy about a malicious version of the app containing spyware developed by SIO. Victims were tricked into downloading the fake app through social engineering techniques.",
-    "link": "https://www.livemint.com/technology/tech-news/meta-warns-iphone-users-of-italian-spyware-campaign-disguised-as-whatsapp-heres-what-you-need-to-know-11775093402858.html",
+    "title": "OpenAI expands COO Brad Lightcap\u2019s role as AGI chief steps away on medical leave",
+    "snippet": "",
+    "link": "https://indianexpress.com/article/technology/artificial-intelligence/openai-expands-coo-role-leadership-reshuffle-10618633/",
     "evidence_weight": 3,
-    "notes": "Mint - Tech"
+    "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-04-04T03:44:54.774862",
+    "captured_at": "2026-04-05T04:13:21.291012",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "DeepSeek\u2019s V4 model will run on Huawei chips: Report",
+    "snippet": "",
+    "link": "https://indianexpress.com/article/technology/artificial-intelligence/deepseeks-v4-model-will-run-on-huawei-chips-report-10618486/",
+    "evidence_weight": 3,
+    "notes": "Indian Express - Tech"
+  },
+  {
+    "captured_at": "2026-04-05T04:13:21.291015",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "NASA\u2019s Artemis II: How iPhones found their way into space",
+    "snippet": "",
+    "link": "https://indianexpress.com/article/technology/tech-news-technology/nasas-artemis-ii-how-iphones-found-their-way-into-space-10618352/",
+    "evidence_weight": 3,
+    "notes": "Indian Express - Tech"
+  },
+  {
+    "captured_at": "2026-04-05T04:13:21.291017",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -165,7 +255,7 @@
     "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-04-04T03:44:54.774872",
+    "captured_at": "2026-04-05T04:13:21.291020",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -180,7 +270,7 @@
     "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-04-04T03:44:54.774876",
+    "captured_at": "2026-04-05T04:13:21.291023",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -195,7 +285,7 @@
     "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-04-04T03:44:54.774879",
+    "captured_at": "2026-04-05T04:13:21.291031",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -210,97 +300,7 @@
     "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-04-04T03:44:54.774882",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Gemma 4 explained: How Google is bringing AI to more developers",
-    "snippet": "",
-    "link": "https://indianexpress.com/article/technology/artificial-intelligence/gemma-4-explained-how-google-is-bringing-ai-to-more-developers-10617383/",
-    "evidence_weight": 3,
-    "notes": "Indian Express - Tech"
-  },
-  {
-    "captured_at": "2026-04-04T03:44:54.774885",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Microsoft\u2019s new AI transcription model beats Google Gemini 3.1 Flash: Here\u2019s how little it costs",
-    "snippet": "",
-    "link": "https://indianexpress.com/article/technology/artificial-intelligence/microsoft-mai-transcribe-1-launch-accuracy-price-features-10617165/",
-    "evidence_weight": 3,
-    "notes": "Indian Express - Tech"
-  },
-  {
-    "captured_at": "2026-04-04T03:44:54.774888",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Artemis II Day 2: Crew begins journey to the Moon after key engine burn",
-    "snippet": "",
-    "link": "https://indianexpress.com/article/technology/science/artemis-ii-day-2-crew-begins-journey-to-the-moon-after-key-engine-burn-10616844/",
-    "evidence_weight": 3,
-    "notes": "Indian Express - Tech"
-  },
-  {
-    "captured_at": "2026-04-04T03:44:54.774892",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "iPhone 17 at Rs 44,768: Croma\u2019s \u2018Everything Apple\u2019 sale returns with big discounts",
-    "snippet": "",
-    "link": "https://indianexpress.com/article/technology/tech-news-technology/iphone-17-at-rs-44768-cromas-everything-apple-sale-returns-with-big-discounts-10616805/",
-    "evidence_weight": 3,
-    "notes": "Indian Express - Tech"
-  },
-  {
-    "captured_at": "2026-04-04T03:44:54.774895",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Crisis contractor for OpenAI, Anthropic eyes a move to combat extremism",
-    "snippet": "",
-    "link": "https://indianexpress.com/article/technology/tech-news-technology/crisis-contractor-for-openai-anthropic-eyes-a-move-to-combat-extremism-10616636/",
-    "evidence_weight": 3,
-    "notes": "Indian Express - Tech"
-  },
-  {
-    "captured_at": "2026-04-04T03:44:54.774901",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Who is Amit Kshatriya: NASA\u2019s systems man at the centre of a new space push",
-    "snippet": "",
-    "link": "https://indianexpress.com/article/world/who-is-amit-kshatriya-nasas-systems-man-at-the-centre-of-a-new-space-push-10616494/",
-    "evidence_weight": 3,
-    "notes": "Indian Express - Tech"
-  },
-  {
-    "captured_at": "2026-04-04T03:44:54.961571",
+    "captured_at": "2026-04-05T04:13:21.682203",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -308,14 +308,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Monish Darda steps back from Icertis operations to launch AI firm",
-    "snippet": "\u200b\u200bHe will continue to serve as the chief mentor at Icertis while also remaining on its board, Darda said. With AI becoming more mainstream, multiple Indian startup executives are taking the entrepreneurial plunge, as the technology brings in a fundamental shift in the way businesses are run.",
-    "link": "https://economictimes.indiatimes.com/tech/technology/monish-darda-steps-back-from-icertis-operations-to-launch-ai-firm/articleshow/130012306.cms",
+    "title": "Zaggle CFO Aditya Kumar steps down; Rajesh Tummalaganti named interim finance chief",
+    "snippet": "Fintech firm Zaggle Prepaid Ocean Services on Friday said its chief financial officer Aditya Kumar has stepped down from his role, effective April 3, 2026. The company has appointed Rajesh Tummalaganti as interim CFO.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/zaggle-cfo-aditya-kumar-steps-down-rajesh-tummalaganti-named-interim-finance-chief/articleshow/130024729.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-04-04T03:44:54.961581",
+    "captured_at": "2026-04-05T04:13:21.682211",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -323,14 +323,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Big shakeup at OpenAI: COO Brad Lightcap shifts out of role; Fidji Simo to take medical leave",
-    "snippet": "OpenAI faces major leadership changes as Brad Lightcap moves roles and Fidji Simo goes on health leave. Meanwhile, the company prepares for a possible IPO, expands revenue efforts like ads, and relies on executives to maintain continuity, growth, and progress during a pivotal period.",
-    "link": "https://economictimes.indiatimes.com/tech/technology/openai-coo-shifts-out-of-role-agi-ceo-taking-medical-leave/articleshow/130011601.cms",
+    "title": "Telegram's Durov says Russia triggered payment system problem by blocking VPNs",
+    "snippet": "Telegram's billionaire founder, Pavel Durov, said on Saturday that Russia's attempt to block Virtual Private Networks (VPN) triggered a problem with a domestic payment \u200csystem, adding \u2060that tens \u2060of millions of Russians were resisting digital controls.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/telegrams-durov-says-russia-triggered-payment-system-problem-by-blocking-vpns/articleshow/130022990.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-04-04T03:44:54.961585",
+    "captured_at": "2026-04-05T04:13:21.682215",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -338,14 +338,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "VCs double down on scarce high-growth bets as select startups ratchet up steep valuations",
-    "snippet": "Indian mid-stage startups are seeing significant valuation surges despite a broader funding slowdown, indicating a concentrated pool of high-growth opportunities. Investors are increasingly focusing on companies demonstrating exceptional growth, particularly in emerging sectors like AI, to achieve v",
-    "link": "https://economictimes.indiatimes.com/tech/startups/valuations-do-a-quick-jump-at-select-startups/articleshow/130007750.cms",
+    "title": "Strategic blunder or genius?: Y Combinator\u2019s Garry Tan reacts on Anthropic\u2019s OpenClaw move",
+    "snippet": "Anthropic announced that users will no longer be able to use their Claude subscription limits with third-party tools such as OpenClaw. Users will instead have to switch to a separate pay-as-you-go option to access OpenClaw with Claude.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/strategic-blunder-or-genius-y-combinators-garry-tan-reacts-on-anthropics-openclaw-move/articleshow/130022846.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-04-04T03:44:54.961588",
+    "captured_at": "2026-04-05T04:13:21.682218",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -353,14 +353,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Elon Musk asks SpaceX IPO banks to buy Grok AI subscriptions, NYT reports",
-    "snippet": "Some banks \u200bhave agreed to spend tens of millions of dollars a \u200byear on the chatbot and have begun integrating it into their IT systems, the \u200breport said.",
-    "link": "https://economictimes.indiatimes.com/tech/technology/elon-musk-asks-spacex-ipo-banks-to-buy-grok-ai-subscriptions-nyt-reports/articleshow/130008859.cms",
+    "title": "Strategic blunder or genius?: Y Combinator\u2019s Garry Tan reacts on Anthropic\u2019s OpenClaw move",
+    "snippet": "Anthropic announced that users will no longer be able to use their Claude subscription limits with third-party tools such as OpenClaw. Users will instead have to switch to a separate pay-as-you-go option to access OpenClaw with Claude.",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/strategic-blunder-or-genius-y-combinators-garry-tan-reacts-on-anthropics-openclaw-move/articleshow/130022823.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-04-04T03:44:54.961591",
+    "captured_at": "2026-04-05T04:13:21.682221",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -368,14 +368,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "China moves to regulate digital humans, bans addictive services for children",
-    "snippet": "The draft regulations would \u200balso ban the use of other people's personal information to create digital humans without \u200bconsent, or using virtual humans to bypass identity verification systems, reflecting Beijing's efforts to maintain control in the face of advances in artificial intelligence.",
-    "link": "https://economictimes.indiatimes.com/tech/technology/china-moves-to-regulate-digital-humans-bans-addictive-services-for-children/articleshow/130007441.cms",
+    "title": "Gujarat HC bars AI use in decision-making, judgment drafting",
+    "snippet": "According to the high court's AI policy, unveiled on Saturday at a conference of district judiciary judges in Gujarat, AI should be used to improve the speed and quality of justice delivery, rather than as a replacement for judicial reasoning.",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/gujarat-hc-bars-ai-use-in-decision-making-judgment-drafting/articleshow/130022289.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-04-04T03:44:54.961594",
+    "captured_at": "2026-04-05T04:13:21.682224",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -383,14 +383,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "SpaceX delays next Starship test launch by a month, Musk says",
-    "snippet": "Musk posted on social media platform \u200cX that \u2060the \u2060next flight of Starship's V3 vehicle was four \u200bto six weeks away, or in the first two \u200bweeks of May. Earlier, he said the first flight would take place in \u200bApril.",
-    "link": "https://economictimes.indiatimes.com/tech/technology/spacex-delays-next-starship-test-launch-by-a-month-musk-says/articleshow/130006389.cms",
+    "title": "US tightens chip export controls, curb China's tech rise",
+    "snippet": "The committee further stated that semiconductor manufacturing lies at the core of the technological competition with China, adding that the MATCH Act is designed to strengthen export controls and create a more coordinated global approach, as highlighted in its release.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/us-tightens-chip-export-controls-curb-chinas-tech-rise/articleshow/130020543.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-04-04T03:44:54.961598",
+    "captured_at": "2026-04-05T04:13:21.682227",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -398,14 +398,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Karnataka: Pralhad Joshi fears taxes on EVs will derail India\u2019s emission targets",
-    "snippet": "Union Minister Pralhad Joshi criticized Karnataka's decision to withdraw road tax exemptions for electric vehicles, warning it could increase India's crude import bill and hinder climate goals. He argued the move, aimed at raising Rs 250 crore, is fiscally shortsighted and contradicts global clean m",
-    "link": "https://economictimes.indiatimes.com/tech/technology/karnataka-pralhad-joshi-fears-taxes-on-evs-will-derail-indias-emission-targets/articleshow/130006161.cms",
+    "title": "LAT Aerospace's prototype aircraft crashes during ground test near Saifai",
+    "snippet": "A prototype aircraft developed by LAT Aerospace crashed yesterday during a ground roll test near Saifai, cofounder Surobhi Das shared the news on LinkedIn on Saturday.",
+    "link": "https://economictimes.indiatimes.com/tech/startups/lat-aerospaces-prototype-aircraft-crashes-during-ground-test-near-saifai/articleshow/130020081.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-04-04T03:44:54.961601",
+    "captured_at": "2026-04-05T04:13:21.682229",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -413,14 +413,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Are stricter rules holding back fintech startups? QED Investors' Nigel Morris weighs in",
-    "snippet": "India's fintech sector faces near-term challenges due to increased regulatory scrutiny, impacting early-stage startups' ability to scale.  This tightening, coupled with global economic uncertainties, has led to portfolio companies adjusting operations and tightening underwriting standards.",
-    "link": "https://economictimes.indiatimes.com/tech/technology/are-stricter-rules-holding-back-fintech-startups-qed-investors-nigel-morris-weighs-in/articleshow/130004953.cms",
+    "title": "SemiAnalysis sues former employee over misconduct, trade secret claims",
+    "snippet": "Per Dylan Patel, founder of the semiconductors and AI infrastructure intelligence and research firm, the unnamed employee had indulged in repeated workplace disruptions, refusal to collaborate with colleagues, and instances of inappropriate behaviour. The case is expected to proceed through the San ",
+    "link": "https://economictimes.indiatimes.com/tech/technology/semianalysis-sues-former-employee-over-misconduct-trade-secret-claims/articleshow/130019522.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-04-04T03:44:54.961603",
+    "captured_at": "2026-04-05T04:13:21.682232",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -428,14 +428,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "AI needs \u2018better marketing\u2019, says Sam Altman after buying media platform TBPN",
-    "snippet": "OpenAI CEO Sam Altman is acquiring popular podcast The Best Possible Node (TBPN) to improve AI's public image, calling it a poorly marketed technology. Altman praised TBPN's ability to explain complex AI concepts accessibly and without hype. The podcast will retain editorial independence, reporting ",
-    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-needs-better-marketing-says-sam-altman-after-buying-chat-show-tbpn/articleshow/130003991.cms",
+    "title": "Delve row explained: What led to its split from Y Combinator",
+    "snippet": "Delve parts ways from YC: The controversy surrounding compliance startup Delve escalated rapidly over the past two weeks. Here\u2019s a look at how the events unfolded.",
+    "link": "https://economictimes.indiatimes.com/tech/startups/delve-row-explained-what-led-to-its-split-from-y-combinator/articleshow/130019248.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-04-04T03:44:54.961606",
+    "captured_at": "2026-04-05T04:13:21.682235",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -443,14 +443,44 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Turkey launches investigation into Google over advertising, billing practices",
-    "snippet": "The \u200cinvestigation \u200baims \u200bto determine \u2060whether Google's billing practices \u200band commercial practices \u200brelated to its online advertising services to advertisers \u200cand advertising agency clients \u200bviolate \u200bTurkish \u2060law, the board said in a statement.",
-    "link": "https://economictimes.indiatimes.com/tech/technology/turkey-launches-investigation-into-google-over-advertising-billing-practices/articleshow/130003714.cms",
+    "title": "Who are Delve founders Karun Kaushik and Selin Kocalar?",
+    "snippet": "Both founders, Karun Kaushik and Selin Kocalar, hold a bachelor\u2019s degree in artificial intelligence from the Massachusetts Institute of Technology and have also pursued scientific research projects. The two are now battling allegations of issuing hundreds of fabricated compliance certifications to D",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/who-are-delve-founders-karun-kaushik-and-selin-kocalar/articleshow/130018720.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-04-04T03:44:55.313687",
+    "captured_at": "2026-04-05T04:13:22.199726",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "Global",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Stockpickers: Raspberry Pi, Princes Group, AG Barr",
+    "snippet": "Our experts discuss which companies to buy, sell or hold this week",
+    "link": "https://www.ft.com/content/ef60dc34-6192-4bf9-981f-11c79d6a4c4b",
+    "evidence_weight": 3,
+    "notes": "FT - Technology"
+  },
+  {
+    "captured_at": "2026-04-05T04:13:22.199736",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "Global",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "What\u2019s the point of an AI novel?",
+    "snippet": "The danger is not that it will replace human-authored books \u2014 but that we stop caring about good writing at all",
+    "link": "https://www.ft.com/content/b83fbd97-e85d-4e67-90de-bfb7bf8c8cde",
+    "evidence_weight": 3,
+    "notes": "FT - Technology"
+  },
+  {
+    "captured_at": "2026-04-05T04:13:22.199740",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -465,7 +495,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-04-04T03:44:55.313699",
+    "captured_at": "2026-04-05T04:13:22.199743",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -480,7 +510,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-04-04T03:44:55.313702",
+    "captured_at": "2026-04-05T04:13:22.199746",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -495,7 +525,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-04-04T03:44:55.313705",
+    "captured_at": "2026-04-05T04:13:22.199768",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -510,7 +540,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-04-04T03:44:55.313709",
+    "captured_at": "2026-04-05T04:13:22.199771",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -525,7 +555,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-04-04T03:44:55.313711",
+    "captured_at": "2026-04-05T04:13:22.199774",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -540,7 +570,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-04-04T03:44:55.313714",
+    "captured_at": "2026-04-05T04:13:22.199777",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -555,7 +585,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-04-04T03:44:55.313717",
+    "captured_at": "2026-04-05T04:13:22.199780",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -570,37 +600,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-04-04T03:44:55.313720",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Microsoft launches \u2018mid-class\u2019 AI model as compute limits bite",
-    "snippet": "Tech giant\u2019s AI chief says it will have the resources to build frontier systems later this year",
-    "link": "https://www.ft.com/content/e511dfce-555d-4bce-90fd-d09db7529d96",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-04-04T03:44:55.313723",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "A spokesperson could not be reached for comment (possibly because she doesn\u2019t exist)",
-    "snippet": "The curious case of Emilia Carri\u00e8re, alleged comms professional",
-    "link": "https://www.ft.com/content/05c9515a-d183-4e9f-aab9-8b3c6899ff25",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-04-04T03:44:55.461648",
+    "captured_at": "2026-04-05T04:13:22.324087",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -615,7 +615,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-04-04T03:44:55.461658",
+    "captured_at": "2026-04-05T04:13:22.324098",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -630,7 +630,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-04-04T03:44:55.461662",
+    "captured_at": "2026-04-05T04:13:22.324102",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -645,7 +645,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-04-04T03:44:55.461666",
+    "captured_at": "2026-04-05T04:13:22.324105",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -660,7 +660,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-04-04T03:44:55.461669",
+    "captured_at": "2026-04-05T04:13:22.324108",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -675,7 +675,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-04-04T03:44:55.461671",
+    "captured_at": "2026-04-05T04:13:22.324111",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -690,7 +690,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-04-04T03:44:55.461675",
+    "captured_at": "2026-04-05T04:13:22.324114",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -705,7 +705,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-04-04T03:44:55.461678",
+    "captured_at": "2026-04-05T04:13:22.324117",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -720,7 +720,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-04-04T03:44:55.461681",
+    "captured_at": "2026-04-05T04:13:22.324119",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -735,7 +735,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-04-04T03:44:55.461683",
+    "captured_at": "2026-04-05T04:13:22.324122",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
