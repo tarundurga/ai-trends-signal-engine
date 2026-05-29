@@ -1,6 +1,6 @@
 [
   {
-    "captured_at": "2026-05-28T05:54:49.350852",
+    "captured_at": "2026-05-29T05:57:29.257004",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -16,7 +16,7 @@
     "notes": "greenhouse fetch error"
   },
   {
-    "captured_at": "2026-05-28T05:54:49.524263",
+    "captured_at": "2026-05-29T05:57:29.453917",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -29,14 +29,14 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7737482003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Mumbai; team=Collections; created_at=2026-05-26T05:22:29-04:00",
+    "notes": "greenhouse; location=Mumbai; team=Collections; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [
       "prompt"
     ],
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.527615",
+    "captured_at": "2026-05-29T05:57:29.457174",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -49,7 +49,7 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7650503003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Bangalore; team=Business Marketing_SD1_2146; created_at=2026-04-24T03:06:41-04:00",
+    "notes": "greenhouse; location=Bangalore; team=Business Marketing_SD1_2146; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [
       "change management",
       "design",
@@ -61,7 +61,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.532373",
+    "captured_at": "2026-05-29T05:57:29.461253",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -74,7 +74,7 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7735149003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Bangalore; team=Content & Education_SD2_2235; created_at=2026-05-22T01:36:36-04:00",
+    "notes": "greenhouse; location=Bangalore; team=Content & Education_SD2_2235; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [
       "agents?",
       "design"
@@ -82,7 +82,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.536446",
+    "captured_at": "2026-05-29T05:57:29.464744",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -95,7 +95,7 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7735144003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Bangalore; team=Content & Education_SD2_2235; created_at=2026-05-22T01:41:10-04:00",
+    "notes": "greenhouse; location=Bangalore; team=Content & Education_SD2_2235; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [
       "agents?",
       "prompts",
@@ -104,7 +104,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.539581",
+    "captured_at": "2026-05-29T05:57:29.467370",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -117,7 +117,7 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7735150003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Bangalore; team=Content & Education_SD2_2235; created_at=2026-05-22T06:45:57-04:00",
+    "notes": "greenhouse; location=Bangalore; team=Content & Education_SD2_2235; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [
       "design",
       "python"
@@ -125,7 +125,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.543148",
+    "captured_at": "2026-05-29T05:57:29.470394",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -138,12 +138,12 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7642507003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Bangalore; team=PR; created_at=2026-05-25T02:22:24-04:00",
+    "notes": "greenhouse; location=Bangalore; team=PR; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [],
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.545858",
+    "captured_at": "2026-05-29T05:57:29.472702",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -156,12 +156,12 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7737046003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Bengaluru; team=Operations_SD1_2071; created_at=2026-05-22T05:24:33-04:00",
+    "notes": "greenhouse; location=Bengaluru; team=Operations_SD1_2071; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [],
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.549178",
+    "captured_at": "2026-05-29T05:57:29.475674",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -174,14 +174,14 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7737478003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Banglore; team=Collections; created_at=2026-05-25T14:48:42-04:00",
+    "notes": "greenhouse; location=Banglore; team=Collections; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [
       "prompt"
     ],
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.552207",
+    "captured_at": "2026-05-29T05:57:29.478223",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -194,14 +194,32 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7737490003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Kolkata; team=Collections; created_at=2026-05-25T14:46:59-04:00",
+    "notes": "greenhouse; location=Kolkata; team=Collections; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [
       "prompt"
     ],
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.555210",
+    "captured_at": "2026-05-29T05:57:29.480766",
+    "segment": "largecap",
+    "source_channel": "ats_jobs",
+    "source_type": "job_posting",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "PhonePe",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Area Collections Manager, Mumbai",
+    "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
+    "link": "https://job-boards.greenhouse.io/phonepe/jobs/7749281003",
+    "evidence_weight": 5,
+    "notes": "greenhouse; location=Mumbai; team=Collections; created_at=2026-05-28T23:50:47-04:00",
+    "skill_hits": [],
+    "ai_related": true
+  },
+  {
+    "captured_at": "2026-05-29T05:57:29.483150",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -214,7 +232,7 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7701648003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Bengaluru; team=Business Analytics; created_at=2026-04-24T03:06:41-04:00",
+    "notes": "greenhouse; location=Bengaluru; team=Business Analytics; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [
       "python",
       "sql",
@@ -223,7 +241,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.558549",
+    "captured_at": "2026-05-29T05:57:29.485971",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -236,7 +254,7 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7746630003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Bangalore; team=Business Analytics; created_at=2026-05-22T01:58:48-04:00",
+    "notes": "greenhouse; location=Bangalore; team=Business Analytics; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [
       "python",
       "sql"
@@ -244,7 +262,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.561588",
+    "captured_at": "2026-05-29T05:57:29.488569",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -257,12 +275,12 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7735153003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Bangalore; team=Content & Education_SD2_2235; created_at=2026-05-22T01:39:17-04:00",
+    "notes": "greenhouse; location=Bangalore; team=Content & Education_SD2_2235; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [],
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.565306",
+    "captured_at": "2026-05-29T05:57:29.491710",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -275,12 +293,12 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7737479003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Banglore; team=Collections; created_at=2026-05-21T01:14:11-04:00",
+    "notes": "greenhouse; location=Banglore; team=Collections; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [],
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.568648",
+    "captured_at": "2026-05-29T05:57:29.494874",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -293,12 +311,12 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7737353003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Bhubaneswar, Odisha, India; team=Collections; created_at=2026-05-21T01:52:03-04:00",
+    "notes": "greenhouse; location=Bhubaneswar, Odisha, India; team=Collections; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [],
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.571978",
+    "captured_at": "2026-05-29T05:57:29.497733",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -311,12 +329,12 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7737342003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Chennai; team=Collections; created_at=2026-05-21T01:09:50-04:00",
+    "notes": "greenhouse; location=Chennai; team=Collections; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [],
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.575266",
+    "captured_at": "2026-05-29T05:57:29.500537",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -329,30 +347,12 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7737338003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Delhi; team=Collections; created_at=2026-05-21T06:28:20-04:00",
+    "notes": "greenhouse; location=Delhi; team=Collections; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [],
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.578771",
-    "segment": "largecap",
-    "source_channel": "ats_jobs",
-    "source_type": "job_posting",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "PhonePe",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Cluster Collection Manager - Ganjam, Odisha",
-    "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
-    "link": "https://job-boards.greenhouse.io/phonepe/jobs/7737484003",
-    "evidence_weight": 5,
-    "notes": "greenhouse; location=Ganjam, Odisha; team=Collections; created_at=2026-05-21T01:20:12-04:00",
-    "skill_hits": [],
-    "ai_related": true
-  },
-  {
-    "captured_at": "2026-05-28T05:54:49.582139",
+    "captured_at": "2026-05-29T05:57:29.503310",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -365,12 +365,12 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7738990003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Muzzafarpur, Bihar, India; team=Collections; created_at=2026-05-21T01:28:26-04:00",
+    "notes": "greenhouse; location=Muzzafarpur, Bihar, India; team=Collections; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [],
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.585499",
+    "captured_at": "2026-05-29T05:57:29.506146",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -383,12 +383,12 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7737477003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Raipur, Chhattisgarh; team=Collections; created_at=2026-05-21T01:48:09-04:00",
+    "notes": "greenhouse; location=Raipur, Chhattisgarh; team=Collections; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [],
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.588863",
+    "captured_at": "2026-05-29T05:57:29.508957",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -401,12 +401,12 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7737488003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Telangana; team=Collections; created_at=2026-05-21T01:24:11-04:00",
+    "notes": "greenhouse; location=Telangana; team=Collections; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [],
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.592170",
+    "captured_at": "2026-05-29T05:57:29.511763",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -419,12 +419,12 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7737475003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Vijayawada, Andhra Pradesh; team=Collections; created_at=2026-05-22T07:39:14-04:00",
+    "notes": "greenhouse; location=Vijayawada, Andhra Pradesh; team=Collections; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [],
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.595485",
+    "captured_at": "2026-05-29T05:57:29.514579",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -437,12 +437,12 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7737343003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Agra; team=Collections; created_at=2026-05-21T06:19:50-04:00",
+    "notes": "greenhouse; location=Agra; team=Collections; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [],
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.598695",
+    "captured_at": "2026-05-29T05:57:29.517279",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -455,12 +455,12 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7737480003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Aurangabad; team=Collections; created_at=2026-05-21T06:31:00-04:00",
+    "notes": "greenhouse; location=Aurangabad; team=Collections; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [],
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.601902",
+    "captured_at": "2026-05-29T05:57:29.519996",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -473,12 +473,12 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7737483003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Bhopal; team=Collections; created_at=2026-05-21T06:33:54-04:00",
+    "notes": "greenhouse; location=Bhopal; team=Collections; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [],
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.605109",
+    "captured_at": "2026-05-29T05:57:29.522725",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -491,12 +491,12 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7737354003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Chandigarh; team=Collections; created_at=2026-05-21T06:28:14-04:00",
+    "notes": "greenhouse; location=Chandigarh; team=Collections; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [],
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.608351",
+    "captured_at": "2026-05-29T05:57:29.525461",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -509,12 +509,12 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7737341003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Jaipur; team=Collections; created_at=2026-05-21T06:20:59-04:00",
+    "notes": "greenhouse; location=Jaipur; team=Collections; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [],
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.611605",
+    "captured_at": "2026-05-29T05:57:29.528191",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -527,12 +527,12 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7737485003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Ludhiana; team=Collections; created_at=2026-05-27T05:10:33-04:00",
+    "notes": "greenhouse; location=Ludhiana; team=Collections; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [],
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.614822",
+    "captured_at": "2026-05-29T05:57:29.530922",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -545,12 +545,12 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7737350003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Surat; team=Collections; created_at=2026-05-21T06:24:58-04:00",
+    "notes": "greenhouse; location=Surat; team=Collections; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [],
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.618026",
+    "captured_at": "2026-05-29T05:57:29.533668",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -563,12 +563,12 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7737486003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Udaipur; team=Collections; created_at=2026-05-21T07:26:13-04:00",
+    "notes": "greenhouse; location=Udaipur; team=Collections; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [],
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.621228",
+    "captured_at": "2026-05-29T05:57:29.536400",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -581,7 +581,7 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7720531003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Bangalore ; team=Product Operations; created_at=2026-05-19T05:35:04-04:00",
+    "notes": "greenhouse; location=Bangalore ; team=Product Operations; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [
       "agents?",
       "sql"
@@ -589,7 +589,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.624743",
+    "captured_at": "2026-05-29T05:57:29.539358",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -602,14 +602,14 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7594427003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Bangalore; team=Engineering Development; created_at=2026-04-24T03:06:41-04:00",
+    "notes": "greenhouse; location=Bangalore; team=Engineering Development; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [
       "design"
     ],
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.627944",
+    "captured_at": "2026-05-29T05:57:29.542095",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -622,14 +622,14 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7653436003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Bangalore; team=Engineering Development; created_at=2026-05-13T07:38:34-04:00",
+    "notes": "greenhouse; location=Bangalore; team=Engineering Development; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [
       "design"
     ],
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.631205",
+    "captured_at": "2026-05-29T05:57:29.544854",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -642,14 +642,14 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7699681003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Bhubaneswar; team=East_SD3_2239; created_at=2026-04-24T03:06:41-04:00",
+    "notes": "greenhouse; location=Bhubaneswar; team=East_SD3_2239; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [
       "training"
     ],
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.636165",
+    "captured_at": "2026-05-29T05:57:29.549071",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -662,14 +662,14 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7702633003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Rajkot; team=West_SD3_2240; created_at=2026-04-24T03:06:41-04:00",
+    "notes": "greenhouse; location=Rajkot; team=West_SD3_2240; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [
       "training"
     ],
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.641099",
+    "captured_at": "2026-05-29T05:57:29.553269",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -682,14 +682,14 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7702664003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Chandigarh; team=North_SD3_2238; created_at=2026-04-24T03:06:41-04:00",
+    "notes": "greenhouse; location=Chandigarh; team=North_SD3_2238; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [
       "training"
     ],
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.645017",
+    "captured_at": "2026-05-29T05:57:29.556585",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -702,12 +702,12 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7690439003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Bengaluru; team=Category Support Helpdesk; created_at=2026-05-12T06:26:12-04:00",
+    "notes": "greenhouse; location=Bengaluru; team=Category Support Helpdesk; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [],
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.648146",
+    "captured_at": "2026-05-29T05:57:29.559155",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -720,7 +720,7 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7725588003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Bangalore; team=HR Business Partnering; created_at=2026-05-14T08:03:26-04:00",
+    "notes": "greenhouse; location=Bangalore; team=HR Business Partnering; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [
       "design",
       "evaluation"
@@ -728,7 +728,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.651774",
+    "captured_at": "2026-05-29T05:57:29.562204",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -741,14 +741,14 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7684928003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Bangalore; team=HR Business Partnering; created_at=2026-04-24T03:06:41-04:00",
+    "notes": "greenhouse; location=Bangalore; team=HR Business Partnering; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [
       "evaluation"
     ],
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.655119",
+    "captured_at": "2026-05-29T05:57:29.565047",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -761,14 +761,14 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7588167003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Bangalore; team=People Experience; created_at=2026-04-24T03:06:41-04:00",
+    "notes": "greenhouse; location=Bangalore; team=People Experience; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [
       "governance"
     ],
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.659781",
+    "captured_at": "2026-05-29T05:57:29.568989",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -781,7 +781,7 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7588169003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Bangalore; team=People Experience; created_at=2026-05-20T05:07:17-04:00",
+    "notes": "greenhouse; location=Bangalore; team=People Experience; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [
       "change management",
       "governance"
@@ -789,7 +789,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.663874",
+    "captured_at": "2026-05-29T05:57:29.572456",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -802,7 +802,7 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7731711003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Bangalore; team=People Experience; created_at=2026-05-12T07:38:16-04:00",
+    "notes": "greenhouse; location=Bangalore; team=People Experience; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [
       "design",
       "evaluation"
@@ -810,7 +810,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.668091",
+    "captured_at": "2026-05-29T05:57:29.575991",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -823,12 +823,12 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7616612003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Bangalore; team=Accounting; created_at=2026-05-08T08:14:10-04:00",
+    "notes": "greenhouse; location=Bangalore; team=Accounting; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [],
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.671147",
+    "captured_at": "2026-05-29T05:57:29.578573",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -841,12 +841,12 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7731761003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Bangalore; team=Contracts & Advisory; created_at=2026-05-21T02:23:43-04:00",
+    "notes": "greenhouse; location=Bangalore; team=Contracts & Advisory; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [],
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.674375",
+    "captured_at": "2026-05-29T05:57:29.581301",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -859,14 +859,14 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7731892003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Bangalore; team=Business Development & Partnerships; created_at=2026-05-25T04:34:50-04:00",
+    "notes": "greenhouse; location=Bangalore; team=Business Development & Partnerships; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [
       "governance"
     ],
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.677216",
+    "captured_at": "2026-05-29T05:57:29.583730",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -879,12 +879,12 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7705728003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Bengaluru; team=Category Support Helpdesk; created_at=2026-05-27T01:59:05-04:00",
+    "notes": "greenhouse; location=Bengaluru; team=Category Support Helpdesk; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [],
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.681119",
+    "captured_at": "2026-05-29T05:57:29.587033",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -897,14 +897,14 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7735136003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Bangalore; team=Site Reliability; created_at=2026-05-19T08:10:12-04:00",
+    "notes": "greenhouse; location=Bangalore; team=Site Reliability; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [
       "enablement"
     ],
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.683644",
+    "captured_at": "2026-05-29T05:57:29.589175",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -917,12 +917,12 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7690461003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Bengaluru, Karnataka; team=Consumer Payments; created_at=2026-04-24T03:06:41-04:00",
+    "notes": "greenhouse; location=Bengaluru, Karnataka; team=Consumer Payments; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [],
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.687356",
+    "captured_at": "2026-05-29T05:57:29.592351",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -935,12 +935,12 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/4353886003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Bangalore ; team=; created_at=2026-04-24T03:06:41-04:00",
+    "notes": "greenhouse; location=Bangalore ; team=; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [],
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.689539",
+    "captured_at": "2026-05-29T05:57:29.594171",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -953,7 +953,7 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7707540003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Bangalore; team=Business Development & Partnerships; created_at=2026-05-05T02:56:19-04:00",
+    "notes": "greenhouse; location=Bangalore; team=Business Development & Partnerships; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [
       "change management",
       "design",
@@ -962,7 +962,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.692865",
+    "captured_at": "2026-05-29T05:57:29.596967",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -975,7 +975,7 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7707337003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Bengaluru; team=T&S Analytics_SD1_2154; created_at=2026-05-15T07:00:08-04:00",
+    "notes": "greenhouse; location=Bengaluru; team=T&S Analytics_SD1_2154; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [
       "design",
       "governance",
@@ -985,7 +985,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.696122",
+    "captured_at": "2026-05-29T05:57:29.599712",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -998,14 +998,14 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7739170003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Bangalore; team=Merchant Solutions Engineering_SD2_2228; created_at=2026-05-20T09:19:59-04:00",
+    "notes": "greenhouse; location=Bangalore; team=Merchant Solutions Engineering_SD2_2228; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [
       "design"
     ],
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.700835",
+    "captured_at": "2026-05-29T05:57:29.603668",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1018,12 +1018,12 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7662554003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Bengaluru, Karnataka; team=Trust & Safety ; created_at=2026-04-24T03:06:41-04:00",
+    "notes": "greenhouse; location=Bengaluru, Karnataka; team=Trust & Safety ; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [],
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.704214",
+    "captured_at": "2026-05-29T05:57:29.606537",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1036,7 +1036,7 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7731736003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Bangalore; team=Site Reliability; created_at=2026-05-20T06:32:28-04:00",
+    "notes": "greenhouse; location=Bangalore; team=Site Reliability; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [
       "design",
       "python"
@@ -1044,7 +1044,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.706937",
+    "captured_at": "2026-05-29T05:57:29.608833",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1057,7 +1057,7 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7018596003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Bangalore; team=Site Reliability; created_at=2026-04-24T03:06:41-04:00",
+    "notes": "greenhouse; location=Bangalore; team=Site Reliability; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [
       "design",
       "evaluation",
@@ -1066,7 +1066,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.712351",
+    "captured_at": "2026-05-29T05:57:29.613357",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1079,7 +1079,7 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/5854614003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Bangalore; team=Tech Infra & IT_L1; created_at=2026-04-24T03:06:41-04:00",
+    "notes": "greenhouse; location=Bangalore; team=Tech Infra & IT_L1; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [
       "design",
       "python"
@@ -1087,7 +1087,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.715552",
+    "captured_at": "2026-05-29T05:57:29.615647",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1100,7 +1100,7 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7611156003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Pune; team=Site Reliability; created_at=2026-04-29T05:55:06-04:00",
+    "notes": "greenhouse; location=Pune; team=Site Reliability; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [
       "design",
       "python"
@@ -1108,7 +1108,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.719746",
+    "captured_at": "2026-05-29T05:57:29.618974",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1121,7 +1121,7 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/6589348003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Bangalore; team=Site Reliability; created_at=2026-04-24T03:06:41-04:00",
+    "notes": "greenhouse; location=Bangalore; team=Site Reliability; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [
       "design",
       "evaluation",
@@ -1130,7 +1130,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.724868",
+    "captured_at": "2026-05-29T05:57:29.625443",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1143,7 +1143,7 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/6574130003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Bangalore; team=Site Reliability; created_at=2026-04-24T03:06:41-04:00",
+    "notes": "greenhouse; location=Bangalore; team=Site Reliability; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [
       "design",
       "python"
@@ -1151,7 +1151,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.728177",
+    "captured_at": "2026-05-29T05:57:29.630513",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1164,7 +1164,7 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7711699003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Bangalore; team=Business Development & Partnerships; created_at=2026-04-28T04:36:52-04:00",
+    "notes": "greenhouse; location=Bangalore; team=Business Development & Partnerships; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [
       "change management",
       "design",
@@ -1173,7 +1173,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.731366",
+    "captured_at": "2026-05-29T05:57:29.635224",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1186,14 +1186,14 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7749157003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Pune; team=Engineering Development; created_at=2026-05-27T02:35:59-04:00",
+    "notes": "greenhouse; location=Pune; team=Engineering Development; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [
       "design"
     ],
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.734065",
+    "captured_at": "2026-05-29T05:57:29.639394",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1206,14 +1206,14 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7680147003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Pune ; team=Engineering Development; created_at=2026-05-27T02:40:26-04:00",
+    "notes": "greenhouse; location=Pune ; team=Engineering Development; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [
       "design"
     ],
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.736832",
+    "captured_at": "2026-05-29T05:57:29.643827",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1226,12 +1226,12 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7608226003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Bangalore; team=People Experience; created_at=2026-04-24T03:06:41-04:00",
+    "notes": "greenhouse; location=Bangalore; team=People Experience; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [],
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.740735",
+    "captured_at": "2026-05-29T05:57:29.649675",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1244,12 +1244,12 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7596578003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Bangalore; team=Talent Acquisition; created_at=2026-04-24T03:06:41-04:00",
+    "notes": "greenhouse; location=Bangalore; team=Talent Acquisition; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [],
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.743447",
+    "captured_at": "2026-05-29T05:57:29.653829",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1262,14 +1262,14 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7741362003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Banglore; team=Collections; created_at=2026-05-25T15:06:39-04:00",
+    "notes": "greenhouse; location=Banglore; team=Collections; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [
       "agents?"
     ],
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.747113",
+    "captured_at": "2026-05-29T05:57:29.659131",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1282,14 +1282,14 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7735148003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Bangalore; team=Content & Education_SD2_2235; created_at=2026-05-22T06:49:54-04:00",
+    "notes": "greenhouse; location=Bangalore; team=Content & Education_SD2_2235; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [
       "design"
     ],
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.750543",
+    "captured_at": "2026-05-29T05:57:29.662230",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1302,14 +1302,14 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7734358003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Bangalore; team=Content & Education_SD2_2235; created_at=2026-05-22T01:48:16-04:00",
+    "notes": "greenhouse; location=Bangalore; team=Content & Education_SD2_2235; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [
       "design"
     ],
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.753883",
+    "captured_at": "2026-05-29T05:57:29.665324",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1322,14 +1322,14 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7734356003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Bangalore; team=Content & Education_SD2_2235; created_at=2026-05-22T23:46:11-04:00",
+    "notes": "greenhouse; location=Bangalore; team=Content & Education_SD2_2235; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [
       "design"
     ],
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.757951",
+    "captured_at": "2026-05-29T05:57:29.668983",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1342,14 +1342,14 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7741366003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Delhi NCR; team=Collections; created_at=2026-05-26T04:55:13-04:00",
+    "notes": "greenhouse; location=Delhi NCR; team=Collections; created_at=2026-05-28T23:50:47-04:00",
     "skill_hits": [
       "training"
     ],
     "ai_related": true
   },
   {
-    "captured_at": "2026-05-28T05:54:49.892432",
+    "captured_at": "2026-05-29T05:57:29.809694",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -1365,7 +1365,7 @@
     "notes": "greenhouse fetch error"
   },
   {
-    "captured_at": "2026-05-28T05:54:50.062475",
+    "captured_at": "2026-05-29T05:57:29.925357",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -1381,7 +1381,7 @@
     "notes": "greenhouse fetch error"
   },
   {
-    "captured_at": "2026-05-28T05:54:50.197733",
+    "captured_at": "2026-05-29T05:57:30.132893",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -1397,7 +1397,7 @@
     "notes": "greenhouse fetch error"
   },
   {
-    "captured_at": "2026-05-28T05:54:50.392409",
+    "captured_at": "2026-05-29T05:57:30.605874",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -1413,7 +1413,7 @@
     "notes": "lever fetch error"
   },
   {
-    "captured_at": "2026-05-28T05:54:50.575930",
+    "captured_at": "2026-05-29T05:57:30.893549",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -1429,7 +1429,7 @@
     "notes": "lever fetch error"
   },
   {
-    "captured_at": "2026-05-28T05:54:50.767809",
+    "captured_at": "2026-05-29T05:57:31.203886",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -1445,7 +1445,7 @@
     "notes": "lever fetch error"
   },
   {
-    "captured_at": "2026-05-28T05:54:50.943470",
+    "captured_at": "2026-05-29T05:57:31.526779",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -1461,7 +1461,7 @@
     "notes": "lever fetch error"
   },
   {
-    "captured_at": "2026-05-28T05:54:51.128235",
+    "captured_at": "2026-05-29T05:57:31.808004",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "error",
