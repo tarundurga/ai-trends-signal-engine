@@ -1,6 +1,21 @@
 [
   {
-    "captured_at": "2026-06-21T06:20:12.473563",
+    "captured_at": "2026-06-22T06:43:05.896168",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Mint Explainer | What the Delhi high court's Telegram ruling means for digital platforms",
+    "snippet": "The Delhi high court on Friday said the government had sufficient material to justify the blocking order of Telegram. What are the implications of the ruling for other messaging apps?&amp;nbsp;",
+    "link": "https://www.livemint.com/technology/what-the-delhi-high-court-telegram-ruling-means-for-digital-platform-mint-explainer-11782024817547.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-06-22T06:43:05.896183",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -15,7 +30,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-06-21T06:20:12.473575",
+    "captured_at": "2026-06-22T06:43:05.896186",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -30,7 +45,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-06-21T06:20:12.473578",
+    "captured_at": "2026-06-22T06:43:05.896189",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -45,7 +60,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-06-21T06:20:12.473581",
+    "captured_at": "2026-06-22T06:43:05.896192",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -60,7 +75,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-06-21T06:20:12.473583",
+    "captured_at": "2026-06-22T06:43:05.896195",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -75,7 +90,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-06-21T06:20:12.473585",
+    "captured_at": "2026-06-22T06:43:05.896197",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -90,7 +105,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-06-21T06:20:12.473587",
+    "captured_at": "2026-06-22T06:43:05.896202",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -105,7 +120,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-06-21T06:20:12.473591",
+    "captured_at": "2026-06-22T06:43:05.896205",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -120,7 +135,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-06-21T06:20:12.473593",
+    "captured_at": "2026-06-22T06:43:05.896209",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -135,7 +150,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-06-21T06:20:12.473597",
+    "captured_at": "2026-06-22T06:43:06.454635",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -143,14 +158,74 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Cybersecurity executives urge the Trump administration to ease restrictions on Anthropic AI models",
-    "snippet": "Cybersecurity executives urge the Trump administration to ease restrictions on Anthropic AI models",
-    "link": "https://www.livemint.com/technology/cybersecurity-executives-urge-the-trump-administration-to-ease-restrictions-on-anthropic-ai-models-11781553380357.html",
+    "title": "This WhatsApp trick could help you secretly check if someone has blocked you",
+    "snippet": "",
+    "link": "https://indianexpress.com/article/technology/tech-news-technology/whatsapp-trick-secretly-check-blocked-you-10751358/",
     "evidence_weight": 3,
-    "notes": "Mint - Tech"
+    "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-06-21T06:20:13.038239",
+    "captured_at": "2026-06-22T06:43:06.454644",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Meta lobbies US Congress for protection from child-harm lawsuits",
+    "snippet": "",
+    "link": "https://indianexpress.com/article/technology/tech-news-technology/meta-lobbies-us-congress-for-protection-from-child-harm-lawsuits-10751316/",
+    "evidence_weight": 3,
+    "notes": "Indian Express - Tech"
+  },
+  {
+    "captured_at": "2026-06-22T06:43:06.454649",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "SK Hynix overtakes Samsung to become Korea\u2019s most valuable company",
+    "snippet": "",
+    "link": "https://indianexpress.com/article/technology/tech-news-technology/sk-hynix-overtakes-samsung-to-become-koreas-most-valuable-company-10751309/",
+    "evidence_weight": 3,
+    "notes": "Indian Express - Tech"
+  },
+  {
+    "captured_at": "2026-06-22T06:43:06.454656",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "What are AI agent loops, and could they soon make prompting obsolete?",
+    "snippet": "",
+    "link": "https://indianexpress.com/article/technology/artificial-intelligence/what-are-ai-agent-loops-prompting-obsolete-10750515/",
+    "evidence_weight": 3,
+    "notes": "Indian Express - Tech"
+  },
+  {
+    "captured_at": "2026-06-22T06:43:06.454659",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Snap to spin-off AI video generation team into standalone company \u2018Dotmo\u2019: Here\u2019s why",
+    "snippet": "",
+    "link": "https://indianexpress.com/article/technology/artificial-intelligence/snap-spin-off-ai-video-company-dotmo-10750189/",
+    "evidence_weight": 3,
+    "notes": "Indian Express - Tech"
+  },
+  {
+    "captured_at": "2026-06-22T06:43:06.454662",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -165,7 +240,7 @@
     "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-06-21T06:20:13.038247",
+    "captured_at": "2026-06-22T06:43:06.454665",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -180,7 +255,7 @@
     "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-06-21T06:20:13.038250",
+    "captured_at": "2026-06-22T06:43:06.454668",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -195,7 +270,7 @@
     "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-06-21T06:20:13.038255",
+    "captured_at": "2026-06-22T06:43:06.454672",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -210,7 +285,7 @@
     "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-06-21T06:20:13.038258",
+    "captured_at": "2026-06-22T06:43:06.454674",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -225,82 +300,7 @@
     "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-06-21T06:20:13.038260",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Nasa\u2019s daring mission to save a space telescope from falling back to Earth",
-    "snippet": "",
-    "link": "https://indianexpress.com/article/technology/science/nasas-daring-mission-to-save-a-space-telescope-from-falling-back-to-earth-10749540/",
-    "evidence_weight": 3,
-    "notes": "Indian Express - Tech"
-  },
-  {
-    "captured_at": "2026-06-21T06:20:13.038262",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "VLC creator turns attention to robots, raises $5 million for real-time device platform",
-    "snippet": "",
-    "link": "https://indianexpress.com/article/technology/tech-news-technology/vlc-creator-turns-attention-to-robots-raises-5-million-for-real-time-device-platform-10749378/",
-    "evidence_weight": 3,
-    "notes": "Indian Express - Tech"
-  },
-  {
-    "captured_at": "2026-06-21T06:20:13.038264",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "AI race is a talent race, says expert, as China outpaces US in researchers",
-    "snippet": "",
-    "link": "https://indianexpress.com/article/technology/artificial-intelligence/ai-race-is-a-talent-race-says-expert-as-china-outpaces-us-in-researchers-10749386/",
-    "evidence_weight": 3,
-    "notes": "Indian Express - Tech"
-  },
-  {
-    "captured_at": "2026-06-21T06:20:13.038267",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "WhatsApp tests new animated message bubbles on iPhone",
-    "snippet": "",
-    "link": "https://indianexpress.com/article/technology/tech-news-technology/whatsapp-tests-new-animated-message-bubbles-on-iphone-10749266/",
-    "evidence_weight": 3,
-    "notes": "Indian Express - Tech"
-  },
-  {
-    "captured_at": "2026-06-21T06:20:13.038269",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "The Safe Side: Free content comes at a cost, the scam behind fake OTT apps",
-    "snippet": "",
-    "link": "https://indianexpress.com/article/technology/tech-news-technology/the-safe-side-free-content-comes-at-a-cost-the-scam-behind-fake-ott-apps-10749172/",
-    "evidence_weight": 3,
-    "notes": "Indian Express - Tech"
-  },
-  {
-    "captured_at": "2026-06-21T06:20:13.222111",
+    "captured_at": "2026-06-22T06:43:06.657955",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -308,14 +308,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Canadian lender TD tells some employees it will use software to monitor their work",
-    "snippet": "TD said in a statement to Reuters the deployment is \"standard practice across the industry.\" \"In various parts of our business, we use automated solutions to improve insights and \u200cbetter allocate resources,\" the company \u2060said. \"This is \u2060not AI and not specific to any business or matter, the tool all",
-    "link": "https://economictimes.indiatimes.com/tech/technology/canadian-lender-td-tells-some-employees-it-will-use-software-to-monitor-their-work/articleshow/131885417.cms",
+    "title": "China hits back at US sanctions on tech giants, restricting its exports to 10 American defense firms",
+    "snippet": "China has retaliated against US sanctions by imposing its own restrictions on 10 American military-linked companies. Beijing's Commerce Ministry announced a ban on exporting \"dual-use\" items to these firms, citing national security and US \"wrongful expansion\" of its own blacklist. Additionally, Chin",
+    "link": "https://economictimes.indiatimes.com/tech/technology/china-hits-back-at-us-sanctions-on-tech-giants-restricting-its-exports-to-10-american-defense-firms/articleshow/131901814.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-06-21T06:20:13.222119",
+    "captured_at": "2026-06-22T06:43:06.657963",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -323,14 +323,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "AI, AI Sir! Indian execs back in the classroom for a fresh chapter",
-    "snippet": "Online education companies such as Coursera, Eruditus, upGrad and Simplilearn are reporting a sharp rise in enrolments over the past year $2 trillion a year over the next five years - with generative AI, agentic AI and AI-led business transformation emerging as the most sought-after areas of learnin",
-    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-ai-sir-indian-execs-back-in-the-classroom-for-a-fresh-chapter/articleshow/131885663.cms",
+    "title": "SK Hynix dethrones Samsung Electronics as South Korea's most valuable company",
+    "snippet": "South Korean chipmaker SK Hynix has briefly surpassed Samsung Electronics to become the nation's most valuable company. This surge, driven by booming demand for memory chips fuelled by AI data centre construction, has seen SK Hynix shares skyrocket over 340% this year. Both companies have benefited ",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/sk-hynix-dethrones-samsung-electronics-as-south-koreas-most-valuable-company/articleshow/131901768.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-06-21T06:20:13.222121",
+    "captured_at": "2026-06-22T06:43:06.657967",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -338,14 +338,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Trump tells Axios he no longer views Anthropic as national security threat",
-    "snippet": "Senior Anthropic technical staff were scheduled to meet with Trump administration \u200cofficials earlier \u2060this week \u2060to discuss a dispute over foreign access to its most advanced \u200bAI models, Fable 5 and Mythos 5. The company last week disabled access \u200bfor all users to those models after Trump ordered An",
-    "link": "https://economictimes.indiatimes.com/tech/technology/trump-tells-axios-he-no-longer-views-anthropic-as-national-security-threat/articleshow/131885332.cms",
+    "title": "Lime plans to name Uber as anchor investor in IPO: report",
+    "snippet": "San Francisco-based \u2060startup Lime is backed by Uber Technologies. \u200bIt filed to go public in \u200bthe United States in May.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/lime-plans-to-name-uber-as-anchor-investor-in-ipo-report/articleshow/131900123.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-06-21T06:20:13.222124",
+    "captured_at": "2026-06-22T06:43:06.657970",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -353,14 +353,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "AI spending boom could trigger sharper downturn than dotcom crash: Professor Aswath Damodaran",
-    "snippet": "Valuation expert Aswath Damodaran warns the AI boom's massive capital expenditure, largely debt-funded, could lead to a more painful downturn than the dotcom crash. He notes tech giants are shifting to capital-intensive models, unlike the equity-funded dotcom era. This extensive infrastructure inves",
-    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-spending-boom-could-trigger-sharper-downturn-than-dotcom-crash-professor-aswath-damodaran/articleshow/131878131.cms",
+    "title": "Tech, crypto firms to help tackle illegal wildlife trade",
+    "snippet": "Announcement made as part of a business forum convened by Prince William \u200cand \u2060The Royal \u2060Foundation's United for Wildlife during London Climate Action Week.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/tech-crypto-firms-to-help-tackle-illegal-wildlife-trade/articleshow/131899955.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-06-21T06:20:13.222126",
+    "captured_at": "2026-06-22T06:43:06.657973",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -368,14 +368,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "SpaceX valuation hinges on uncertain AI economics, says Professor Aswath Damodaran",
-    "snippet": "SpaceX's massive market debut, reaching a $2 trillion valuation, is largely fuelled by AI ambitions, according to valuation expert Aswath Damodaran. While Starlink contributes significantly, he cautions that the AI business is nascent with uncertain economics and high costs. Damodaran warns against ",
-    "link": "https://economictimes.indiatimes.com/tech/technology/spacex-valuation-hinges-on-uncertain-ai-economics-says-professor-aswath-damodaran/articleshow/131876895.cms",
+    "title": "Byju's Aakash endgame; Startup deal street wakes up",
+    "snippet": "Happy Monday! Byju's US lenders and Manipal are close to sealing a settlement over Aakash. This and more in today\u2019s ETtech Morning Dispatch.",
+    "link": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/byjus-aakash-endgame-startup-deal-street-wakes-up/articleshow/131899694.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-06-21T06:20:13.222128",
+    "captured_at": "2026-06-22T06:43:06.657975",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -383,14 +383,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Intel hires former SK hynix chief Lee Seok-hee to lead advanced packaging",
-    "snippet": "Intel has appointed former SK hynix and SK On CEO Lee Seok-hee as a senior vice president in its foundry business. Lee will lead advanced packaging and system integration efforts, a crucial area for Intel's push into next-generation AI systems. His extensive experience in high-scale technology and m",
-    "link": "https://economictimes.indiatimes.com/tech/technology/intel-hires-former-sk-hynix-chief-lee-seok-hee-to-lead-advanced-packaging/articleshow/131875549.cms",
+    "title": "AI startups fuel talent war as hiring surges across India",
+    "snippet": "India's AI startups are experiencing a hiring surge, outpacing the broader tech sector as companies transition from AI experiments to large-scale deployments. Driven by demand for generative AI and automation, recruitment is booming across engineering, product, and customer-facing roles. This growth",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-startups-fuel-talent-war-as-hiring-surges-across-india/articleshow/131897020.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-06-21T06:20:13.222130",
+    "captured_at": "2026-06-22T06:43:06.657978",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -398,14 +398,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Andhra Pradesh govt inks deal with Canva for visual communication in govt schools",
-    "snippet": "The deal was struck on June 18 between the Education Department, Samagra Siksha and Canva, which will also benefit teachers and Education Department officials.",
-    "link": "https://economictimes.indiatimes.com/tech/technology/andhra-pradesh-govt-inks-deal-with-canva-for-visual-communication-in-govt-schools/articleshow/131875422.cms",
+    "title": "With AI, challenge is convincing people that learning still matters: Coursera CTO",
+    "snippet": "Coursera's CTO, Mustafa Furniturewala, emphasises that AI's true value in education lies in translating information into practical skills, not just content access. He believes the focus should be on application layers and ecosystems built upon AI models. India, with its vast young talent, is poised ",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/with-ai-challenge-is-convincing-people-that-learning-still-matters-coursera-cto/articleshow/131897015.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-06-21T06:20:13.222132",
+    "captured_at": "2026-06-22T06:43:06.657981",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -413,14 +413,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "India's data centre pipeline hits 8.33 GW as AI demand reshapes digital infra: Knight Frank India",
-    "snippet": "India's data centre sector is witnessing an unprecedented infrastructure build-up, with the total development pipeline across major markets reaching 8.33 GW, according to Knight Frank India. The scale of future supply, driven by accelerating artificial intelligence adoption, cloud computing growth a",
-    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/indias-data-centre-pipeline-hits-8-33-gw-as-ai-demand-reshapes-digital-infra-knight-frank-india/articleshow/131873929.cms",
+    "title": "Indian developers set to incorporate Apple's latest tools in their app offerings",
+    "snippet": "Indian app developers are set to integrate Apple's latest innovations, including AI-powered Siri and Xcode upgrades, to boost productivity and user experience.  Features like automated code writing and enhanced Siri capabilities promise to revolutionise app creation.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/indian-developers-set-to-incorporate-apples-latest-tools-in-their-app-offerings/articleshow/131896996.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-06-21T06:20:13.222134",
+    "captured_at": "2026-06-22T06:43:06.657983",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -428,14 +428,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Apple explains why watchOS 27 drops support for Apple Watch series 6, 7, 8 and Ultra",
-    "snippet": "Apple is ending support for five older Apple Watch models with watchOS 27, citing performance needs for new AI-powered features and an enhanced Siri. Devices like the Series 6 and original Ultra won't get the latest software, though they'll receive security updates. This move prioritises a seamless,",
-    "link": "https://economictimes.indiatimes.com/tech/technology/apple-explains-why-watchos-27-drops-support-for-apple-watch-series-6-7-8-and-ultra/articleshow/131873887.cms",
+    "title": "Inside Zepto's profit push ahead of its IPO",
+    "snippet": "Zepto's upcoming $1 billion IPO highlights the quick commerce sector's investment surge. Despite strong order volumes, Zepto's aggressive low-price strategy has led to significant operating losses, though per-order losses are narrowing. Investors will closely watch its ability to improve monetisatio",
+    "link": "https://economictimes.indiatimes.com/tech/technology/inside-zeptos-profit-push-ahead-of-its-ipo/articleshow/131896791.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-06-21T06:20:13.222137",
+    "captured_at": "2026-06-22T06:43:06.657986",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -443,14 +443,44 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Amazon MGM drops Luca Guadagnino's Sam Altman film 'Artificial'",
-    "snippet": "Luca Guadagnino's upcoming film 'Artificial,' starring Andrew Garfield as Sam Altman, has been dropped by Amazon MGM Studios despite nearing completion. The movie, detailing Altman's brief ousting and swift return to OpenAI, is now being shopped to other distributors. Amazon cited a belief that a di",
-    "link": "https://economictimes.indiatimes.com/tech/technology/amazon-mgm-drops-luca-guadagninos-sam-altman-film-artificial/articleshow/131873062.cms",
+    "title": "PE firms, mid-market companies drive India\u2019s new GCC wave",
+    "snippet": "India's Global Capability Centre (GCC) landscape is shifting, with private equity-backed and mid-market firms now driving significant expansion.  These companies are leveraging GCCs beyond cost savings to build advanced capabilities in AI and engineering, creating substantial value for their portfol",
+    "link": "https://economictimes.indiatimes.com/tech/technology/pe-firms-mid-market-companies-drive-indias-new-gcc-wave/articleshow/131896747.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-06-21T06:20:13.622072",
+    "captured_at": "2026-06-22T06:43:07.053279",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "Global",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Bain tests software takeover targets by vibecoding AI replicas",
+    "snippet": "Private equity groups swiftly recreate software products to gauge their competitive advantages",
+    "link": "https://www.ft.com/content/e5bac4d1-b1f8-43a4-bd54-b182d5357af0",
+    "evidence_weight": 3,
+    "notes": "FT - Technology"
+  },
+  {
+    "captured_at": "2026-06-22T06:43:07.053291",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "Global",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Wars trigger $12bn venture capital rush into defence tech",
+    "snippet": "Funding this year has already surpassed 2025 total as soaring valuations fuel fears of a hype cycle",
+    "link": "https://www.ft.com/content/cb535f43-d2b7-4d14-82fe-abdd14765dfe",
+    "evidence_weight": 3,
+    "notes": "FT - Technology"
+  },
+  {
+    "captured_at": "2026-06-22T06:43:07.053295",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -465,7 +495,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-06-21T06:20:13.622083",
+    "captured_at": "2026-06-22T06:43:07.053298",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -480,7 +510,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-06-21T06:20:13.622086",
+    "captured_at": "2026-06-22T06:43:07.053301",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -495,7 +525,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-06-21T06:20:13.622088",
+    "captured_at": "2026-06-22T06:43:07.053304",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -510,7 +540,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-06-21T06:20:13.622091",
+    "captured_at": "2026-06-22T06:43:07.053306",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -525,7 +555,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-06-21T06:20:13.622093",
+    "captured_at": "2026-06-22T06:43:07.053309",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -540,7 +570,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-06-21T06:20:13.622095",
+    "captured_at": "2026-06-22T06:43:07.053311",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -555,7 +585,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-06-21T06:20:13.622097",
+    "captured_at": "2026-06-22T06:43:07.053314",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -570,37 +600,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-06-21T06:20:13.622099",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "ChatGPT moved my cheese: AI is unsettling the self-help shelf",
-    "snippet": "Instant summaries sound the death knell for the bullet-point books that prey on our insecurities",
-    "link": "https://www.ft.com/content/d5be7d15-570f-4a4e-ac4e-8dd2e1948b0b",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-06-21T06:20:13.622101",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Using AI for financial advice? Proceed with caution",
-    "snippet": "The chatbots are helpful for simple tasks, but they can make costly mistakes",
-    "link": "https://www.ft.com/content/8e84e72d-6098-4378-80c1-2053ac1a8365",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-06-21T06:20:13.815526",
+    "captured_at": "2026-06-22T06:43:07.252072",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -615,7 +615,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-06-21T06:20:13.815535",
+    "captured_at": "2026-06-22T06:43:07.252083",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -630,7 +630,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-06-21T06:20:13.815538",
+    "captured_at": "2026-06-22T06:43:07.252087",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -645,7 +645,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-06-21T06:20:13.815540",
+    "captured_at": "2026-06-22T06:43:07.252090",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -660,7 +660,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-06-21T06:20:13.815542",
+    "captured_at": "2026-06-22T06:43:07.252093",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -675,7 +675,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-06-21T06:20:13.815544",
+    "captured_at": "2026-06-22T06:43:07.252096",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -690,7 +690,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-06-21T06:20:13.815546",
+    "captured_at": "2026-06-22T06:43:07.252098",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -705,7 +705,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-06-21T06:20:13.815548",
+    "captured_at": "2026-06-22T06:43:07.252101",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -720,7 +720,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-06-21T06:20:13.815550",
+    "captured_at": "2026-06-22T06:43:07.252104",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -735,7 +735,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-06-21T06:20:13.815552",
+    "captured_at": "2026-06-22T06:43:07.252107",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
