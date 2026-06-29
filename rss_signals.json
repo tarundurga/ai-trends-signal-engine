@@ -1,6 +1,66 @@
 [
   {
-    "captured_at": "2026-06-28T05:47:52.152671",
+    "captured_at": "2026-06-29T06:09:13.780553",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "iPhone 18 Pro launch date, expected price, processor and camera upgrades",
+    "snippet": "Leaks suggest Apple's iPhone 18 Pro lineup may launch on September 8 or 9. The phone is expected to see a price of around $1,200-$1,300",
+    "link": "https://www.livemint.com/technology/gadgets/iphone-18-pro-launch-date-expected-price-processor-and-camera-upgrades-11782703711679.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-06-29T06:09:13.780568",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "iPhone 18 Pro, iPhone 18 Pro Max could see up to $200 price hike, says report",
+    "snippet": "Apple could raise the prices for the upcoming iPhone 18 Pro models by up to $200. The iPhone 18 Pro could be priced at $1,200-$1,300, if the new report is to be believed",
+    "link": "https://www.livemint.com/technology/gadgets/iphone-18-pro-iphone-18-pro-max-could-see-up-to-200-price-hike-says-report-11782632325917.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-06-29T06:09:13.780572",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Mint Explainer: Why quantum computing is the next geopolitical race",
+    "snippet": "With multi-billion dollar investments and new US executive orders targeting a 2028 breakthrough, global powers are rushing to secure hardware superiority before 'Q-Day' upends modern encryption.",
+    "link": "https://www.livemint.com/technology/quantum-computing-geopolitical-race-us-china-india-mint-explainer-11782622578290.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-06-29T06:09:13.780575",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Flipkart GOAT Sale: iPhone 17 gets  \u20b912,000 discount, Pro models cheaper by up to  \u20b922,000",
+    "snippet": "Flipkart's GOAT Sale is beginning from July 4 with discounts on various products including the iPhone 17 series. The iPhone 17 will be priced at  \u20b970,900, the iPhone 17 Pro at  \u20b91,12,900, and the iPhone 17 Pro Max at  \u20b91,27,900",
+    "link": "https://www.livemint.com/technology/tech-news/flipkart-goat-sale-iphone-17-gets-rs-12-000-discount-pro-models-cheaper-by-up-to-rs-22000-11782627851114.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-06-29T06:09:13.780578",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -15,7 +75,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-06-28T05:47:52.152686",
+    "captured_at": "2026-06-29T06:09:13.780581",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -30,7 +90,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-06-28T05:47:52.152690",
+    "captured_at": "2026-06-29T06:09:13.780584",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -45,7 +105,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-06-28T05:47:52.152693",
+    "captured_at": "2026-06-29T06:09:13.780589",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -60,7 +120,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-06-28T05:47:52.152695",
+    "captured_at": "2026-06-29T06:09:13.780593",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -75,7 +135,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-06-28T05:47:52.152698",
+    "captured_at": "2026-06-29T06:09:13.780596",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -90,7 +150,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-06-28T05:47:52.152701",
+    "captured_at": "2026-06-29T06:09:14.186599",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -98,14 +158,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "India's robotics funding doubles in 2026 first-half, but scale seems far away",
-    "snippet": "India's robotics sector continues to lag its global peers. In 2025, Indian robotics startups raised less than 1% of the capital secured by US robotics startups and about 2% of that raised in China, according to Tracxn.",
-    "link": "https://www.livemint.com/technology/india-robotics-funding-startups-technology-government-initiatives-inflection-point-cheque-sizes-rd-11782447544869.html",
+    "title": "Instagram tests new ways for users to customise the \u2018Your Algorithm\u2019 setting",
+    "snippet": "",
+    "link": "https://indianexpress.com/article/technology/tech-news-technology/instagram-tests-customise-your-algorithm-setting-10762404/",
     "evidence_weight": 3,
-    "notes": "Mint - Tech"
+    "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-06-28T05:47:52.152705",
+    "captured_at": "2026-06-29T06:09:14.186610",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -113,14 +173,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "iPhone Ultra launch back on track after Apple fixes critical foldable issue: Report",
-    "snippet": "Apple's foldable iPhone is set for a September launch after resolving hinge issues, as per a new report",
-    "link": "https://www.livemint.com/technology/gadgets/iphone-ultra-launch-back-on-track-after-apple-fixes-critical-foldable-issue-report-11782451429741.html",
+    "title": "AWS CEO defends hiring fresh grads in AI era: \u2018You need their energy and excitement\u2019",
+    "snippet": "",
+    "link": "https://indianexpress.com/article/technology/tech-news-technology/aws-ceo-hiring-fresh-grads-ai-jobs-impact-10762377/",
     "evidence_weight": 3,
-    "notes": "Mint - Tech"
+    "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-06-28T05:47:52.152709",
+    "captured_at": "2026-06-29T06:09:14.186615",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -128,14 +188,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Apple price hike: Check updated prices of MacBook Neo, Mac mini M4, iPads and HomePod",
-    "snippet": "Apple has raised prices for its MacBooks, iPads, and other products in India due to increasing memory chip costs.&amp;nbsp;",
-    "link": "https://www.livemint.com/technology/tech-news/apple-price-hike-check-updated-prices-of-macbook-neo-mac-mini-m4-ipads-and-homepod-11782436667294.html",
+    "title": "Nothing CMF Watch 3 Pro review: Premium design, long battery life under Rs 8,000",
+    "snippet": "",
+    "link": "https://indianexpress.com/article/technology/tech-reviews/nothing-cmf-watch-3-pro-review-2026-10761542/",
     "evidence_weight": 3,
-    "notes": "Mint - Tech"
+    "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-06-28T05:47:52.152712",
+    "captured_at": "2026-06-29T06:09:14.186623",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -143,14 +203,29 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Apple raises MacBook and iPad prices amid memory chip crunch \u2014 Check new prices here",
-    "snippet": "Memory chip makers such as Micron have, in recent months, prioritised orders from AI chipmakers like Nvidia, helping them earn record profits but leaving little supply for electronics makers that have been forced to increase prices.",
-    "link": "https://www.livemint.com/technology/apple-raises-macbook-and-ipad-prices-amid-memory-chip-crunch-check-new-prices-here-11782394160264.html",
+    "title": "Netflix now requires a unique email ID for every profile login: What it means for users",
+    "snippet": "",
+    "link": "https://indianexpress.com/article/technology/tech-news-technology/netflix-requires-unique-email-id-profile-login-10761446/",
     "evidence_weight": 3,
-    "notes": "Mint - Tech"
+    "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-06-28T05:47:52.707817",
+    "captured_at": "2026-06-29T06:09:14.186626",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "OpenAI unveils GPT-5.6 Sol, Terra, and Luna but almost no one can use them yet: Here\u2019s why",
+    "snippet": "",
+    "link": "https://indianexpress.com/article/technology/artificial-intelligence/openai-gpt-5-6-sol-terra-luna-restricted-access-10761186/",
+    "evidence_weight": 3,
+    "notes": "Indian Express - Tech"
+  },
+  {
+    "captured_at": "2026-06-29T06:09:14.186629",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -165,7 +240,7 @@
     "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-06-28T05:47:52.707828",
+    "captured_at": "2026-06-29T06:09:14.186633",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -180,7 +255,7 @@
     "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-06-28T05:47:52.707832",
+    "captured_at": "2026-06-29T06:09:14.186636",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -195,7 +270,7 @@
     "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-06-28T05:47:52.707839",
+    "captured_at": "2026-06-29T06:09:14.186640",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -210,7 +285,7 @@
     "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-06-28T05:47:52.707842",
+    "captured_at": "2026-06-29T06:09:14.186643",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -225,82 +300,7 @@
     "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-06-28T05:47:52.707845",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Living with the Motorola Razr Fold for a month: Here\u2019s what I learnt",
-    "snippet": "",
-    "link": "https://indianexpress.com/article/technology/tech-reviews/motorola-razr-fold-2026-review-10760249/",
-    "evidence_weight": 3,
-    "notes": "Indian Express - Tech"
-  },
-  {
-    "captured_at": "2026-06-28T05:47:52.707847",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "11 ways Google says Gemini can transform productivity at work",
-    "snippet": "",
-    "link": "https://indianexpress.com/article/technology/tech-news-technology/11-ways-google-says-gemini-can-transform-productivity-at-work-10760291/",
-    "evidence_weight": 3,
-    "notes": "Indian Express - Tech"
-  },
-  {
-    "captured_at": "2026-06-28T05:47:52.707850",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Vi offers 3-month Spotify Premium free on select postpaid plans",
-    "snippet": "",
-    "link": "https://indianexpress.com/article/technology/tech-news-technology/vi-offers-3-month-spotify-premium-free-on-select-postpaid-plans-10760021/",
-    "evidence_weight": 3,
-    "notes": "Indian Express - Tech"
-  },
-  {
-    "captured_at": "2026-06-28T05:47:52.707854",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "June Strawberry Moon 2026: What is it, when to watch it in India",
-    "snippet": "",
-    "link": "https://indianexpress.com/article/technology/science/june-strawberry-moon-2026-watch-india-10759978/",
-    "evidence_weight": 3,
-    "notes": "Indian Express - Tech"
-  },
-  {
-    "captured_at": "2026-06-28T05:47:52.707856",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "OpenAI defers public rollout of GPT\u20115.6 as US seeks early access to frontier AI models",
-    "snippet": "",
-    "link": "https://indianexpress.com/article/technology/tech-news-technology/openai-defers-public-rollout-of-gpt%e2%80%915-6-as-us-seeks-early-access-to-frontier-ai-models-10759804/",
-    "evidence_weight": 3,
-    "notes": "Indian Express - Tech"
-  },
-  {
-    "captured_at": "2026-06-28T05:47:52.919179",
+    "captured_at": "2026-06-29T06:09:14.289625",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -308,14 +308,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Ambient intelligence: How AI is becoming omnipresent in our lives and the implications",
-    "snippet": "Ambient intelligence, once a futuristic concept, is now a consumer reality with AI embedded in everyday devices like smart glasses and rings. This technology anticipates user needs, shifting from reactive queries to proactive assistance. While offering potential benefits, it raises significant conce",
-    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ambient-intelligence-how-ai-is-becoming-omnipresent-in-our-lives-and-the-implications/articleshow/132045361.cms",
+    "title": "Delhivery founder Sahil Barua says rise in ecommerce deliveries driving company\u2019s improved performance",
+    "snippet": "Delhivery's growth is surging, fueled by booming e-commerce, especially from D2C brands and specialized online retailers.  Founder Sahil Barua highlights the increasing trend of businesses outsourcing logistics due to rising operational costs.  The company is also benefiting from market consolidatio",
+    "link": "https://economictimes.indiatimes.com/tech/technology/delhivery-founder-sahil-barua-says-rise-in-ecommerce-deliveries-driving-companys-improved-performance/articleshow/132064161.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-06-28T05:47:52.919188",
+    "captured_at": "2026-06-29T06:09:14.289636",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -323,14 +323,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Where are the unicorns of 2021",
-    "snippet": "In 2021, India witnessed a surge of 39 startups achieving unicorn status.  Following a period of easy funding, these companies, including Cred and Meesho, now navigate a changed landscape marked by global uncertainties and investor caution. While some, like Cred, continue to secure significant inves",
-    "link": "https://economictimes.indiatimes.com/tech/startups/where-are-the-unicorns-of-2021/articleshow/132045249.cms",
+    "title": "Australia to give regulator more power to pursue Big Tech over under-16 ban",
+    "snippet": "Prime Minister Anthony Albanese said there were still \u200btoo many children on social media and tech firms were not doing enough to comply \u200bwith the law.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/australia-to-give-regulator-more-power-to-pursue-big-tech-over-under-16-ban/articleshow/132064129.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-06-28T05:47:52.919192",
+    "captured_at": "2026-06-29T06:09:14.289640",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -338,14 +338,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "How schools breach children\u2019s data privacy: A snapshot",
-    "snippet": "Schools and other organizations are posting children's photos and achievements online without proper parental consent, potentially violating the DPDP Act. This practice exposes minors to privacy risks, online abuse, and legal issues. While global governments are strengthening child online protection",
-    "link": "https://economictimes.indiatimes.com/tech/technology/how-schools-breach-childrens-data-privacy-a-snapshot/articleshow/132045212.cms",
+    "title": "Iran cyberattacks on Israel surged in 2026, Israeli cyber chief says",
+    "snippet": "Yossi Karadi, Director General \u200cof Israel's \u2060National \u2060Cyber Directorate, told German newspaper Die Welt that in \u200bJune 2025 during Israeli military operations against Iran, Israel's authorities \u200bregistered around 1,600 hostile cyber incidents.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/iran-cyberattacks-on-israel-surged-in-2026-israeli-cyber-chief-says/articleshow/132063632.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-06-28T05:47:52.919195",
+    "captured_at": "2026-06-29T06:09:14.289643",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -353,14 +353,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Australia toughens kids' social media ban, doubles potential penalties for tech firms",
-    "snippet": "Australia is doubling penalties for tech firms failing to enforce its child social media ban, as evidence shows limited impact on teen usage. The government is boosting regulator powers to compel companies to prove age verification efforts. Despite over 5 million under-16 accounts deactivated, studi",
-    "link": "https://economictimes.indiatimes.com/tech/technology/australia-toughens-kids-social-media-ban-doubles-potential-penalties-for-tech-firms/articleshow/132037633.cms",
+    "title": "China's Momenta kicks off Hong Kong IPO, targets up to $751 million",
+    "snippet": "The IPO comes as Chinese technology \u200bfirms are returning to public markets, helped by investor demand for companies tied to AI, chips and \u200bautomation. Beijing has also pushed home-grown technology as competition with the United States intensifies.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/chinas-momenta-kicks-off-hong-kong-ipo-targets-up-to-751-million/articleshow/132063228.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-06-28T05:47:52.919197",
+    "captured_at": "2026-06-29T06:09:14.289646",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -368,14 +368,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Beyond Nvidia: Why AI giants like OpenAI, Google and Amazon are building custom chips",
-    "snippet": "The AI race is heating up as tech giants like OpenAI, Google, Amazon, and Microsoft design their own chips to optimize AI operations. This strategic move aims to cut soaring deployment costs and gain control over crucial infrastructure, moving beyond just building better models. While Nvidia's GPUs ",
-    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/beyond-nvidia-why-ai-giants-like-openai-google-and-amazon-are-building-custom-chips/articleshow/132033167.cms",
+    "title": "Nvidia's AI chip sales in China stall, as local chipmakers like Huawei take the lead",
+    "snippet": "Jensen Huang, the CEO of computer chip giant Nvidia, was mobbed by onlookers as he hit the streets for the \"zhajiangmian\" noodles while visiting Beijing during U.S. President Donald Trump's May summit with Chinese leader Xi Jinping. But his celebrity status has not translated into success in selling",
+    "link": "https://economictimes.indiatimes.com/tech/technology/nvidias-ai-chip-sales-in-china-stall-as-local-chipmakers-like-huawei-take-the-lead/articleshow/132063107.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-06-28T05:47:52.919200",
+    "captured_at": "2026-06-29T06:09:14.289649",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -383,14 +383,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Inside Claude Mythos: Why Anthropic held back its most advanced AI",
-    "snippet": "Anthropic's advanced AI, Claude Mythos, capable of discovering software flaws, was kept from public release due to misuse concerns. Instead, it powered Project Glasswing, a collaborative effort with tech giants to secure critical software, identifying thousands of vulnerabilities.  While not fully p",
-    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/inside-claude-mythos-why-anthropic-held-back-its-most-advanced-ai/articleshow/132032754.cms",
+    "title": "For sale on Facebook: monkeys, rhino horn and dead pangolins",
+    "snippet": "The ghostly white creature curled up on a weighing scale is almost unrecognisable in the Facebook post offering it for sale. Some of the content is oblique -- vendors often post images of animals or parts for sale without any price or explanation.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/for-sale-on-facebook-monkeys-rhino-horn-and-dead-pangolins/articleshow/132061840.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-06-28T05:47:52.919203",
+    "captured_at": "2026-06-29T06:09:14.289652",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -398,14 +398,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "OpenAI unveils GPT-5.6 AI models with phased rollout and stronger safety checks",
-    "snippet": "OpenAI has unveiled GPT-5.6, its latest AI model family with Sol, Terra and Luna. The models will roll out gradually across ChatGPT, the API and Codex, with Sol adding Max and Ultra modes for advanced reasoning.",
-    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-unveils-gpt-5-6-ai-models-with-phased-rollout-and-stronger-safety-checks/articleshow/132032380.cms",
+    "title": "CertIn warns against malware campaign spreading through WhatsApp web",
+    "snippet": "The Indian Computer Emergency Response Team has warned WhatsApp web and desktop users to be cautious of any attachments, even if they come from a friend, colleague or family member.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/certin-warns-against-malware-campaign-spreading-through-whatsapp-web/articleshow/132061747.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-06-28T05:47:52.919206",
+    "captured_at": "2026-06-29T06:09:14.289654",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -413,14 +413,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "'Humans behave better when watched': Xprice founder, tech leaders make the case for surveillance",
-    "snippet": "Tech leaders like Peter Diamandis and Larry Ellison are championing a future of 'radical transparency' enabled by a vast network of sensors. They argue that constant monitoring, from home cameras to orbiting satellites, will foster better human behaviour as 'no one can hide.'",
-    "link": "https://economictimes.indiatimes.com/tech/technology/humans-behave-better-when-watched-xprice-founder-tech-leaders-make-the-case-for-surveillance/articleshow/132032412.cms",
+    "title": "92% of tech executives see AI management as vital work skill by 2031: KPMG",
+    "snippet": "As the corporate landscape shifts toward automated decision-making, 92 per cent of tech executives report that managing artificial intelligence agents will become an important skill within the next five years. According to a report by KPMG, this rapid rise of agentic AI is forcing organizations to o",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/92-of-tech-executives-see-ai-management-as-vital-work-skill-by-2031-kpmg/articleshow/132061694.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-06-28T05:47:52.919208",
+    "captured_at": "2026-06-29T06:09:14.289657",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -428,14 +428,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Companies pull back on AI as weak workplace collaboration hurts results: Report",
-    "snippet": "A recent report shows that many companies are pivoting away from AI initiatives due to challenges with quality and employee engagement. The failure often stems from inadequate collaboration between humans and AI. Those organisations that implement cohesive workflows and robust review mechanisms are ",
-    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/companies-pull-back-on-ai-as-weak-workplace-collaboration-hurts-results-report/articleshow/132031472.cms",
+    "title": "Turtlemint Fintech shares list at 11% discount to IPO price on NSE, BSE",
+    "snippet": "Turtlemint Fintech Solutions experienced a subdued market debut, with shares listing at a discount to their IPO price on both NSE and BSE. This followed expectations from the unlisted market, which had indicated a negative grey market premium. The company's Rs 883 crore IPO, aimed at strengthening t",
+    "link": "https://economictimes.indiatimes.com/tech/startups/turtlemint-ipo-shares-to-debut-today-heres-what-gmp-suggests-ahead-of-listing/articleshow/132063873.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-06-28T05:47:52.919211",
+    "captured_at": "2026-06-29T06:09:14.289660",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -443,14 +443,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Persistent Systems to acquire Nagarro; combined entity to generate $2.9 billion in annualised revenue",
-    "snippet": "Indian IT firm Persistent Systems is making a significant move by launching a takeover bid for German digital engineering company Nagarro SE. This potential acquisition, valued at approximately 140% above Nagarro's undisturbed share price, aims to create a global tech powerhouse with nearly $2.9 bil",
-    "link": "https://economictimes.indiatimes.com/tech/information-tech/persistent-to-acquire-nagarro-combined-company-to-generate-2-9-billion-in-annualised-revenue/articleshow/132030101.cms",
+    "title": "South Korean president to unveil massive AI and chip investment drive",
+    "snippet": "Lee will preside over the event, framed as a national \"great leap\" due to be unveiled around 0500 \u200cGMT, his office \u2060said, with \u2060ministries covering industry, science, climate and transport set to outline policy support.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/south-korean-president-to-unveil-massive-ai-and-chip-investment-drive/articleshow/132061338.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-06-28T05:47:53.380611",
+    "captured_at": "2026-06-29T06:09:14.541811",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -458,14 +458,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Apple to fight $500mn patent bill at UK Supreme Court",
-    "snippet": "Battle over licensing of mobile connection protocols could shape global rates for other technologies",
-    "link": "https://www.ft.com/content/d6a0103a-7fca-4e66-b92f-45f6ff3de059",
+    "title": "AInflation is real but tiny",
+    "snippet": "Plus, European stocks ain\u2019t cheap",
+    "link": "https://www.ft.com/content/62a3e2df-ec52-4023-9142-95d13b19e69b",
     "evidence_weight": 3,
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-06-28T05:47:53.380624",
+    "captured_at": "2026-06-29T06:09:14.541824",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -473,14 +473,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Google caps Meta\u2019s Gemini use as AI demand strains capacity",
-    "snippet": "Surging appetite for advanced models is turning computing power into the tech industry\u2019s scarcest commodity",
-    "link": "https://www.ft.com/content/c5d52f72-71ef-40bc-bad3-61afdba8b378",
+    "title": "Artificial intelligence and Engels\u2019 Pause",
+    "snippet": "Politics could be a bigger constraint than power and compute",
+    "link": "https://www.ft.com/content/daab10e0-fde8-4de0-9d46-a597d59b503d",
     "evidence_weight": 3,
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-06-28T05:47:53.380628",
+    "captured_at": "2026-06-29T06:09:14.541827",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -488,14 +488,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "America seeks its McDonald\u2019s model for missile making",
-    "snippet": "Defence groups are developing modular workshops that can mass-produce cheap missiles during wartime",
-    "link": "https://www.ft.com/content/06cf309b-ff32-4698-8bc3-232086063b51",
+    "title": "Stray Ukraine drones worth the price of hitting Russia, says Estonian minister",
+    "snippet": "Margus Tsahkna asserts that EU negotiations with Moscow are premature",
+    "link": "https://www.ft.com/content/f487526b-9646-456b-bccb-001f31090919",
     "evidence_weight": 3,
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-06-28T05:47:53.380631",
+    "captured_at": "2026-06-29T06:09:14.541831",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -503,14 +503,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Chinese tech hub\u2019s shift into robotaxis leaves drivers by the wayside",
-    "snippet": "Shenzhen expands driverless vehicles as growing automation drive threatens gig economy workforce",
-    "link": "https://www.ft.com/content/b1445598-e5e3-4530-9e82-e0155c44106b",
+    "title": "The new AI-based world order",
+    "snippet": "A single factor is now dictating the hierarchy of global returns",
+    "link": "https://www.ft.com/content/ce505663-9567-40a1-ab9d-91b6bdb90a17",
     "evidence_weight": 3,
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-06-28T05:47:53.380634",
+    "captured_at": "2026-06-29T06:09:14.541834",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -518,14 +518,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Chipmakers are expensive globally",
-    "snippet": "Valuations are high for AI-exposed markets",
-    "link": "https://www.ft.com/content/e5aa937c-bc52-4973-bf21-bfb6afd1d95d",
+    "title": "Can the IT sector solve the UK\u2019s growth problem?",
+    "snippet": "The industry is expanding far faster than finance. Regions outside London want a piece of the pie",
+    "link": "https://www.ft.com/content/31448605-a987-43a6-ad1e-0062e0889d06",
     "evidence_weight": 3,
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-06-28T05:47:53.380637",
+    "captured_at": "2026-06-29T06:09:14.541837",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -533,14 +533,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Apple seeks to buy memory chips from blacklisted Chinese company",
-    "snippet": "iPhone maker wants Trump administration to sign off on purchases to ease pressure from rising semiconductor prices",
-    "link": "https://www.ft.com/content/d72a25e2-7bde-4aa9-bd8d-0c4f3d6cb2cb",
+    "title": "Make your garden a home for hedgehogs",
+    "snippet": "Five gadgets for the greater outdoors",
+    "link": "https://www.ft.com/content/57761b18-e2dc-4002-aeab-fc3cabe3e97b",
     "evidence_weight": 3,
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-06-28T05:47:53.380640",
+    "captured_at": "2026-06-29T06:09:14.541840",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -548,14 +548,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Trump administration allows some access to Anthropic\u2019s Mythos",
-    "snippet": "Move eases tension with AI lab but unease over Washington\u2019s ad hoc regulatory approach remains",
-    "link": "https://www.ft.com/content/4b578b5c-258a-48f5-a5e9-15eef5659573",
+    "title": "AI fuels record $200bn M&A boom in US power sector",
+    "snippet": "Companies in dealmaking blitz as they seek to build the energy infrastructure for data centres",
+    "link": "https://www.ft.com/content/6e15876d-1882-45e2-a13c-16a1327079d7",
     "evidence_weight": 3,
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-06-28T05:47:53.380643",
+    "captured_at": "2026-06-29T06:09:14.541842",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -563,14 +563,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "OpenAI releases GPT-5.6 to select users vetted by US government",
-    "snippet": "San Francisco-based company announces \u2018limited preview\u2019 of new models with powerful cyber security capabilities",
-    "link": "https://www.ft.com/content/33a306c2-5aaa-45b1-9386-1716fa6a128e",
+    "title": "Robots, not chatbots, will realise AI\u2019s potential",
+    "snippet": "Factory-floor applications of the technology could significantly enhance rich-world economies",
+    "link": "https://www.ft.com/content/794aa75d-5188-4036-91ca-7fc70b61faf8",
     "evidence_weight": 3,
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-06-28T05:47:53.380645",
+    "captured_at": "2026-06-29T06:09:14.541845",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -578,14 +578,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "SpaceX bonds sell off days after AI and rocket group\u2019s $25bn debt deal",
-    "snippet": "Yields move towards levels commonly associated with junk-rated companies",
-    "link": "https://www.ft.com/content/04f98e21-4ce7-43d2-8651-44557e12c31c",
+    "title": "Are AI stocks headed for further turbulence?",
+    "snippet": "Market Questions is the FT\u2019s guide to the week ahead",
+    "link": "https://www.ft.com/content/bc8ce24b-b6ed-4e2d-a628-69f30751ce9e",
     "evidence_weight": 3,
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-06-28T05:47:53.380648",
+    "captured_at": "2026-06-29T06:09:14.541847",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -593,14 +593,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "S&P 500 notches longest losing streak in 10 months as chipmakers slide",
-    "snippet": "Software stock-led recovery proves fleeting as Wall Street\u2019s main indices fall for fifth consecutive session",
-    "link": "https://www.ft.com/content/bb70e272-5b09-4806-8b19-7c03c350f580",
+    "title": "AI \u2018exuberance\u2019 risks ending in lengthy investment bust, BIS warns",
+    "snippet": "Weak returns could trigger a sharp pullback in funding for tech companies that threatens the global economy",
+    "link": "https://www.ft.com/content/e81ce414-e4bd-4e8c-bac7-94f7bf17def4",
     "evidence_weight": 3,
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-06-28T05:47:53.598428",
+    "captured_at": "2026-06-29T06:09:14.702477",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -615,7 +615,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-06-28T05:47:53.598438",
+    "captured_at": "2026-06-29T06:09:14.702489",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -630,7 +630,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-06-28T05:47:53.598442",
+    "captured_at": "2026-06-29T06:09:14.702493",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -645,7 +645,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-06-28T05:47:53.598445",
+    "captured_at": "2026-06-29T06:09:14.702496",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -660,7 +660,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-06-28T05:47:53.598448",
+    "captured_at": "2026-06-29T06:09:14.702499",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -675,7 +675,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-06-28T05:47:53.598451",
+    "captured_at": "2026-06-29T06:09:14.702502",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -690,7 +690,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-06-28T05:47:53.598454",
+    "captured_at": "2026-06-29T06:09:14.702505",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -705,7 +705,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-06-28T05:47:53.598457",
+    "captured_at": "2026-06-29T06:09:14.702508",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -720,7 +720,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-06-28T05:47:53.598460",
+    "captured_at": "2026-06-29T06:09:14.702512",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -735,7 +735,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-06-28T05:47:53.598463",
+    "captured_at": "2026-06-29T06:09:14.702514",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
