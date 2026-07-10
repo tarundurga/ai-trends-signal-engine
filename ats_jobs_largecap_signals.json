@@ -1,6 +1,6 @@
 [
   {
-    "captured_at": "2026-07-09T05:52:44.125425",
+    "captured_at": "2026-07-10T05:45:30.119554",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -16,7 +16,7 @@
     "notes": "greenhouse fetch error"
   },
   {
-    "captured_at": "2026-07-09T05:52:44.246870",
+    "captured_at": "2026-07-10T05:45:30.319725",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -41,7 +41,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.252303",
+    "captured_at": "2026-07-10T05:45:30.324721",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -62,7 +62,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.255700",
+    "captured_at": "2026-07-10T05:45:30.327923",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -80,7 +80,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.258215",
+    "captured_at": "2026-07-10T05:45:30.331032",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -98,7 +98,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.261493",
+    "captured_at": "2026-07-10T05:45:30.337071",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -119,7 +119,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.264097",
+    "captured_at": "2026-07-10T05:45:30.341744",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -141,7 +141,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.268199",
+    "captured_at": "2026-07-10T05:45:30.348143",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -162,7 +162,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.271630",
+    "captured_at": "2026-07-10T05:45:30.351618",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -184,7 +184,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.274759",
+    "captured_at": "2026-07-10T05:45:30.354891",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -205,7 +205,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.277649",
+    "captured_at": "2026-07-10T05:45:30.358227",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -226,7 +226,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.280582",
+    "captured_at": "2026-07-10T05:45:30.361233",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -247,7 +247,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.283266",
+    "captured_at": "2026-07-10T05:45:30.363775",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -271,25 +271,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.285955",
-    "segment": "largecap",
-    "source_channel": "ats_jobs",
-    "source_type": "job_posting",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "PhonePe",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Cluster Collection Manager - Chennai",
-    "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
-    "link": "https://job-boards.greenhouse.io/phonepe/jobs/7737342003",
-    "evidence_weight": 5,
-    "notes": "greenhouse; location=Chennai; team=Collections; created_at=2026-06-15T04:53:42-04:00",
-    "skill_hits": [],
-    "ai_related": true
-  },
-  {
-    "captured_at": "2026-07-09T05:52:44.289186",
+    "captured_at": "2026-07-10T05:45:30.366422",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -307,7 +289,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.292390",
+    "captured_at": "2026-07-10T05:45:30.369595",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -325,7 +307,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.295239",
+    "captured_at": "2026-07-10T05:45:30.372770",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -346,7 +328,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.298370",
+    "captured_at": "2026-07-10T05:45:30.376221",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -366,7 +348,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.301346",
+    "captured_at": "2026-07-10T05:45:30.379392",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -386,7 +368,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.304544",
+    "captured_at": "2026-07-10T05:45:30.382579",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -406,7 +388,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.307746",
+    "captured_at": "2026-07-10T05:45:30.385780",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -426,7 +408,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.312577",
+    "captured_at": "2026-07-10T05:45:30.390703",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -446,7 +428,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.316393",
+    "captured_at": "2026-07-10T05:45:30.394572",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -464,7 +446,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.319361",
+    "captured_at": "2026-07-10T05:45:30.397567",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -484,7 +466,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.324095",
+    "captured_at": "2026-07-10T05:45:30.402371",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -504,7 +486,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.326789",
+    "captured_at": "2026-07-10T05:45:30.405095",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -524,7 +506,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.330081",
+    "captured_at": "2026-07-10T05:45:30.408441",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -545,7 +527,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.334065",
+    "captured_at": "2026-07-10T05:45:30.412581",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -566,7 +548,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.337385",
+    "captured_at": "2026-07-10T05:45:30.415868",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -584,7 +566,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.341200",
+    "captured_at": "2026-07-10T05:45:30.419771",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -604,7 +586,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.345928",
+    "captured_at": "2026-07-10T05:45:30.424557",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -624,7 +606,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.348354",
+    "captured_at": "2026-07-10T05:45:30.427048",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -645,7 +627,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.352058",
+    "captured_at": "2026-07-10T05:45:30.430827",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -663,7 +645,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.355761",
+    "captured_at": "2026-07-10T05:45:30.434567",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -681,7 +663,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.359400",
+    "captured_at": "2026-07-10T05:45:30.438223",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -699,7 +681,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.361501",
+    "captured_at": "2026-07-10T05:45:30.440344",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -719,7 +701,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.364477",
+    "captured_at": "2026-07-10T05:45:30.443344",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -739,7 +721,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.367501",
+    "captured_at": "2026-07-10T05:45:30.446572",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -761,7 +743,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.370749",
+    "captured_at": "2026-07-10T05:45:30.449891",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -784,7 +766,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.373935",
+    "captured_at": "2026-07-10T05:45:30.453104",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -804,7 +786,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.378183",
+    "captured_at": "2026-07-10T05:45:30.455796",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -824,7 +806,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.383640",
+    "captured_at": "2026-07-10T05:45:30.459343",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -845,7 +827,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.387535",
+    "captured_at": "2026-07-10T05:45:30.462010",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -865,7 +847,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.392072",
+    "captured_at": "2026-07-10T05:45:30.464692",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -887,7 +869,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.401263",
+    "captured_at": "2026-07-10T05:45:30.469819",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -907,7 +889,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.404671",
+    "captured_at": "2026-07-10T05:45:30.472722",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -928,7 +910,27 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.407755",
+    "captured_at": "2026-07-10T05:45:30.476218",
+    "segment": "largecap",
+    "source_channel": "ats_jobs",
+    "source_type": "job_posting",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "PhonePe",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Software Engineer, Android",
+    "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
+    "link": "https://job-boards.greenhouse.io/phonepe/jobs/7799494003",
+    "evidence_weight": 5,
+    "notes": "greenhouse; location=Bangalore; team=Engineering Development; created_at=2026-07-09T04:47:55-04:00",
+    "skill_hits": [
+      "design"
+    ],
+    "ai_related": true
+  },
+  {
+    "captured_at": "2026-07-10T05:45:30.479015",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -948,7 +950,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.410378",
+    "captured_at": "2026-07-10T05:45:30.481908",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -961,14 +963,14 @@
     "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
     "link": "https://job-boards.greenhouse.io/phonepe/jobs/7795782003",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Bangalore; team=Engineering Development; created_at=2026-07-08T10:23:53-04:00",
+    "notes": "greenhouse; location=Bangalore; team=Engineering Development; created_at=2026-07-09T13:28:06-04:00",
     "skill_hits": [
       "design"
     ],
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.412603",
+    "captured_at": "2026-07-10T05:45:30.484434",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -988,7 +990,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.415339",
+    "captured_at": "2026-07-10T05:45:30.487391",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1006,7 +1008,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.419068",
+    "captured_at": "2026-07-10T05:45:30.491386",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1026,7 +1028,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.422222",
+    "captured_at": "2026-07-10T05:45:30.494695",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1046,7 +1048,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.425119",
+    "captured_at": "2026-07-10T05:45:30.497688",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1066,7 +1068,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.428592",
+    "captured_at": "2026-07-10T05:45:30.501288",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1086,7 +1088,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.431890",
+    "captured_at": "2026-07-10T05:45:30.504921",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1106,7 +1108,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.435000",
+    "captured_at": "2026-07-10T05:45:30.508416",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -1126,27 +1128,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-07-09T05:52:44.438855",
-    "segment": "largecap",
-    "source_channel": "ats_jobs",
-    "source_type": "job_posting",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "PhonePe",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Zonal Collection Manager, Delhi NCR",
-    "snippet": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About PhonePe Limited:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016. As of April 2025, PhonePe has over 60 Crore (600 Million) registered us",
-    "link": "https://job-boards.greenhouse.io/phonepe/jobs/7741366003",
-    "evidence_weight": 5,
-    "notes": "greenhouse; location=Delhi NCR; team=Collections; created_at=2026-06-15T04:53:42-04:00",
-    "skill_hits": [
-      "training"
-    ],
-    "ai_related": true
-  },
-  {
-    "captured_at": "2026-07-09T05:52:44.585278",
+    "captured_at": "2026-07-10T05:45:30.582593",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -1162,7 +1144,7 @@
     "notes": "greenhouse fetch error"
   },
   {
-    "captured_at": "2026-07-09T05:52:44.871235",
+    "captured_at": "2026-07-10T05:45:30.631478",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -1178,7 +1160,7 @@
     "notes": "greenhouse fetch error"
   },
   {
-    "captured_at": "2026-07-09T05:52:44.999342",
+    "captured_at": "2026-07-10T05:45:30.759930",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -1194,7 +1176,7 @@
     "notes": "greenhouse fetch error"
   },
   {
-    "captured_at": "2026-07-09T05:52:45.123613",
+    "captured_at": "2026-07-10T05:45:31.162084",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -1210,7 +1192,7 @@
     "notes": "lever fetch error"
   },
   {
-    "captured_at": "2026-07-09T05:52:45.368287",
+    "captured_at": "2026-07-10T05:45:31.544841",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -1226,7 +1208,7 @@
     "notes": "lever fetch error"
   },
   {
-    "captured_at": "2026-07-09T05:52:45.478755",
+    "captured_at": "2026-07-10T05:45:31.922578",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -1242,7 +1224,7 @@
     "notes": "lever fetch error"
   },
   {
-    "captured_at": "2026-07-09T05:52:45.605003",
+    "captured_at": "2026-07-10T05:45:32.319521",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -1258,7 +1240,7 @@
     "notes": "lever fetch error"
   },
   {
-    "captured_at": "2026-07-09T05:52:45.707835",
+    "captured_at": "2026-07-10T05:45:32.700667",
     "segment": "largecap",
     "source_channel": "ats_jobs",
     "source_type": "error",
