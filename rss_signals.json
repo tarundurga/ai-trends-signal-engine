@@ -1,6 +1,6 @@
 [
   {
-    "captured_at": "2026-07-11T04:35:06.206479",
+    "captured_at": "2026-07-12T04:45:37.923171",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -15,7 +15,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-07-11T04:35:06.206490",
+    "captured_at": "2026-07-12T04:45:37.923184",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -30,7 +30,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-07-11T04:35:06.206494",
+    "captured_at": "2026-07-12T04:45:37.923187",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -45,7 +45,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-07-11T04:35:06.206497",
+    "captured_at": "2026-07-12T04:45:37.923191",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -60,7 +60,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-07-11T04:35:06.206500",
+    "captured_at": "2026-07-12T04:45:37.923194",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -75,7 +75,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-07-11T04:35:06.206502",
+    "captured_at": "2026-07-12T04:45:37.923197",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -90,7 +90,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-07-11T04:35:06.206505",
+    "captured_at": "2026-07-12T04:45:37.923200",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -105,7 +105,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-07-11T04:35:06.206510",
+    "captured_at": "2026-07-12T04:45:37.923204",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -120,7 +120,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-07-11T04:35:06.206513",
+    "captured_at": "2026-07-12T04:45:37.923208",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -135,7 +135,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-07-11T04:35:06.206521",
+    "captured_at": "2026-07-12T04:45:37.923216",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -150,7 +150,112 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-07-11T04:35:08.817992",
+    "captured_at": "2026-07-12T04:45:38.333201",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "How terrorist groups are using AI to gain an edge in battle",
+    "snippet": "",
+    "link": "https://indianexpress.com/article/technology/artificial-intelligence/how-terrorist-groups-are-using-ai-to-gain-an-edge-in-battle-10782691/",
+    "evidence_weight": 3,
+    "notes": "Indian Express - Tech"
+  },
+  {
+    "captured_at": "2026-07-12T04:45:38.333211",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "OnePlus Nord Buds 4 Review: Big on battery life and ANC",
+    "snippet": "",
+    "link": "https://indianexpress.com/article/technology/tech-reviews/oneplus-nord-buds-4-review-big-on-battery-life-and-anc-10782207/",
+    "evidence_weight": 3,
+    "notes": "Indian Express - Tech"
+  },
+  {
+    "captured_at": "2026-07-12T04:45:38.333219",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "iOS 27: Apple Mail gets AI Search, Smart Replies and Siri features",
+    "snippet": "",
+    "link": "https://indianexpress.com/article/technology/tech-news-technology/ios-27-apple-mail-gets-ai-search-smart-replies-and-siri-features-10782109/",
+    "evidence_weight": 3,
+    "notes": "Indian Express - Tech"
+  },
+  {
+    "captured_at": "2026-07-12T04:45:38.333223",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "HyperTexting turns web into social media-style feed without algorithms",
+    "snippet": "",
+    "link": "https://indianexpress.com/article/technology/tech-news-technology/hypertexting-turns-web-into-social-media-style-feed-without-algorithms-10781972/",
+    "evidence_weight": 3,
+    "notes": "Indian Express - Tech"
+  },
+  {
+    "captured_at": "2026-07-12T04:45:38.333226",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Meta pulls AI image feature after privacy backlash, says \u2018it missed the mark\u2019",
+    "snippet": "",
+    "link": "https://indianexpress.com/article/technology/meta-pulls-ai-image-feature-after-privacy-backlash-10781889/",
+    "evidence_weight": 3,
+    "notes": "Indian Express - Tech"
+  },
+  {
+    "captured_at": "2026-07-12T04:45:38.333230",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Spotify\u2019s Release Radar gets new customisation filters for listeners",
+    "snippet": "",
+    "link": "https://indianexpress.com/article/technology/tech-news-technology/spotifys-release-radar-gets-new-customisation-filters-for-listeners-10781853/",
+    "evidence_weight": 3,
+    "notes": "Indian Express - Tech"
+  },
+  {
+    "captured_at": "2026-07-12T04:45:38.333233",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "How many astronauts should live on the moon? New study points to ideal number",
+    "snippet": "",
+    "link": "https://indianexpress.com/article/technology/science/how-many-astronauts-should-live-on-the-moon-new-study-points-to-ideal-number-10781664/",
+    "evidence_weight": 3,
+    "notes": "Indian Express - Tech"
+  },
+  {
+    "captured_at": "2026-07-12T04:45:38.333236",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -165,7 +270,7 @@
     "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-07-11T04:35:08.818003",
+    "captured_at": "2026-07-12T04:45:38.333239",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -180,7 +285,7 @@
     "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-07-11T04:35:08.818012",
+    "captured_at": "2026-07-12T04:45:38.333242",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -195,112 +300,112 @@
     "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-07-11T04:35:08.818015",
+    "captured_at": "2026-07-12T04:45:38.438223",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
-    "india_relevance": "High",
+    "india_relevance": "Medium",
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Apple sues OpenAI, ex-employees over alleged trade secret theft tied to hardware push",
-    "snippet": "",
-    "link": "https://indianexpress.com/article/technology/artificial-intelligence/apple-sues-openai-ex-employees-over-alleged-trade-secret-theft-tied-to-hardware-push-10781372/",
+    "title": "LTM profit jumps 17% to Rs 1,468 crore in April-June quarter",
+    "snippet": "LTM chief executive Venu Lambu declared AI revenue separately for the first time in the earnings call, at $150 million for the quarter, in addition to announcing the completed transition to outcome-based pricing across its top 10 clients. The deal flow remained steady on a quarter-on-quarter basis a",
+    "link": "https://economictimes.indiatimes.com/tech/information-tech/ltm-profit-jumps-17-to-rs-1468-crore-in-april-june-quarter/articleshow/132333081.cms",
     "evidence_weight": 3,
-    "notes": "Indian Express - Tech"
+    "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-07-11T04:35:08.818018",
+    "captured_at": "2026-07-12T04:45:38.438232",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
-    "india_relevance": "High",
+    "india_relevance": "Medium",
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "EU tells Instagram, Facebook to change addictive features or risk fines",
-    "snippet": "",
-    "link": "https://indianexpress.com/article/technology/tech-news-technology/eu-tells-instagram-facebook-to-change-addictive-features-or-risk-fines-10780752/",
+    "title": "India to augment AI compute capacity: Ashwini Vaishnaw",
+    "snippet": "Vaishnaw said rapid advances in AI are reshaping the global technology landscape and require continuous learning and innovation. He urged the IT industry to seize the opportunity by developing next-generation technology solutions and strengthening India's position as a global technology leader.",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-to-augment-ai-compute-capacity-ashwini-vaishnaw/articleshow/132332909.cms",
     "evidence_weight": 3,
-    "notes": "Indian Express - Tech"
+    "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-07-11T04:35:08.818021",
+    "captured_at": "2026-07-12T04:45:38.438235",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
-    "india_relevance": "High",
+    "india_relevance": "Medium",
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Tech Launches (July 10, 2026): ASUS Vivobook AI PCs, Dell Pro Precision workstations, and more",
-    "snippet": "",
-    "link": "https://indianexpress.com/article/technology/tech-news-technology/tech-launches-july-10-2026-asus-vivobook-ai-pcs-dell-pro-precision-workstations-and-more-10780677/",
+    "title": "Karnataka IT minister Priyank Kharge, Anthropic India discuss AI collaboration for Karnataka",
+    "snippet": "Karnataka's IT Minister met Anthropic India's MD to discuss the state's AI vision. Discussions focused on building advanced AI skillsets and forging strategic partnerships for skilling. According to a statement from the minister's office, the two sides also deliberated on establishing Centres of Exc",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/karnataka-it-minister-priyank-kharge-anthropic-india-discuss-ai-collaboration-for-karnataka/articleshow/132330446.cms",
     "evidence_weight": 3,
-    "notes": "Indian Express - Tech"
+    "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-07-11T04:35:08.818023",
+    "captured_at": "2026-07-12T04:45:38.438239",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
-    "india_relevance": "High",
+    "india_relevance": "Medium",
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "OpenAI to shut down ChatGPT Atlas browser: Here\u2019s why",
-    "snippet": "",
-    "link": "https://indianexpress.com/article/technology/tech-news-technology/openai-to-shut-down-chatgpt-atlas-browser-heres-why-10780589/",
+    "title": "SoftBank names ex-Goldman Sachs trader Mark Agne to lead Vision Fund finances",
+    "snippet": "SoftBank Vision Fund has appointed Mark Agne to lead finance and technology roles. The move follows a series of staffing changes at SoftBank as its focus shifts alongside founder Masayoshi Son\u2019s quest for technologies underpinning AI services. Agne joined SoftBank in 2019 after 17 years at Goldman S",
+    "link": "https://economictimes.indiatimes.com/tech/technology/softbank-names-ex-goldman-sachs-trader-mark-agne-to-lead-vision-fund-finances/articleshow/132330292.cms",
     "evidence_weight": 3,
-    "notes": "Indian Express - Tech"
+    "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-07-11T04:35:08.818026",
+    "captured_at": "2026-07-12T04:45:38.438242",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
-    "india_relevance": "High",
+    "india_relevance": "Medium",
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Meta fixes smart glasses privacy issue amid \u2018always-on\u2019 AI glasses report",
-    "snippet": "",
-    "link": "https://indianexpress.com/article/technology/tech-news-technology/meta-fixes-smart-glasses-privacy-issue-amid-always-on-ai-glasses-report-10780341/",
+    "title": "Union Minister Ashwini Vaishnaw urges IT industry to capitalise on global semiconductor talent shortage",
+    "snippet": "India's IT sector can address the global semiconductor talent shortage of one million people. Prime Minister Modi's focus has led to twelve plants developing chips for export. Electronics exports have now become the country's third largest export category. Mobile phones are now the largest exported ",
+    "link": "https://economictimes.indiatimes.com/tech/information-tech/union-minister-ashwini-vaishnaw-urges-it-industry-to-capitalise-on-global-semiconductor-talent-shortage/articleshow/132328165.cms",
     "evidence_weight": 3,
-    "notes": "Indian Express - Tech"
+    "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-07-11T04:35:08.818029",
+    "captured_at": "2026-07-12T04:45:38.438245",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
-    "india_relevance": "High",
+    "india_relevance": "Medium",
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "53% of Indians bought a new smartphone early due to broken glass: Corning study",
-    "snippet": "",
-    "link": "https://indianexpress.com/article/technology/53-of-indians-bought-a-new-smartphone-early-due-to-broken-glass-corning-study-10780242/",
+    "title": "India set to play larger role in building global fintech infrastructure, says Payoneer",
+    "snippet": "India's position as the world's third-largest fintech ecosystem is now translating into a larger platform-building role. Global financial technology companies are increasingly turning to the country for product engineering, artificial intelligence and cross-border infrastructure. The country's finte",
+    "link": "https://economictimes.indiatimes.com/tech/technology/india-set-to-play-larger-role-in-building-global-fintech-infrastructure-says-payoneer/articleshow/132327385.cms",
     "evidence_weight": 3,
-    "notes": "Indian Express - Tech"
+    "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-07-11T04:35:08.818032",
+    "captured_at": "2026-07-12T04:45:38.438248",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
-    "india_relevance": "High",
+    "india_relevance": "Medium",
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "BSNL launches satellite phone in India: What is it and how does it work?",
-    "snippet": "",
-    "link": "https://indianexpress.com/article/technology/tech-news-technology/bsnl-launches-satellite-phone-in-india-what-is-it-and-how-does-it-work-10780085/",
+    "title": "Swiggy Instamart gets 9 FSSAI notices following customer complaints on contaminated food, milk",
+    "snippet": "FSSAI has issued nine notices to Swiggy Instamart due to multiple consumer complaints. Allegations include supplying expired, spoiled, and contaminated food products to customers. Specific products like eggs and protein powder were found unfit for consumption. The regulator also noted issues with FS",
+    "link": "https://economictimes.indiatimes.com/tech/technology/fssai-issues-9-notices-to-swiggy-instamart-following-customer-complaints-on-contaminated-food-milk/articleshow/132326918.cms",
     "evidence_weight": 3,
-    "notes": "Indian Express - Tech"
+    "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-07-11T04:35:09.237768",
+    "captured_at": "2026-07-12T04:45:38.438251",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -315,7 +420,7 @@
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-07-11T04:35:09.237778",
+    "captured_at": "2026-07-12T04:45:38.438254",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -324,13 +429,13 @@
     "industry": "",
     "role_or_skill_hint": "",
     "title": "Meta scraps AI image feature days after launch following privacy backlash",
-    "snippet": "Meta discontinued its new AI image generation feature after significant criticism. The tool allowed image creation using public Instagram accounts without explicit user consent. Actors and a Hollywood union voiced strong objections regarding privacy concerns. Meta stated the feature missed the mark ",
+    "snippet": "Meta withdrew its new AI image generation feature after significant criticism.  Meta's Muse image model provides a feature that lets users generate and edit images using natural language prompts like most AI image generators. However, it drew major criticism from privacy advocates, creators and ente",
     "link": "https://economictimes.indiatimes.com/tech/technology/meta-scraps-ai-image-feature-days-after-launch-following-privacy-backlash/articleshow/132323801.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-07-11T04:35:09.237782",
+    "captured_at": "2026-07-12T04:45:38.438257",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -345,112 +450,82 @@
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-07-11T04:35:09.237785",
+    "captured_at": "2026-07-12T04:45:38.848389",
     "source_channel": "rss",
     "source_type": "news",
-    "geo_primary": "India",
+    "geo_primary": "Global",
     "india_relevance": "Medium",
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Altera returns to growth as AI, robotics fuel demand, CEO says",
-    "snippet": "Altera, a chip maker spun from Intel, is experiencing significant annual growth. The company anticipates strong performance driven by artificial intelligence and robotics applications. Altera is also preparing for a potential public listing in the near future. They have reduced reliance on Intel and",
-    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/altera-returns-to-growth-as-ai-robotics-fuel-demand-ceo-says/articleshow/132323767.cms",
+    "title": "How AI rebrands fail to deliver a lasting share price boost",
+    "snippet": "Most of the groups that pivoted have not sustained their valuation gains, an FT analysis has found",
+    "link": "https://www.ft.com/content/07fa9ce9-ac21-484c-a57c-078b0bb0fd3b",
     "evidence_weight": 3,
-    "notes": "ET - Tech"
+    "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-07-11T04:35:09.237788",
+    "captured_at": "2026-07-12T04:45:38.848400",
     "source_channel": "rss",
     "source_type": "news",
-    "geo_primary": "India",
+    "geo_primary": "Global",
     "india_relevance": "Medium",
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Meta appeals verdict in social media addiction lawsuit",
-    "snippet": "Meta has appealed a landmark social media addiction lawsuit verdict in Los Angeles. The company challenges the jury's determination that its platforms were designed to hook young users. This appeal follows a jury finding negligence by Meta and Google's YouTube. The jury awarded a young woman three m",
-    "link": "https://economictimes.indiatimes.com/tech/technology/meta-appeals-verdict-in-social-media-addiction-lawsuit/articleshow/132323642.cms",
+    "title": "Wealthy warned over HMRC\u2019s use of AI in tax crackdown",
+    "snippet": "Advisers put rich on alert after authority says digital tools brought in billions in tax last year",
+    "link": "https://www.ft.com/content/ab7f7fba-2e4a-4336-afd1-418b10c8248b",
     "evidence_weight": 3,
-    "notes": "ET - Tech"
+    "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-07-11T04:35:09.237791",
+    "captured_at": "2026-07-12T04:45:38.848404",
     "source_channel": "rss",
     "source_type": "news",
-    "geo_primary": "India",
+    "geo_primary": "Global",
     "india_relevance": "Medium",
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Music industry launches AI-generated content labels",
-    "snippet": "Music organisations have introduced a voluntary labeling system for AI-generated content. This system aims to inform listeners about the use of artificial intelligence in music. Two labels will distinguish between fully AI-generated and AI-assisted recordings. Streaming services are closely monitori",
-    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/music-industry-launches-ai-generated-content-labels/articleshow/132323648.cms",
+    "title": "AI companies are throwing museums a lifeline. What do they want in return?",
+    "snippet": "Touted as a way to engage visitors and boost funding, new tools are triggering concerns around trust and ethics",
+    "link": "https://www.ft.com/content/998152e8-90cd-4d95-ae43-e07b773ab943",
     "evidence_weight": 3,
-    "notes": "ET - Tech"
+    "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-07-11T04:35:09.237793",
+    "captured_at": "2026-07-12T04:45:38.848407",
     "source_channel": "rss",
     "source_type": "news",
-    "geo_primary": "India",
+    "geo_primary": "Global",
     "india_relevance": "Medium",
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "UK to regulate cloud service providers Microsoft, Google and others to protect financial stability",
-    "snippet": "The UK government has identified Microsoft, Google, Amazon, and Oracle as essential cloud providers, implying new regulatory measures for these tech giants. This initiative is designed to bolster the resilience of the financial sector against potential cyber threats and service interruptions, introd",
-    "link": "https://economictimes.indiatimes.com/tech/technology/uk-to-regulate-cloud-service-providers-microsoft-google-and-others-to-protect-financial-stability/articleshow/132323603.cms",
+    "title": "Why the chips are down despite the AI boom",
+    "snippet": "Some believe the boom-bust cycle in memory chips has ended \u2014 the market thinks otherwise",
+    "link": "https://www.ft.com/content/3990d688-f716-46d0-8508-0318265431f5",
     "evidence_weight": 3,
-    "notes": "ET - Tech"
+    "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-07-11T04:35:09.237796",
+    "captured_at": "2026-07-12T04:45:38.848410",
     "source_channel": "rss",
     "source_type": "news",
-    "geo_primary": "India",
+    "geo_primary": "Global",
     "india_relevance": "Medium",
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "WhatsApp username rollout put on hold after govt notice",
-    "snippet": "Telegram has also submitted its response to the government that last week issued formal notices to the messaging platforms, directing them to immediately halt the rollout of the username feature. These platforms currently rely on mobile phone numbers for user identification.",
-    "link": "https://economictimes.indiatimes.com/tech/technology/whatsapp-username-rollout-put-on-hold-after-govt-notice/articleshow/132319288.cms",
+    "title": "Who cleans up after the vibe-coding party?",
+    "snippet": "Our obsession with AI code-writing tools is overwhelming the web\u2019s unsung human caretakers",
+    "link": "https://www.ft.com/content/cec8df9e-b43b-4cd1-8feb-c07e804e8d33",
     "evidence_weight": 3,
-    "notes": "ET - Tech"
+    "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-07-11T04:35:09.237799",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "SK Hynix CEO sees worst-ever memory supply shortage in 2027, says demand to outstrip supply beyond 2030",
-    "snippet": "\"We forecast that next year \u200bwill be the worst year in the industry's history from the supply perspective,\" Kwak Noh-jung told Reuters \u200bin an interview on \u2060Friday, the \u200cday the South Korean memory chipmaker \u200bbegan trading \u200bon the Nasdaq.",
-    "link": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-ceo-sees-worst-ever-memory-supply-shortage-in-2027-says-demand-to-outstrip-supply-beyond-2030/articleshow/132318932.cms",
-    "evidence_weight": 3,
-    "notes": "ET - Tech"
-  },
-  {
-    "captured_at": "2026-07-11T04:35:09.237801",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "People 'disdain' AI, says director Christopher Nolan",
-    "snippet": "Oscar-he believed the kind of movies he makes -- big-budget action films shot mostly on location -- would survive the spread of AI, a technology he says many people \"disdain\". The AI industry has touted the potential of the technology to replace actors, writers and camera operators -- claims that ha",
-    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/people-disdain-ai-says-director-christopher-nolan/articleshow/132318831.cms",
-    "evidence_weight": 3,
-    "notes": "ET - Tech"
-  },
-  {
-    "captured_at": "2026-07-11T04:35:09.660270",
+    "captured_at": "2026-07-12T04:45:38.848413",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -465,7 +540,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-07-11T04:35:09.660283",
+    "captured_at": "2026-07-12T04:45:38.848416",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -480,7 +555,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-07-11T04:35:09.660287",
+    "captured_at": "2026-07-12T04:45:38.848419",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -495,7 +570,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-07-11T04:35:09.660290",
+    "captured_at": "2026-07-12T04:45:38.848421",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -510,7 +585,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-07-11T04:35:09.660293",
+    "captured_at": "2026-07-12T04:45:38.848424",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -525,82 +600,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-07-11T04:35:09.660296",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Asha Sharma, the outsider handed the Xbox controls",
-    "snippet": "Elevated to fix Microsoft\u2019s struggling gaming division, she is making tough decisions about its future",
-    "link": "https://www.ft.com/content/5b20b409-3f5c-4856-9769-aa3a8d78c786",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-07-11T04:35:09.660299",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "UK regulators to scrutinise top US cloud groups",
-    "snippet": "Designating Microsoft, Google, Amazon and Oracle as \u2018critical third parties\u2019 will help improve resilience, says Treasury",
-    "link": "https://www.ft.com/content/87895bfb-df47-49c7-a339-e5e849b9b271",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-07-11T04:35:09.660301",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "China successfully uses giant floating net to recover rocket booster",
-    "snippet": "State media hails successful test in step towards reusable rocket technology for space flights",
-    "link": "https://www.ft.com/content/211f093c-2666-4f6c-a7fe-ee92f6f78795",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-07-11T04:35:09.660304",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "The billionaire dreaming of AI data centres in the desert",
-    "snippet": "Servers should be powered by off-grid renewables, argues Envision founder Zhang Lei",
-    "link": "https://www.ft.com/content/2f46b60d-fef3-48bb-93ba-45bc71df8703",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-07-11T04:35:09.660306",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "The fastest way to find out the World Cup score? Old-fashioned radio",
-    "snippet": "BBC and ITV are exploring tech advances to cut down lags that have frustrated viewers of sporting events",
-    "link": "https://www.ft.com/content/7f2f6140-2db7-4fa8-a78e-88f0cbe441e3",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-07-11T04:35:09.901089",
+    "captured_at": "2026-07-12T04:45:39.010719",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -615,7 +615,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-07-11T04:35:09.901101",
+    "captured_at": "2026-07-12T04:45:39.010727",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -630,7 +630,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-07-11T04:35:09.901105",
+    "captured_at": "2026-07-12T04:45:39.010731",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -645,7 +645,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-07-11T04:35:09.901108",
+    "captured_at": "2026-07-12T04:45:39.010734",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -660,7 +660,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-07-11T04:35:09.901111",
+    "captured_at": "2026-07-12T04:45:39.010737",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -675,7 +675,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-07-11T04:35:09.901114",
+    "captured_at": "2026-07-12T04:45:39.010740",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -690,7 +690,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-07-11T04:35:09.901117",
+    "captured_at": "2026-07-12T04:45:39.010743",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -705,7 +705,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-07-11T04:35:09.901119",
+    "captured_at": "2026-07-12T04:45:39.010746",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -720,7 +720,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-07-11T04:35:09.901123",
+    "captured_at": "2026-07-12T04:45:39.010749",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -735,7 +735,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-07-11T04:35:09.901125",
+    "captured_at": "2026-07-12T04:45:39.010752",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
