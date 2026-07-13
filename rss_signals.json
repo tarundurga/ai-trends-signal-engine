@@ -1,6 +1,51 @@
 [
   {
-    "captured_at": "2026-07-12T04:45:37.923171",
+    "captured_at": "2026-07-13T04:52:54.039087",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "iOS 27 Public Beta arriving this week: Here are top 5 features to expect",
+    "snippet": "Apple may release the public beta of iOS 27 and macOS Golden Gate soon, following previous developer betas.&amp;nbsp;",
+    "link": "https://www.livemint.com/technology/tech-news/ios-27-public-beta-arriving-this-week-here-are-top-5-features-to-expect-11783910465375.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-07-13T04:52:54.039098",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "\u2018Elon is obsessed with me again\u2019: Sam Altman hits back as Musk invokes Apple lawsuit against OpenAI",
+    "snippet": "OpenAI CEO Sam Altman and SpaceX's Elon Musk engage in a social media dispute following the launch of GPT-5.6, with Musk targeting Altman in memes.&amp;nbsp;",
+    "link": "https://www.livemint.com/technology/tech-news/elon-is-obsessed-with-me-again-sam-altman-takes-fresh-swipe-at-musk-after-gpt-5-6-launch-11783835354190.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-07-13T04:52:54.039101",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "OpenAI is hiring to build ChatGPT for families. Here's what we know",
+    "snippet": "OpenAI is hiring a product manager to develop AI experiences for families, caregivers, and older adults.",
+    "link": "https://www.livemint.com/technology/tech-news/openai-is-hiring-to-build-chatgpt-for-families-heres-what-we-know-11783825718218.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-07-13T04:52:54.039104",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -15,7 +60,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-07-12T04:45:37.923184",
+    "captured_at": "2026-07-13T04:52:54.039107",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -30,7 +75,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-07-12T04:45:37.923187",
+    "captured_at": "2026-07-13T04:52:54.039110",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -45,7 +90,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-07-12T04:45:37.923191",
+    "captured_at": "2026-07-13T04:52:54.039113",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -60,7 +105,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-07-12T04:45:37.923194",
+    "captured_at": "2026-07-13T04:52:54.039117",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -75,7 +120,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-07-12T04:45:37.923197",
+    "captured_at": "2026-07-13T04:52:54.039121",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -90,7 +135,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-07-12T04:45:37.923200",
+    "captured_at": "2026-07-13T04:52:54.039127",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -105,7 +150,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-07-12T04:45:37.923204",
+    "captured_at": "2026-07-13T04:52:54.877499",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -113,14 +158,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Apple finally brings back card payments for subscriptions and App Store purchases in India",
-    "snippet": "Apple has resumesdcard payments for App Store purchases in India after a four-year hiatus. Initially, only Visa and Mastercard will be accepted.&amp;nbsp;",
-    "link": "https://www.livemint.com/technology/tech-news/apple-finally-brings-back-card-payments-for-subscriptions-and-app-store-purchases-in-india-11783396870797.html",
+    "title": "Tata Consultancy Services plans up to 8,900 AI deployment engineers, seeks AI acquisitions",
+    "snippet": "",
+    "link": "https://indianexpress.com/article/technology/artificial-intelligence/indias-tata-consultancy-services-plans-up-to-8900-ai-deployment-engineers-seeks-ai-acquisitions-10783755/",
     "evidence_weight": 3,
-    "notes": "Mint - Tech"
+    "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-07-12T04:45:37.923208",
+    "captured_at": "2026-07-13T04:52:54.877510",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -128,14 +173,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Apple could bring back its iPhone X playbook for the iPhone Ultra",
-    "snippet": "Apple could be planning to use the iPhone X playbook with the iPhone Ultra by delaying the initial pre-sales and orders for the foldable iPhone.",
-    "link": "https://www.livemint.com/technology/gadgets/apple-could-bring-back-its-iphone-x-playbook-for-the-iphone-ultra-11783316707218.html",
+    "title": "Samsung Electronics to advance start of chip factory in Yongin to 2029",
+    "snippet": "",
+    "link": "https://indianexpress.com/article/technology/tech-news-technology/samsung-electronics-to-advance-start-of-chip-factory-in-yongin-to-2029-10783751/",
     "evidence_weight": 3,
-    "notes": "Mint - Tech"
+    "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-07-12T04:45:37.923216",
+    "captured_at": "2026-07-13T04:52:54.877518",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -143,14 +188,29 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "New AI agent can hack systems and deploy ransomware without human help",
-    "snippet": "A new report reveals that AI agents can autonomously execute ransomware attacks, evidenced by the case of JADEPUFFER, which exploited a critical vulnerability to infiltrate systems.&amp;nbsp;",
-    "link": "https://www.livemint.com/technology/tech-news/new-ai-agent-can-hack-systems-and-deploy-ransomware-without-human-help-11783303277707.html",
+    "title": "Asus Chromebook CM32 Detachable review: This slick new 2-in-1 device is perfect for school",
+    "snippet": "",
+    "link": "https://indianexpress.com/article/technology/tech-reviews/asus-chromebook-cm32-detachable-review-10782930/",
     "evidence_weight": 3,
-    "notes": "Mint - Tech"
+    "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-07-12T04:45:38.333201",
+    "captured_at": "2026-07-13T04:52:54.877521",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "How Apple, OpenAI went from working together on AI to fighting over trade secrets",
+    "snippet": "",
+    "link": "https://indianexpress.com/article/technology/artificial-intelligence/apple-openai-lawsuit-ai-device-trade-secrets-allegations-10782909/",
+    "evidence_weight": 3,
+    "notes": "Indian Express - Tech"
+  },
+  {
+    "captured_at": "2026-07-13T04:52:54.877524",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -165,7 +225,7 @@
     "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-07-12T04:45:38.333211",
+    "captured_at": "2026-07-13T04:52:54.877527",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -180,7 +240,7 @@
     "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-07-12T04:45:38.333219",
+    "captured_at": "2026-07-13T04:52:54.877530",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -195,7 +255,7 @@
     "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-07-12T04:45:38.333223",
+    "captured_at": "2026-07-13T04:52:54.877533",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -210,7 +270,7 @@
     "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-07-12T04:45:38.333226",
+    "captured_at": "2026-07-13T04:52:54.877535",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -225,7 +285,7 @@
     "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-07-12T04:45:38.333230",
+    "captured_at": "2026-07-13T04:52:54.877538",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -240,67 +300,7 @@
     "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-07-12T04:45:38.333233",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "How many astronauts should live on the moon? New study points to ideal number",
-    "snippet": "",
-    "link": "https://indianexpress.com/article/technology/science/how-many-astronauts-should-live-on-the-moon-new-study-points-to-ideal-number-10781664/",
-    "evidence_weight": 3,
-    "notes": "Indian Express - Tech"
-  },
-  {
-    "captured_at": "2026-07-12T04:45:38.333236",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Stuffcool Lumo Review: A banana-shaped charging dock that moonlights as a night light",
-    "snippet": "",
-    "link": "https://indianexpress.com/article/technology/tech-reviews/stuffcool-lumo-review-10781503/",
-    "evidence_weight": 3,
-    "notes": "Indian Express - Tech"
-  },
-  {
-    "captured_at": "2026-07-12T04:45:38.333239",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Meta AI image detector fails to identify some of its own cropped AI images: Report",
-    "snippet": "",
-    "link": "https://indianexpress.com/article/technology/tech-news-technology/meta-ai-image-detector-fails-to-identify-some-of-its-own-cropped-ai-images-report-10781471/",
-    "evidence_weight": 3,
-    "notes": "Indian Express - Tech"
-  },
-  {
-    "captured_at": "2026-07-12T04:45:38.333242",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Implementing digital and AI in healthcare is fundamentally more complex: Rizwan Koita, co-founder, Koita Foundation",
-    "snippet": "",
-    "link": "https://indianexpress.com/article/technology/tech-news-technology/rizwan-koita-foundation-nabh-digital-health-ai-india-healthcare-10781107/",
-    "evidence_weight": 3,
-    "notes": "Indian Express - Tech"
-  },
-  {
-    "captured_at": "2026-07-12T04:45:38.438223",
+    "captured_at": "2026-07-13T04:52:55.622905",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -308,14 +308,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "LTM profit jumps 17% to Rs 1,468 crore in April-June quarter",
-    "snippet": "LTM chief executive Venu Lambu declared AI revenue separately for the first time in the earnings call, at $150 million for the quarter, in addition to announcing the completed transition to outcome-based pricing across its top 10 clients. The deal flow remained steady on a quarter-on-quarter basis a",
-    "link": "https://economictimes.indiatimes.com/tech/information-tech/ltm-profit-jumps-17-to-rs-1468-crore-in-april-june-quarter/articleshow/132333081.cms",
+    "title": "TSMC to add 2 advanced chip packaging plants in Chiayi, Taiwan minister says",
+    "snippet": "Located \u200cin southern \u2060Taiwan, \u2060the Chiayi Science Park is being developed \u200bas one of TSMC's major advanced chip-packaging hubs.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/tsmc-to-add-2-advanced-chip-packaging-plants-in-chiayi-taiwan-minister-says/articleshow/132356778.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-07-12T04:45:38.438232",
+    "captured_at": "2026-07-13T04:52:55.622914",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -323,14 +323,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "India to augment AI compute capacity: Ashwini Vaishnaw",
-    "snippet": "Vaishnaw said rapid advances in AI are reshaping the global technology landscape and require continuous learning and innovation. He urged the IT industry to seize the opportunity by developing next-generation technology solutions and strengthening India's position as a global technology leader.",
-    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-to-augment-ai-compute-capacity-ashwini-vaishnaw/articleshow/132332909.cms",
+    "title": "Microsoft CEO Satya Nadella warns of 'reverse information paradox' facing businesses in AI Age",
+    "snippet": "Microsoft Chairman and CEO Satya Nadella explained that enterprises need a real trust boundary for their human capital and token capital to compound, as a company should be able to use a model without giving up the knowledge that makes it unique. This \"reverse information paradox\" is the central cha",
+    "link": "https://economictimes.indiatimes.com/tech/technology/microsoft-ceo-satya-nadella-warns-of-reverse-information-paradox-facing-businesses-in-ai-age/articleshow/132355538.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-07-12T04:45:38.438235",
+    "captured_at": "2026-07-13T04:52:55.622918",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -338,14 +338,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Karnataka IT minister Priyank Kharge, Anthropic India discuss AI collaboration for Karnataka",
-    "snippet": "Karnataka's IT Minister met Anthropic India's MD to discuss the state's AI vision. Discussions focused on building advanced AI skillsets and forging strategic partnerships for skilling. According to a statement from the minister's office, the two sides also deliberated on establishing Centres of Exc",
-    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/karnataka-it-minister-priyank-kharge-anthropic-india-discuss-ai-collaboration-for-karnataka/articleshow/132330446.cms",
+    "title": "Govt sops key as India\u2019s chip market set to explode to $350 billion by 2035",
+    "snippet": "\u200b\u200bBy 2035, India could be consuming $350 billion of semiconductor devices and components under the parlay, it said.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/govt-sops-key-as-indias-chip-market-set-to-explode-to-350-billion-by-2035/articleshow/132355783.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-07-12T04:45:38.438239",
+    "captured_at": "2026-07-13T04:52:55.622921",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -353,14 +353,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "SoftBank names ex-Goldman Sachs trader Mark Agne to lead Vision Fund finances",
-    "snippet": "SoftBank Vision Fund has appointed Mark Agne to lead finance and technology roles. The move follows a series of staffing changes at SoftBank as its focus shifts alongside founder Masayoshi Son\u2019s quest for technologies underpinning AI services. Agne joined SoftBank in 2019 after 17 years at Goldman S",
-    "link": "https://economictimes.indiatimes.com/tech/technology/softbank-names-ex-goldman-sachs-trader-mark-agne-to-lead-vision-fund-finances/articleshow/132330292.cms",
+    "title": "Samsung Electronics to advance start of chip factory in Yongin to 2029",
+    "snippet": "Last month, both Samsung and its South Korean rival SK Hynix \u200bannounced pledges to invest \u2060hundreds of \u200cbillions of dollars in \u200bexpanding \u200bproduction capacity at home, after \u2060President Lee Jae Myung called for \u200bmeasures to narrow regional economic \u200bdivides.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-to-advance-start-of-chip-factory-in-yongin-to-2029/articleshow/132355228.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-07-12T04:45:38.438242",
+    "captured_at": "2026-07-13T04:52:55.622924",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -368,14 +368,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Union Minister Ashwini Vaishnaw urges IT industry to capitalise on global semiconductor talent shortage",
-    "snippet": "India's IT sector can address the global semiconductor talent shortage of one million people. Prime Minister Modi's focus has led to twelve plants developing chips for export. Electronics exports have now become the country's third largest export category. Mobile phones are now the largest exported ",
-    "link": "https://economictimes.indiatimes.com/tech/information-tech/union-minister-ashwini-vaishnaw-urges-it-industry-to-capitalise-on-global-semiconductor-talent-shortage/articleshow/132328165.cms",
+    "title": "Ather Energy board to consider fundraising proposal on July 15",
+    "snippet": "The company said the capital could be raised through permissible modes, including a preferential issue or any other method allowed under applicable laws.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/ather-energy-board-to-consider-fundraising-proposal-on-july-15/articleshow/132355003.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-07-12T04:45:38.438245",
+    "captured_at": "2026-07-13T04:52:55.622926",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -383,14 +383,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "India set to play larger role in building global fintech infrastructure, says Payoneer",
-    "snippet": "India's position as the world's third-largest fintech ecosystem is now translating into a larger platform-building role. Global financial technology companies are increasingly turning to the country for product engineering, artificial intelligence and cross-border infrastructure. The country's finte",
-    "link": "https://economictimes.indiatimes.com/tech/technology/india-set-to-play-larger-role-in-building-global-fintech-infrastructure-says-payoneer/articleshow/132327385.cms",
+    "title": "TCS CEO on Q1 performance; B Capital on India\u2019s IPO market",
+    "snippet": "Happy Monday! TCS top deck told us that the coming quarters will see macroeconomic pressures ease and AI deals swell. This and more in today\u2019s ETtech Morning Dispatch.",
+    "link": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/tcs-ceo-on-q1-performance-b-capital-on-indias-ipo-market/articleshow/132354455.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-07-12T04:45:38.438248",
+    "captured_at": "2026-07-13T04:52:55.622929",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -398,14 +398,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Swiggy Instamart gets 9 FSSAI notices following customer complaints on contaminated food, milk",
-    "snippet": "FSSAI has issued nine notices to Swiggy Instamart due to multiple consumer complaints. Allegations include supplying expired, spoiled, and contaminated food products to customers. Specific products like eggs and protein powder were found unfit for consumption. The regulator also noted issues with FS",
-    "link": "https://economictimes.indiatimes.com/tech/technology/fssai-issues-9-notices-to-swiggy-instamart-following-customer-complaints-on-contaminated-food-milk/articleshow/132326918.cms",
+    "title": "Meta to put AI chip into production in September as it looks to double computing capacity",
+    "snippet": "The tech firm's data center chip, code-named \"Iris,\" is part of a four-generation project for Meta Training and Inference Accelerators (MTIA) that it will design in-house. The plan is to use custom-built silicon to improve the AI that powers its Facebook and Instagram social media platforms.",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-to-put-ai-chip-into-production-in-september-as-it-looks-to-double-computing-capacity/articleshow/132351525.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-07-12T04:45:38.438251",
+    "captured_at": "2026-07-13T04:52:55.622932",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -413,14 +413,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Bill Gates heir\u2019s shopping app claimed sales it didn\u2019t drive",
-    "snippet": "Phia, co-founded by Phoebe Gates, faces accusations of violating affiliate marketing policies. The browser extension allegedly claimed sales it did not drive by injecting its own referral codes. Independent researchers and competitors like Capital One Shopping highlighted these concerning practices.",
-    "link": "https://economictimes.indiatimes.com/tech/technology/gates-heirs-shopping-app-claimed-sales-it-didnt-drive/articleshow/132324402.cms",
+    "title": "Anthropic extends Fable 5 access through July 19",
+    "snippet": "In a post on X, the company said, \"We're extending Claude Fable 5 access on all paid plans, as well as keeping Claude Code\u2019s weekly rate limits 50% higher, through July 19.\"",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-extends-fable-5-access-through-july-19/articleshow/132350610.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-07-12T04:45:38.438254",
+    "captured_at": "2026-07-13T04:52:55.622935",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -428,14 +428,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Meta scraps AI image feature days after launch following privacy backlash",
-    "snippet": "Meta withdrew its new AI image generation feature after significant criticism.  Meta's Muse image model provides a feature that lets users generate and edit images using natural language prompts like most AI image generators. However, it drew major criticism from privacy advocates, creators and ente",
-    "link": "https://economictimes.indiatimes.com/tech/technology/meta-scraps-ai-image-feature-days-after-launch-following-privacy-backlash/articleshow/132323801.cms",
+    "title": "AI, human leadership key to future of project management, says expert",
+    "snippet": "Speaking after inaugurating WAVES 2026, the 16th Annual Project Management Conference of the PMI Kerala Chapter here, Dawber said organisations need leaders who can inspire people across disciplines and adapt to a rapidly changing technological landscape, according to a statement on Sunday.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/ai-human-leadership-key-to-future-of-project-management-says-expert/articleshow/132344556.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-07-12T04:45:38.438257",
+    "captured_at": "2026-07-13T04:52:55.622937",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -443,14 +443,74 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "US makes it easier to export Nvidia AI chips and military equipment to the UAE",
-    "snippet": "The United States has eased export controls on the United Arab Emirates. This change allows easier access to Nvidia AI chips and military equipment. Approved UAE companies and US firms operating there will receive license-free advanced computing items. This move strengthens US-UAE relations and supp",
-    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-makes-it-easier-to-export-nvidia-ai-chips-and-military-equipment-to-the-uae/articleshow/132323771.cms",
+    "title": "Tata Consultancy Services plans up to 8,900 AI deployment engineers, seeks AI acquisitions",
+    "snippet": "Tata Consultancy Services is building a large team of forward-deployed engineers. The company is also actively seeking artificial intelligence acquisitions. This strategy aims to create new business opportunities rather than disrupt outsourcing. TCS believes deep client knowledge is key to integrati",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/tata-consultancy-services-plans-up-to-8900-ai-deployment-engineers-seeks-ai-acquisitions/articleshow/132343064.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-07-12T04:45:38.848389",
+    "captured_at": "2026-07-13T04:52:56.000780",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "Global",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Traders braced for won volatility after blockbuster SK Hynix listing",
+    "snippet": "South Korean chipmaker set to repatriate more than $26bn from share sale over the next month",
+    "link": "https://www.ft.com/content/b433644d-caba-4962-8d60-f46fcd9716f9",
+    "evidence_weight": 3,
+    "notes": "FT - Technology"
+  },
+  {
+    "captured_at": "2026-07-13T04:52:56.000792",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "Global",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "The \u2018innovators and disrupters\u2019 hired to bring AI to the UK public sector",
+    "snippet": "Government fellowship scheme places tech experts on \u2018high-impact tours of duty\u2019 to improve services",
+    "link": "https://www.ft.com/content/4df50959-1cd6-4d10-a586-9aaf589339e6",
+    "evidence_weight": 3,
+    "notes": "FT - Technology"
+  },
+  {
+    "captured_at": "2026-07-13T04:52:56.000796",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "Global",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Quantum is exciting, but watch out for the Schr\u00f6dinger\u2019s cat bounce",
+    "snippet": "The \u2018fault tolerant\u2019 computer \u2014\u00a0one that is acceptably error-free \u2014\u00a0is still some time away",
+    "link": "https://www.ft.com/content/b85769b5-ca03-466a-a76c-13a772d8bcf4",
+    "evidence_weight": 3,
+    "notes": "FT - Technology"
+  },
+  {
+    "captured_at": "2026-07-13T04:52:56.000800",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "Global",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Big Tech to face fines for consumer protection failures, says EU official",
+    "snippet": "Justice commissioner Michael McGrath says Brussels seeks to strengthen social media safeguards",
+    "link": "https://www.ft.com/content/25640be5-a5bd-4548-81f9-bd0e16f87f35",
+    "evidence_weight": 3,
+    "notes": "FT - Technology"
+  },
+  {
+    "captured_at": "2026-07-13T04:52:56.000803",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -465,7 +525,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-07-12T04:45:38.848400",
+    "captured_at": "2026-07-13T04:52:56.000806",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -480,7 +540,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-07-12T04:45:38.848404",
+    "captured_at": "2026-07-13T04:52:56.000809",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -495,7 +555,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-07-12T04:45:38.848407",
+    "captured_at": "2026-07-13T04:52:56.000811",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -510,7 +570,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-07-12T04:45:38.848410",
+    "captured_at": "2026-07-13T04:52:56.000814",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -525,7 +585,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-07-12T04:45:38.848413",
+    "captured_at": "2026-07-13T04:52:56.000816",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -540,67 +600,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-07-12T04:45:38.848416",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "US relaxes export controls on advanced chips and drones for UAE",
-    "snippet": "Gulf state will receive access to sophisticated American technology",
-    "link": "https://www.ft.com/content/8f33a9b2-bf8a-4c11-8a94-5d86a93b29ba",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-07-12T04:45:38.848419",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "SK Hynix\u2019s US shares jump 13% on Nasdaq debut",
-    "snippet": "South Korean memory chipmaker\u2019s US-listed stock price rose as high as $177 after pricing at $149",
-    "link": "https://www.ft.com/content/33133a86-925e-4395-9f60-35e2a4052500",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-07-12T04:45:38.848421",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Bezos-backed fusion start-up to become first to go public",
-    "snippet": "General Fusion\u2019s \u2018steampunk\u2019 approach to the technology is under scrutiny ahead of Nasdaq debut",
-    "link": "https://www.ft.com/content/1f0bdc93-5ee8-41d7-aaf8-11df73a9847c",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-07-12T04:45:38.848424",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Investors sell longer-dated AI debt amid Big Tech borrowing spree",
-    "snippet": "Waning demand highlights scepticism over sector\u2019s long-term profitability",
-    "link": "https://www.ft.com/content/28380abc-72f9-4287-8d36-2823c73358ce",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-07-12T04:45:39.010719",
+    "captured_at": "2026-07-13T04:52:56.228492",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -615,7 +615,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-07-12T04:45:39.010727",
+    "captured_at": "2026-07-13T04:52:56.228504",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -630,7 +630,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-07-12T04:45:39.010731",
+    "captured_at": "2026-07-13T04:52:56.228508",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -645,7 +645,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-07-12T04:45:39.010734",
+    "captured_at": "2026-07-13T04:52:56.228511",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -660,7 +660,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-07-12T04:45:39.010737",
+    "captured_at": "2026-07-13T04:52:56.228514",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -675,7 +675,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-07-12T04:45:39.010740",
+    "captured_at": "2026-07-13T04:52:56.228517",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -690,7 +690,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-07-12T04:45:39.010743",
+    "captured_at": "2026-07-13T04:52:56.228519",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -705,7 +705,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-07-12T04:45:39.010746",
+    "captured_at": "2026-07-13T04:52:56.228522",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -720,7 +720,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-07-12T04:45:39.010749",
+    "captured_at": "2026-07-13T04:52:56.228525",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -735,7 +735,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-07-12T04:45:39.010752",
+    "captured_at": "2026-07-13T04:52:56.228528",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
