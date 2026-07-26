@@ -1,6 +1,51 @@
 [
   {
-    "captured_at": "2026-07-25T04:37:05.066455",
+    "captured_at": "2026-07-26T04:50:19.675048",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Cheaper, open and intelligent: Chinese AI models gain ground, as they make inroads in the US",
+    "snippet": "Cheaper, open and intelligent: Chinese AI models gain ground, as they make inroads in the US",
+    "link": "https://www.livemint.com/technology/cheaper-open-and-intelligent-chinese-ai-models-gain-ground-as-they-make-inroads-in-the-us-11785038970045.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-07-26T04:50:19.675059",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "After rogue AI hack, Hugging Face CEO asks OpenAI for \u2018radical transparency\u2019",
+    "snippet": "Hugging Face experienced a security breach linked to OpenAI's AI models. CEO Cl\u00e9ment Delangue revealed what demands he made when he met with OpenAI execs last week",
+    "link": "https://www.livemint.com/technology/tech-news/after-rogue-ai-hack-hugging-face-ceo-asks-openai-for-radical-transparency-11785029885780.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-07-26T04:50:19.675063",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "How the lighthearted social media trend of teen takeovers took a serious turn",
+    "snippet": "How the lighthearted social media trend of 'teen takeovers' took a serious turn",
+    "link": "https://www.livemint.com/technology/how-the-lighthearted-social-media-trend-of-teen-takeovers-took-a-serious-turn-11784985068609.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-07-26T04:50:19.675066",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -15,7 +60,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-07-25T04:37:05.066465",
+    "captured_at": "2026-07-26T04:50:19.675069",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -30,7 +75,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-07-25T04:37:05.066469",
+    "captured_at": "2026-07-26T04:50:19.675072",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -45,7 +90,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-07-25T04:37:05.066473",
+    "captured_at": "2026-07-26T04:50:19.675075",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -60,7 +105,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-07-25T04:37:05.066475",
+    "captured_at": "2026-07-26T04:50:19.675079",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -75,7 +120,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-07-25T04:37:05.066479",
+    "captured_at": "2026-07-26T04:50:19.675083",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -90,7 +135,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-07-25T04:37:05.066484",
+    "captured_at": "2026-07-26T04:50:19.675092",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -105,7 +150,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-07-25T04:37:05.066490",
+    "captured_at": "2026-07-26T04:50:20.377770",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -113,14 +158,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "iPhone 18 Pro launching soon: Expected price, camera, display, processor and more",
-    "snippet": "Apple is set to launch the iPhone 18 Pro lineup soon with new color options, a smaller Dynamic Island, and advanced LTPO+ OLED technology.&amp;nbsp;",
-    "link": "https://www.livemint.com/technology/gadgets/iphone-18-pro-launching-soon-expected-price-camera-display-processor-and-more-11784776990236.html",
+    "title": "Aerospace fights for young recruits as AI drains talent pool",
+    "snippet": "",
+    "link": "https://indianexpress.com/article/technology/tech-news-technology/aerospace-fights-for-young-recruits-as-ai-drains-talent-pool-10804010/",
     "evidence_weight": 3,
-    "notes": "Mint - Tech"
+    "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-07-25T04:37:05.066493",
+    "captured_at": "2026-07-26T04:50:20.377780",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -128,14 +173,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Google makes switching from iPhone to Android easier with Android 17: Here's how",
-    "snippet": "Google is making it easier to switch from iOS to Android with the new Android Switch experience.&amp;nbsp;",
-    "link": "https://www.livemint.com/technology/tech-news/google-makes-switching-from-iphone-to-android-easier-with-android-17-heres-how-11784791793719.html",
+    "title": "Silicon Valley splits over closing the borders to Chinese AI",
+    "snippet": "",
+    "link": "https://indianexpress.com/article/technology/artificial-intelligence/silicon-valley-splits-over-closing-the-borders-to-chinese-ai-10803988/",
     "evidence_weight": 3,
-    "notes": "Mint - Tech"
+    "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-07-25T04:37:05.066498",
+    "captured_at": "2026-07-26T04:50:20.377789",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -143,14 +188,29 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Google Pixel 11 series all colous leaked ahead of launch: Check expected specifications and priceGoogle Pixel 11 series",
-    "snippet": "Google will unveil the Pixel 11 lineup at its Made by Google event on August 12. Leaks show four models in various colors, featuring a triple rear camera setup and powered by the new Tensor G6 chipset",
-    "link": "https://www.livemint.com/technology/gadgets/google-pixel-11-series-all-colous-leaked-ahead-of-launch-check-expected-specifications-and-price-11784775291213.html",
+    "title": "Why Nvidia, Microsoft, and Meta want the US to support open-weight AI models",
+    "snippet": "",
+    "link": "https://indianexpress.com/article/technology/artificial-intelligence/nvidia-microsoft-meta-push-for-open-weight-ai-10803122/",
     "evidence_weight": 3,
-    "notes": "Mint - Tech"
+    "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-07-25T04:37:05.691331",
+    "captured_at": "2026-07-26T04:50:20.377792",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "OpenAI eyeing ChatGPT integrations for smart glasses, wearables: Greg Brockman",
+    "snippet": "",
+    "link": "https://indianexpress.com/article/technology/tech-news-technology/openai-eyeing-chatgpt-integrations-for-wearables-greg-brockman-10803022/",
+    "evidence_weight": 3,
+    "notes": "Indian Express - Tech"
+  },
+  {
+    "captured_at": "2026-07-26T04:50:20.377795",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -165,7 +225,7 @@
     "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-07-25T04:37:05.691340",
+    "captured_at": "2026-07-26T04:50:20.377798",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -180,7 +240,7 @@
     "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-07-25T04:37:05.691346",
+    "captured_at": "2026-07-26T04:50:20.377801",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -195,7 +255,7 @@
     "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-07-25T04:37:05.691349",
+    "captured_at": "2026-07-26T04:50:20.377804",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -210,7 +270,7 @@
     "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-07-25T04:37:05.691352",
+    "captured_at": "2026-07-26T04:50:20.377808",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -225,7 +285,7 @@
     "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-07-25T04:37:05.691354",
+    "captured_at": "2026-07-26T04:50:20.377811",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -240,67 +300,7 @@
     "notes": "Indian Express - Tech"
   },
   {
-    "captured_at": "2026-07-25T04:37:05.691357",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Google introduces selfie video as a new way to sign in to accounts",
-    "snippet": "",
-    "link": "https://indianexpress.com/article/technology/tech-news-technology/google-introduces-selfie-video-as-a-new-way-to-sign-in-to-accounts-10802036/",
-    "evidence_weight": 3,
-    "notes": "Indian Express - Tech"
-  },
-  {
-    "captured_at": "2026-07-25T04:37:05.691360",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Samsung Galaxy Watch Ultra2, Watch9 launched in India: Price, features, offers",
-    "snippet": "",
-    "link": "https://indianexpress.com/article/technology/tech-news-technology/samsung-galaxy-watch-ultra2-watch9-launched-in-india-price-features-offers-10801791/",
-    "evidence_weight": 3,
-    "notes": "Indian Express - Tech"
-  },
-  {
-    "captured_at": "2026-07-25T04:37:05.691363",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "AMD unveils Helios AI rack-scale system to challenge Nvidia\u2019s dominance",
-    "snippet": "",
-    "link": "https://indianexpress.com/article/technology/tech-news-technology/amd-unveils-helios-ai-rack-scale-system-to-challenge-nvidias-dominance-10801446/",
-    "evidence_weight": 3,
-    "notes": "Indian Express - Tech"
-  },
-  {
-    "captured_at": "2026-07-25T04:37:05.691366",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Elon Musk says AI could surpass human intelligence in 5 years, wants industry-wide safety talks",
-    "snippet": "",
-    "link": "https://indianexpress.com/article/technology/artificial-intelligence/elon-musk-ai-safety-collaboration-10801217/",
-    "evidence_weight": 3,
-    "notes": "Indian Express - Tech"
-  },
-  {
-    "captured_at": "2026-07-25T04:37:05.851250",
+    "captured_at": "2026-07-26T04:50:20.613572",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -308,14 +308,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Piyush Goyal files police complaint over AI deepfake video; FIR registered",
-    "snippet": "Union Minister Piyush Goyal said strict legal action would be taken against everyone involved in creating, circulating or amplifying the alleged fake video. The government also debunked a video circulating on social media that claimed Goyal made threatening remarks about students protesting in Delhi",
-    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/piyush-goyal-says-ai-generated-deepfake-video-of-his-remarks-circulated-fir-registered/articleshow/132618654.cms",
+    "title": "Cheaper, open and intelligent: Chinese AI models gain ground, as they make inroads in the US",
+    "snippet": "Chinese artificial intelligence models are increasingly adopted by American users and businesses. These advanced systems offer competitive performance at significantly lower costs. Companies are switching to Chinese AI for routine tasks and cost reduction efforts. While US tech giants express frustr",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/cheaper-open-and-intelligent-chinese-ai-models-gain-ground-as-they-make-inroads-in-the-us/articleshow/132636291.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-07-25T04:37:05.851260",
+    "captured_at": "2026-07-26T04:50:20.613581",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -323,14 +323,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Meta quits clean energy pledge amid gas-powered data center push",
-    "snippet": "The departure comes amid a frenzied data centre buildout by leading tech companies. Meta has struck deals paying utilities to bring new natural gas power plants online, including 10 to power its Hyperion data centre in Louisiana alone. Meta joined the pledge in 2016 according to a Wayback Machine ar",
-    "link": "https://economictimes.indiatimes.com/tech/technology/meta-quits-clean-energy-pledge-amid-gas-powered-data-center-push/articleshow/132618538.cms",
+    "title": "DeepSeek tells prospective investors of funding pause, Bloomberg News reports",
+    "snippet": "DeepSeek, a prominent AI company, has reportedly informed potential investors that it's temporarily halting its fundraising efforts. This news, as reported by Bloomberg News, suggests a strategic pause by the company as it navigates its current financial landscape and future investment strategies.",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/deepseek-tells-prospective-investors-of-funding-pause-bloomberg-news-reports/articleshow/132629114.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-07-25T04:37:05.851264",
+    "captured_at": "2026-07-26T04:50:20.613585",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -338,14 +338,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Waymo explores ending Uber partnership: Financial Times",
-    "snippet": "The companies have increasingly clashed over operational and commercial issues, according to the report. Waymo \u200bhas raised concerns about \u2060the cleanliness \u200cand routing of its vehicles, \u200bwhile Uber \u200bhas criticised the sudden unavailability of \u2060Waymo vehicles during bad weather and \u200bargued that the pa",
-    "link": "https://economictimes.indiatimes.com/tech/technology/waymo-explores-ending-uber-partnership-financial-times/articleshow/132618467.cms",
+    "title": "Bengaluru to host 3-day India Nano-2026 event from 3rd August",
+    "snippet": "Bengaluru will host the 14th Bengaluru India Nano conference from August 3 to 5.  The event's theme focuses on nanotechnology and artificial intelligence convergence for commercialization.  It will bring together researchers, innovators, startups, academia, and industry leaders.  The conference incl",
+    "link": "https://economictimes.indiatimes.com/tech/technology/bengaluru-to-host-3-day-india-nano-2026-event-from-3rd-august/articleshow/132623366.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-07-25T04:37:05.851268",
+    "captured_at": "2026-07-26T04:50:20.613587",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -353,14 +353,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Qualcomm tells customers of double-digit price increases: Bloomberg",
-    "snippet": "The company \u2060told customers it could no longer \u200babsorb rising supplier costs and \u200bhad sought alternative components from new suppliers, Bloomberg reported. The chipmaker has been grappling with mounting pressure \u200bin the \u200bsmartphone market, \u2060which has been squeezed by a memory chip shortage as invest",
-    "link": "https://economictimes.indiatimes.com/tech/technology/qualcomm-tells-customers-of-double-digit-price-increases-bloomberg/articleshow/132618408.cms",
+    "title": "Samsung Electronics wins $200 billion Broadcom AI chip partnership, boosting foundry push",
+    "snippet": "The tie-up comes as global technology companies increasingly develop their own custom \u200bAI accelerators, rather than relying solely on \u2060general-purpose graphics processors, \u200cdriving demand for specialised chip design and manufacturing \u200bpartnerships. The next five years of collaboration will combine B",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/samsung-electronics-wins-200-billion-broadcom-ai-chip-partnership-boosting-foundry-push/articleshow/132622609.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-07-25T04:37:05.851272",
+    "captured_at": "2026-07-26T04:50:20.613591",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -368,14 +368,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "China fines Trip.com $770 million over online hotel-booking monopoly",
-    "snippet": "SAMR also ordered Trip.com to refund booking deposits of 122 million yuan that it said the company had withheld from hotel operators. The practices harmed competition and consumers by restricting hotels' \u200cability to operate across platforms and set their own prices, the agency said in \u200ba statement \u200b",
-    "link": "https://economictimes.indiatimes.com/tech/technology/china-fines-trip-com-770-million-over-online-hotel-booking-monopoly/articleshow/132618237.cms",
+    "title": "Bengaluru INDIA NANO 2026 to spotlight AI-nanotech convergence, commercialisation",
+    "snippet": "A curtain-raiser for the event was held at Vidhana Soudha on Saturday in the presence of Karnataka minister for Home, Electronics, IT &amp; BT and e-Governance, Priyank Kharge, senior government officials and members of the organising committee. Kharge said Karnataka's strength in scientific researc",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/bengaluru-india-nano-2026-to-spotlight-ai-nanotech-convergence-commercialisation/articleshow/132622117.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-07-25T04:37:05.851275",
+    "captured_at": "2026-07-26T04:50:20.613594",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -383,14 +383,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "US appeals court blocks part of Texas children's online safety law",
-    "snippet": "In a 2-1 decision, the 5th US \u200cCircuit Court of \u2060Appeals \u2060in New Orleans said a federal law that broadly shields the industry from liability for information posted by third parties \u200bpreempted the monitoring and filtering requirement in Texas' Securing Children Online through Parental Empowerment Act",
-    "link": "https://economictimes.indiatimes.com/tech/technology/us-appeals-court-blocks-part-of-texas-childrens-online-safety-law/articleshow/132617884.cms",
+    "title": "GCCs may account for nearly half of India's office leasing in 2026: Report",
+    "snippet": "India's office market has remained resilient, with GCCs strengthening their role in leasing activity. During the first half of 2026, GCCs leased 16.6 million square feet of Grade A office space, accounting for 46% of total office leasing across the top seven cities, the report said.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/gccs-may-account-for-nearly-half-of-indias-office-leasing-in-2026-report/articleshow/132621068.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-07-25T04:37:05.851293",
+    "captured_at": "2026-07-26T04:50:20.613597",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -398,14 +398,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Nvidia, SK Group unveil $500 billion-plus AI data centres initiative, memory partnership",
-    "snippet": "As part \u2060of the initiative, SK Telecom plans \u200bto build a 2-gigawatt \u200bAI data centre powered by Nvidia's Vera Rubin chips and SK Hynix's HBM4 high-bandwidth memory, with the \u200cfirst facility due to come online in 2027, \u200bNvidia added.",
-    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-sk-group-unveil-500-billion-plus-ai-data-centres-initiative-memory-partnership/articleshow/132617823.cms",
+    "title": "Elon Musk to make X's entire codebase open source in August",
+    "snippet": "Elon Musk had first revealed the plan last week, saying the company was identifying and fixing security vulnerabilities before the release. He had also assured that independent reviewers would be invited to verify that the software running on X matches the code that is made publicly available.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/elon-musk-to-make-xs-entire-codebase-open-source-in-august/articleshow/132620586.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-07-25T04:37:05.851296",
+    "captured_at": "2026-07-26T04:50:20.613599",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -413,14 +413,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "SpaceX launches Starship on another test flight, this time with the most advanced Starlinks",
-    "snippet": "Elon Musk's SpaceX had replaced six of the 33 engines on the first-stage booster after they failed to ignite last week, resulting in a last-second launch abort. The previous Starship flight in May also experienced engine trouble, which prevented the booster from making a controlled return.",
-    "link": "https://economictimes.indiatimes.com/tech/technology/spacex-launches-starship-on-another-test-flight-this-time-with-the-most-advanced-starlinks/articleshow/132617755.cms",
+    "title": "Government removes links to AI deepfake of union minister Piyush Goyal",
+    "snippet": "Minister for Commerce and Industry Piyush Goyal, in his post, flagged the altered video clip of his conversation with the media outside Parliament. He wrote that the video has been maliciously tampered with using AI to create a deepfake, which is being circulated on social media with the intent to s",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/government-removes-links-to-ai-deepfake-of-piyush-goyal/articleshow/132620052.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-07-25T04:37:05.851299",
+    "captured_at": "2026-07-26T04:50:20.613602",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -428,14 +428,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Elon Musk's Boring Company seeks funding at $20 billion valuation: WSJ",
-    "snippet": "The Boring Company was valued at $5.7 billion in 2022 after a $675-million fundraising exercise. Musk, whose \u2060business interests include Tesla, SpaceX and Neuralink, founded the \u200bcompany to develop tunneling technology and transport systems to \u200bcarry passenger pods through underground, low-pressure ",
-    "link": "https://economictimes.indiatimes.com/tech/funding/elon-musks-boring-company-seeks-funding-at-20-billion-valuation-wsj/articleshow/132617539.cms",
+    "title": "Paramount delays closing Warner buyout while judge considers states' challenge",
+    "snippet": "Paramount said in a filing Friday that it won't close its Warner buyout until either a court ruling is made on the states' claims or June 1, 2027. The agreement comes just days after U S District Judge Araceli Martinez-Olguin granted a temporary restraining order to freeze the transaction for weeks,",
+    "link": "https://economictimes.indiatimes.com/tech/technology/paramount-delays-closing-warner-buyout-while-judge-considers-states-challenge/articleshow/132619525.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-07-25T04:37:05.851302",
+    "captured_at": "2026-07-26T04:50:20.613605",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -443,14 +443,59 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "OpenAI's AI agent spent days hacking a company; it went unnoticed for a week",
-    "snippet": "It took several more days for OpenAI to realise its agent was behind the hack, and the two companies only communicated about it for the first time on or around July 20, according to Thomas Wolf, Hugging Face's cofounder and three of the people familiar with the \u200cinvestigation. Hugging \u200bFace is prepa",
-    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openais-ai-agent-spent-days-hacking-a-company-it-went-unnoticed-for-a-week/articleshow/132617490.cms",
+    "title": "South Korea's SK Hynix, Samsung Electronics sign $950 billion partnership with US big tech",
+    "snippet": "The partnership includes the long-term supply of $750 \u200bbillion in memory \u200bchips to US companies by SK Hynix \u200cand $200 billion in chips \u200bby Samsung \u200bElectronics \u2060to Broadcom, the presidential adviser, Kim Yong-beom, \u200bsaid at a briefing.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/south-koreas-sk-hynix-samsung-electronics-sign-950-billion-partnership-with-us-big-tech/articleshow/132619135.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-07-25T04:37:06.266393",
+    "captured_at": "2026-07-26T04:50:20.980962",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "Global",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Top Democrat says Trump administration is worsening chip shortage",
+    "snippet": "Apple wants clearance to buy semiconductors from blacklisted Chinese company amid surging demand from AI",
+    "link": "https://www.ft.com/content/5bd259ca-d278-498a-a03d-7b4556d9fa8f?syn-25a6b1a6=1",
+    "evidence_weight": 3,
+    "notes": "FT - Technology"
+  },
+  {
+    "captured_at": "2026-07-26T04:50:20.980972",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "Global",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Why this philosopher turned down Anthropic",
+    "snippet": "The AI industry is courting the humanities \u2014 but it is asking the wrong questions",
+    "link": "https://www.ft.com/content/bdb3b820-905b-431e-82c0-386535755af1",
+    "evidence_weight": 3,
+    "notes": "FT - Technology"
+  },
+  {
+    "captured_at": "2026-07-26T04:50:20.980976",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "Global",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "10 essential gadgets for wildlife watchers",
+    "snippet": "The best cameras, coats, binos and bags for naturalists out in the field",
+    "link": "https://www.ft.com/content/e0192a95-f9c9-40da-9606-56edfac8b9a8",
+    "evidence_weight": 3,
+    "notes": "FT - Technology"
+  },
+  {
+    "captured_at": "2026-07-26T04:50:20.980980",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -465,7 +510,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-07-25T04:37:06.266404",
+    "captured_at": "2026-07-26T04:50:20.980983",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -480,7 +525,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-07-25T04:37:06.266407",
+    "captured_at": "2026-07-26T04:50:20.980986",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -495,7 +540,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-07-25T04:37:06.266411",
+    "captured_at": "2026-07-26T04:50:20.980989",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -510,7 +555,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-07-25T04:37:06.266414",
+    "captured_at": "2026-07-26T04:50:20.980992",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -525,7 +570,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-07-25T04:37:06.266417",
+    "captured_at": "2026-07-26T04:50:20.980994",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -540,7 +585,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-07-25T04:37:06.266420",
+    "captured_at": "2026-07-26T04:50:20.980997",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -555,52 +600,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-07-25T04:37:06.266423",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Submit your questions: Has the market lost its mind over AI?",
-    "snippet": "Take part in a live Ask an Expert Q&amp;A with Lex head John Foley and tech comment editor Elaine Moore on Thursday July 30 at 1pm (BST)",
-    "link": "https://www.ft.com/content/07e7e839-6d7c-4da3-a207-de5bbfb67746?syn-25a6b1a6=1",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-07-25T04:37:06.266425",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Trump\u2019s trade war shifts from shakedown to lock-in",
-    "snippet": "The administration wants to ensure the US \u2018gets paid\u2019 for the superpower services it provides to the world",
-    "link": "https://www.ft.com/content/38341bcb-0c45-432a-bd04-fa0b9f2b790a",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-07-25T04:37:06.266428",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Russian online retailer Wildberries becomes target for Ukraine\u2019s drones",
-    "snippet": "Strikes on Wildberries have killed nine people and left small sellers facing millions of roubles in losses",
-    "link": "https://www.ft.com/content/5c9ae967-8e85-470f-974b-43667cc6f1c1?syn-25a6b1a6=1",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-07-25T04:37:06.408001",
+    "captured_at": "2026-07-26T04:50:21.165079",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -615,7 +615,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-07-25T04:37:06.408010",
+    "captured_at": "2026-07-26T04:50:21.165089",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -630,7 +630,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-07-25T04:37:06.408014",
+    "captured_at": "2026-07-26T04:50:21.165094",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -645,7 +645,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-07-25T04:37:06.408018",
+    "captured_at": "2026-07-26T04:50:21.165097",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -660,7 +660,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-07-25T04:37:06.408021",
+    "captured_at": "2026-07-26T04:50:21.165101",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -675,7 +675,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-07-25T04:37:06.408024",
+    "captured_at": "2026-07-26T04:50:21.165103",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -690,7 +690,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-07-25T04:37:06.408028",
+    "captured_at": "2026-07-26T04:50:21.165107",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -705,7 +705,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-07-25T04:37:06.408031",
+    "captured_at": "2026-07-26T04:50:21.165110",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -720,7 +720,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-07-25T04:37:06.408034",
+    "captured_at": "2026-07-26T04:50:21.165113",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -735,7 +735,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-07-25T04:37:06.408037",
+    "captured_at": "2026-07-26T04:50:21.165116",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
