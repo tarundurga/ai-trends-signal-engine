@@ -1,6 +1,81 @@
 [
   {
-    "captured_at": "2026-08-02T04:46:48.841452",
+    "captured_at": "2026-08-03T04:55:39.330364",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Apple struggles to keep MacBook Air in stock amid memory shortages: Report",
+    "snippet": "Apple's MacBook Air faces supply shortages due to memory constraints, leading to significant price hikes.&amp;nbsp;",
+    "link": "https://www.livemint.com/technology/gadgets/apple-struggles-to-keep-macbook-air-in-stock-amid-memory-shortages-report-11785727367725.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-08-03T04:55:39.330376",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "AI-assisted staging draws boos at the Richard Wagner festival in Germany",
+    "snippet": "AI-assisted staging draws boos at the Richard Wagner festival in Germany",
+    "link": "https://www.livemint.com/technology/aiassisted-staging-draws-boos-at-the-richard-wagner-festival-in-germany-11785684367137.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-08-03T04:55:39.330380",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "AI, semiconductors and quantum computing will shape future of this century: Fadnavis",
+    "snippet": "AI, semiconductors and quantum computing will shape future of this century: Fadnavis",
+    "link": "https://www.livemint.com/technology/ai-semiconductors-and-quantum-computing-will-shape-future-of-this-century-fadnavis-11785666169202.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-08-03T04:55:39.330387",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Upcoming phone launches in August: Pixel 11 series, Redmi Note 17, Poco M8 Power and Vivo S2",
+    "snippet": "Smartphone launches are heating up this month with several models set to debut, including the Pixel 11 series and the Redmi Note 17.&amp;nbsp;",
+    "link": "https://www.livemint.com/technology/gadgets/upcoming-phone-launches-in-august-pixel-11-series-redmi-note-17-poco-m8-power-and-vivo-s2-11785658691633.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-08-03T04:55:39.330390",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Indias data centre capacity may reach 3-3.6 GW by 2030, hyperscalers to drive growth: Axis Capital",
+    "snippet": "The report noted that publicly announced capacity targets of 6-8 GW by 2030 appear aggressive. A more realistic estimate is 3.4-3.6 GW of planned capacity by mid-2030, while actual operational capacity could be closer to 2.8 GW. This reflects challenges around execution, power availability, equipmen",
+    "link": "https://www.livemint.com/technology/indias-data-centre-capacity-may-reach-3-3-6-gw-by-2030-hyperscalers-to-drive-growth-axis-capital-11785646209806.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-08-03T04:55:39.330393",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -15,7 +90,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-02T04:46:48.841462",
+    "captured_at": "2026-08-03T04:55:39.330396",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -30,7 +105,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-02T04:46:48.841466",
+    "captured_at": "2026-08-03T04:55:39.330401",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -45,7 +120,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-02T04:46:48.841468",
+    "captured_at": "2026-08-03T04:55:39.330405",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -60,7 +135,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-02T04:46:48.841470",
+    "captured_at": "2026-08-03T04:55:39.330408",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -75,82 +150,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-02T04:46:48.841472",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "SCL Mohali to retain 180nm chips, but will still be strategically key: director general",
-    "snippet": "Kamaljeet Singh, director general of Semi-Conductor Laboratory, said upgrading to newer chip nodes will require three times the outlay of the  \u20b94,500 crore pitched by the Centre. It maintains that legacy-standard chips could be strategically important in defence and space applications.",
-    "link": "https://www.livemint.com/technology/tech-news/scl-mohali-180nm-chips-strategically-key-dg-kamaljeet-singh-chip-node-cabinet-approval-11785481468388.html",
-    "evidence_weight": 3,
-    "notes": "Mint - Tech"
-  },
-  {
-    "captured_at": "2026-08-02T04:46:48.841476",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Here's why AI model distillation has gained spotlight in AI race between US and China, explained",
-    "snippet": "AI model distillation is a technique that allows developers to shrink powerful artificial intelligence models into cheaper, more efficient systems. This has now become the latest battleground between the US and China in the race for AI dominance.&amp;nbsp;",
-    "link": "https://www.livemint.com/technology/tech-news/ai-model-distillation-what-explained-why-focus-research-development-technique-spotlight-us-china-ai-race-cheaper-options-11785489028070.html",
-    "evidence_weight": 3,
-    "notes": "Mint - Tech"
-  },
-  {
-    "captured_at": "2026-08-02T04:46:48.841480",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Anthropic says its AI models hacked 3 organizations during testing",
-    "snippet": "Anthropic says its AI models hacked 3 organizations during testing",
-    "link": "https://www.livemint.com/technology/anthropic-says-its-ai-models-hacked-3-organizations-during-testing-11785478413346.html",
-    "evidence_weight": 3,
-    "notes": "Mint - Tech"
-  },
-  {
-    "captured_at": "2026-08-02T04:46:48.841483",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Anthropics AI hacked three companies during tests, highlighting growing security risks",
-    "snippet": "ANTHROPIC-CYBERSECURITY:Anthropic's AI hacked three companies during tests, highlighting growing security risks",
-    "link": "https://www.livemint.com/technology/anthropics-ai-hacked-three-companies-during-tests-highlighting-growing-security-risks-11785477849046.html",
-    "evidence_weight": 3,
-    "notes": "Mint - Tech"
-  },
-  {
-    "captured_at": "2026-08-02T04:46:48.841485",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Chinese military researchers tap US AI models to train defence systems",
-    "snippet": "CHINA-USA/AI-DISTILLATION (EXCLUSIVE,PIX):EXCLUSIVE-Chinese military researchers tap US AI models to train defence systems",
-    "link": "https://www.livemint.com/technology/chinese-military-researchers-tap-us-ai-models-to-train-defence-systems-11785477732089.html",
-    "evidence_weight": 3,
-    "notes": "Mint - Tech"
-  },
-  {
-    "captured_at": "2026-08-02T04:46:49.245379",
+    "captured_at": "2026-08-03T04:55:39.737649",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -158,14 +158,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "AI keeps consumer prices high in 'RAMaggedon' chip crunch",
-    "snippet": "Memory chip prices are rising significantly due to artificial intelligence demand.  This shortage is impacting consumer electronics and potentially vehicles soon.  Chipmakers are prioritizing advanced memory for AI training and operations.  Customers face higher costs and are delaying purchases or l",
-    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-keeps-consumer-prices-high-in-ramaggedon-chip-crunch/articleshow/132800368.cms",
+    "title": "At colleges, the AI boom means everyone wants to dabble in computer science",
+    "snippet": "But the senior at Virginia Commonwealth University began to see it differently as she looked into graduate psychology programs that explore human behavior in the workplace, which is quickly being upended by machine learning. Maeba, 21, is now pursuing a minor in AI.",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/at-colleges-the-ai-boom-means-everyone-wants-to-dabble-in-computer-science/articleshow/132818598.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-02T04:46:49.245386",
+    "captured_at": "2026-08-03T04:55:39.737657",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -173,14 +173,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "When rogue AI launches a cyberattack, who is legally responsible?",
-    "snippet": "Rogue AI models from OpenAI and Anthropic recently attacked online platforms. These incidents raise complex legal questions about accountability for AI actions. Experts debate whether companies should face negligence or strict liability for AI breaches. Proving foreseeability of such AI breakouts wi",
-    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/when-rogue-ai-launches-a-cyberattack-who-is-legally-responsible/articleshow/132800295.cms",
+    "title": "Alibaba unveils its most capable AI model to date, not far behind Moonshot's in size",
+    "snippet": "Chinese tech companies - a huge force in open-weight AI models globally - are locked in a fierce and fast-moving battle to build more powerful systems without \u200cmaking them prohibitively \u2060expensive \u2060to run.",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/alibaba-unveils-its-most-capable-ai-model-to-date-not-far-behind-moonshots-in-size/articleshow/132818289.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-02T04:46:49.245390",
+    "captured_at": "2026-08-03T04:55:39.737661",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -188,14 +188,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "WhatsApp may soon move business messages to separate 'Offers &amp; Updates' folder",
-    "snippet": "WhatsApp is testing a new feature to organise user inboxes.  Large business messages will move to an \"Offers &amp; Updates\" folder.  This aims to declutter main chat lists for a cleaner experience.  Users can disable this feature through the app's settings.  The rollout timeline for this new functio",
-    "link": "https://economictimes.indiatimes.com/tech/technology/whatsapp-may-soon-move-business-messages-to-separate-offers-updates-folder/articleshow/132791287.cms",
+    "title": "Cognizant\u2019s Surya Gummadi: AI Will Rewrite the IT Services Playbook",
+    "snippet": "",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/cognizants-surya-gummadi-ai-will-rewrite-the-it-services-playbook/videoshow/132818008.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-02T04:46:49.245392",
+    "captured_at": "2026-08-03T04:55:39.737664",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -203,14 +203,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "ETtech Explainer: Inside Zepto's IPO U-turn",
-    "snippet": "Zepto has paused its IPO and plans to refile its draft papers after two to three quarters. The decision follows months of valuation negotiations, investor pushback and shifting market conditions. Here's a look at the key events, from its confidential filing to the final decision, that led to the pau",
-    "link": "https://economictimes.indiatimes.com/tech/technology/ettech-explainer-inside-zeptos-ipo-u-turn/articleshow/132786500.cms",
+    "title": "AI, semiconductors and quantum computing will shape future of this century: Devendra Fadnavis",
+    "snippet": "Fadnavis was addressing a gathering at the inauguration of the AI Centre of Competency powered by NVIDIA at Ramdeobaba University in Nagpur.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/ai-semiconductors-and-quantum-computing-will-shape-future-of-this-century-devendra-fadnavis/articleshow/132817367.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-02T04:46:49.245394",
+    "captured_at": "2026-08-03T04:55:39.737667",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -218,14 +218,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Taiwan's economy grows by almost 13% on AI demand",
-    "snippet": "Taiwan's exports surged 21.6% year-on-year in the second quarter, which was \"mainly driven by the sustained strong external demand for artificial intelligence (AI) and related evolving applications\", the statement said. Imports over the same period grew by 18.3% from a year ago.",
-    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/taiwans-economy-grows-by-almost-13-on-ai-demand/articleshow/132782770.cms",
+    "title": "AI-assisted staging draws boos at the Richard Wagner festival in Germany",
+    "snippet": "Curator Marcus Lobbes and his team were greeted with boos and whistles as they took to the stage at the end of Saturday evening's performance of \"Gotterdammerung,\" German news agency dpa reported. However, there was warm applause for the singers and musicians, and particularly for conductor Christia",
+    "link": "https://economictimes.indiatimes.com/tech/technology/ai-assisted-staging-draws-boos-at-the-richard-wagner-festival-in-germany/articleshow/132817290.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-02T04:46:49.245397",
+    "captured_at": "2026-08-03T04:55:39.737670",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -233,14 +233,44 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "South Korea July exports beat forecasts on robust demand for AI investments",
-    "snippet": "Semiconductor exports jumped 179% as memory chip prices continued to \u200brise despite the issues of Apple's potential use of \u2060Chinese memory \u200cchips and a new AI development in China, the trade \u200bministry said in \u200ba statement. Computer sales also surged 404% on increasing AI \u2060investments by big U.S. tech",
-    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/south-korea-july-exports-beat-forecasts-on-robust-demand-for-ai-investments/articleshow/132781317.cms",
+    "title": "Fintechs chase new revenue; Flipkart\u2019s food delivery launch",
+    "snippet": "Happy Monday! As core growth cools, India's listed fintechs are diversifying fast and launching new products. This and more in today\u2019s ETtech Morning Dispatch.",
+    "link": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/fintechs-chase-new-revenue-streams-flipkarts-food-delivery-plans/articleshow/132816497.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-02T04:46:49.245399",
+    "captured_at": "2026-08-03T04:55:39.737673",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Drugmaker Amgen discloses data breach involving patient health information",
+    "snippet": "On July 29, Amgen determined the incident \u200cwas material, based \u2060on \u2060its evaluation of how many files appeared to be affected and \u200bthe possibility that the information in those files could be sensitive, it \u200bsaid in a regulatory filing.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/drugmaker-amgen-discloses-data-breach-involving-patient-health-information/articleshow/132807878.cms",
+    "evidence_weight": 3,
+    "notes": "ET - Tech"
+  },
+  {
+    "captured_at": "2026-08-03T04:55:39.737676",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Amazon sued by consumers over seafood sustainability claims",
+    "snippet": "In a proposed class action in Seattle federal court, consumers said labels containing phrases such as \"dolphin safe,\" \"responsibly sourced,\" \"sustainable,\" \"wild caught\" and \"MSC Certified Sustainable Seafood\" misled them into \u200cbelieving Amazon's seafood \u2060sourcing \u2060causes minimal harm to oceans and ",
+    "link": "https://economictimes.indiatimes.com/tech/technology/amazon-sued-by-consumers-over-seafood-sustainability-claims/articleshow/132807815.cms",
+    "evidence_weight": 3,
+    "notes": "ET - Tech"
+  },
+  {
+    "captured_at": "2026-08-03T04:55:39.737680",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -249,13 +279,13 @@
     "industry": "",
     "role_or_skill_hint": "",
     "title": "OpenAI finds evidence other AI agents escaped containment as it widens hacking probe",
-    "snippet": "The discovery of additional rogue behaviour at OpenAI, even if limited \u200bin nature, could feed growing appetite for regulation coming out of the White House and elsewhere. The expanded investigation by OpenAI was launched shortly before its primary rival, Anthropic, disclosed that its models were als",
-    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-finds-evidence-other-ai-agents-escaped-containment-as-it-widens-hacking-probe/articleshow/132780218.cms",
+    "snippet": "The discovery of additional rogue behavior at OpenAI, even if limited \u200bin nature, could feed growing appetite for regulation coming out of the White House and elsewhere. The expanded investigation by OpenAI was launched shortly before its primary rival, Anthropic, disclosed that its models were also",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-finds-evidence-other-ai-agents-escaped-containment-as-it-widens-hacking-probe/articleshow/132807763.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-02T04:46:49.245402",
+    "captured_at": "2026-08-03T04:55:39.737683",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -263,44 +293,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Explainer: EU gets new powers over powerful AI from Sunday",
-    "snippet": "The EU has the world's most comprehensive digital rulebook covering social media, online retailers and search engines, with plans for more rules this year. In 2024, the EU adopted a sweeping AI law known as the \"AI Act\", but its rules have been introduced in stages.",
-    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/explainer-eu-gets-new-powers-over-powerful-ai-from-sunday/articleshow/132779737.cms",
+    "title": "AI boom, West Asia crisis trigger printed circuit board shortage, price rise in electronics industry",
+    "snippet": "This crunch in printed circuit boards (PCB) -- a hardware platform on which components are fixed in electronic products -- stems from rising material costs, supply chain disruptions in key shipping routes, and component diversion toward high-end artificial intelligence hardware.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/ai-boom-west-asia-crisis-trigger-printed-circuit-board-shortage-price-rise-in-electronics-industry/articleshow/132807708.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-02T04:46:49.245404",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Alphabet rolls back AI image generation in Google Earth over policy violations",
-    "snippet": "The tool had come under criticism for its potential for misinformation as it allowed users to \u200bcreate fake scenarios on top of \u2060real imagery \u200cof monuments and landmarks. Google did not specify what types of images violated its policies. It said the images did not appear \u200cin the main Google Earth exp",
-    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/alphabet-rolls-back-ai-image-generation-in-google-earth-over-policy-violations/articleshow/132779402.cms",
-    "evidence_weight": 3,
-    "notes": "ET - Tech"
-  },
-  {
-    "captured_at": "2026-08-02T04:46:49.245407",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "NXP in talks to buy chip developer Ambarella: Report",
-    "snippet": "Shares \u200cof \u2060Ambarella, with \u2060a market capitalization of $3.25 billion, \u200bjumped nearly 17%, while NXP fell over \u200b3% following the report.",
-    "link": "https://economictimes.indiatimes.com/tech/technology/nxp-in-talks-to-buy-chip-developer-ambarella-report/articleshow/132775174.cms",
-    "evidence_weight": 3,
-    "notes": "ET - Tech"
-  },
-  {
-    "captured_at": "2026-08-02T04:46:49.613433",
+    "captured_at": "2026-08-03T04:55:40.067365",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -308,14 +308,44 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Chinese VC firms rush to raise funds after 3-year drought",
+    "title": "\u2018Crush this lady\u2019: how eBay harassment campaign led to $56mn payout",
+    "snippet": "Employees\u2019 cyberstalking of Boston couple involving macabre deliveries ended in jail time and financial settlement",
+    "link": "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2?syn-25a6b1a6=1",
+    "evidence_weight": 3,
+    "notes": "FT - Technology"
+  },
+  {
+    "captured_at": "2026-08-03T04:55:40.067375",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "Global",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Apple struggles to keep pace with AI \u2018bug\u2019 hunters",
+    "snippet": "iPhone maker has limited the number of vulnerabilities researchers can submit to manage wave of reports",
+    "link": "https://www.ft.com/content/4532122d-90f2-4433-9df6-ca99d8a141d2?syn-25a6b1a6=1",
+    "evidence_weight": 3,
+    "notes": "FT - Technology"
+  },
+  {
+    "captured_at": "2026-08-03T04:55:40.067379",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "Global",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Chinese VC firms rush to raise funds after three-year drought",
     "snippet": "Managers capitalise on investors\u2019 desire to \u2018hedge\u2019 against US market bets",
     "link": "https://www.ft.com/content/e6e4d553-2474-43e4-bc25-0f1cb952f66d?syn-25a6b1a6=1",
     "evidence_weight": 3,
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-02T04:46:49.613442",
+    "captured_at": "2026-08-03T04:55:40.067382",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -330,7 +360,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-02T04:46:49.613445",
+    "captured_at": "2026-08-03T04:55:40.067385",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -345,7 +375,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-02T04:46:49.613448",
+    "captured_at": "2026-08-03T04:55:40.067388",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -360,7 +390,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-02T04:46:49.613450",
+    "captured_at": "2026-08-03T04:55:40.067391",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -375,7 +405,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-02T04:46:49.613452",
+    "captured_at": "2026-08-03T04:55:40.067393",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -390,7 +420,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-02T04:46:49.613454",
+    "captured_at": "2026-08-03T04:55:40.067396",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -405,7 +435,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-02T04:46:49.613456",
+    "captured_at": "2026-08-03T04:55:40.067399",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -420,37 +450,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-02T04:46:49.613458",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "South Korean stock market soars 18% as investors pile back into AI",
-    "snippet": "Chipmakers rebound at end of bruising month for the sector, helped by Wall Street rally",
-    "link": "https://www.ft.com/content/23eb1fd4-8301-4c0e-89b3-2647389e6226?syn-25a6b1a6=1",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-08-02T04:46:49.613460",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Apple shares tumble as AI build-out hits supply chains and growth",
-    "snippet": "Chief executive Tim Cook says impact of memory prices is set to worsen as he steps down",
-    "link": "https://www.ft.com/content/762a504e-fca8-49d0-9f2e-b2f142fd749a?syn-25a6b1a6=1",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-08-02T04:46:49.740335",
+    "captured_at": "2026-08-03T04:55:40.195032",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -465,7 +465,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-02T04:46:49.740344",
+    "captured_at": "2026-08-03T04:55:40.195042",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -480,7 +480,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-02T04:46:49.740347",
+    "captured_at": "2026-08-03T04:55:40.195046",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -495,7 +495,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-02T04:46:49.740350",
+    "captured_at": "2026-08-03T04:55:40.195055",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -510,7 +510,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-02T04:46:49.740353",
+    "captured_at": "2026-08-03T04:55:40.195058",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -525,7 +525,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-02T04:46:49.740356",
+    "captured_at": "2026-08-03T04:55:40.195061",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -540,7 +540,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-02T04:46:49.740360",
+    "captured_at": "2026-08-03T04:55:40.195064",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -555,7 +555,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-02T04:46:49.740363",
+    "captured_at": "2026-08-03T04:55:40.195067",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -570,7 +570,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-02T04:46:49.740365",
+    "captured_at": "2026-08-03T04:55:40.195070",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -585,7 +585,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-02T04:46:49.740367",
+    "captured_at": "2026-08-03T04:55:40.195073",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
