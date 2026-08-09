@@ -1,6 +1,6 @@
 [
   {
-    "captured_at": "2026-08-08T03:03:33.975021",
+    "captured_at": "2026-08-09T03:10:31.833927",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -15,7 +15,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-08T03:03:33.975035",
+    "captured_at": "2026-08-09T03:10:31.833938",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -30,7 +30,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-08T03:03:33.975039",
+    "captured_at": "2026-08-09T03:10:31.833941",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -45,7 +45,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-08T03:03:33.975046",
+    "captured_at": "2026-08-09T03:10:31.833949",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -60,7 +60,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-08T03:03:33.975049",
+    "captured_at": "2026-08-09T03:10:31.833952",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -75,7 +75,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-08T03:03:33.975052",
+    "captured_at": "2026-08-09T03:10:31.833954",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -90,7 +90,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-08T03:03:33.975055",
+    "captured_at": "2026-08-09T03:10:31.833958",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -105,7 +105,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-08T03:03:33.975059",
+    "captured_at": "2026-08-09T03:10:31.833962",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -120,7 +120,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-08T03:03:33.975063",
+    "captured_at": "2026-08-09T03:10:31.833966",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -135,7 +135,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-08T03:03:33.975066",
+    "captured_at": "2026-08-09T03:10:31.833969",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -150,7 +150,142 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-08T03:03:34.576667",
+    "captured_at": "2026-08-09T03:10:32.115873",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Apple says Mac users in China can connect to Alibaba's Qwen AI service",
+    "snippet": "Apple published a guide for Chinese Mac users to connect Alibaba's Qwen AI service. This integration allows enhanced Siri responses and Writing Tools capabilities for users. The arrangement aims to boost Apple's competitive edge in China's AI PC market. Domestic rivals like Lenovo and Huawei are alr",
+    "link": "https://economictimes.indiatimes.com/tech/technology/apple-says-mac-users-in-china-can-connect-to-alibabas-qwen-ai-service/articleshow/133053048.cms",
+    "evidence_weight": 3,
+    "notes": "ET - Tech"
+  },
+  {
+    "captured_at": "2026-08-09T03:10:32.115891",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "MeitY asks Meta to revamp algorithms, curb deepfakes and illegal content on platforms: Government sources",
+    "snippet": "India's MeitY has urged Meta to revise its algorithms and provide a compliance roadmap.  The government seeks stronger detection and removal of harmful and manipulated content.  Meta's technical team met with MeitY officials to discuss existing content moderation systems.  The company acknowledged s",
+    "link": "https://economictimes.indiatimes.com/tech/technology/meity-asks-meta-to-revamp-algorithms-submit-compliance-roadmap-to-curb-deepfakes-propaganda-govt-sources/articleshow/133050894.cms",
+    "evidence_weight": 3,
+    "notes": "ET - Tech"
+  },
+  {
+    "captured_at": "2026-08-09T03:10:32.115895",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "PhonePe, Razorpay chiefs say UPI will stay free for users, back sustainable model",
+    "snippet": "PhonePe and Razorpay leaders affirmed UPI payments will stay free for consumers. They support sustainable revenue models for payment infrastructure and businesses. Larger businesses may face merchant charges, while small merchants remain exempt. This follows parliamentary approval to allow charges o",
+    "link": "https://economictimes.indiatimes.com/tech/technology/phonepe-razorpay-chiefs-say-upi-will-stay-free-for-users-back-sustainable-model/articleshow/133051530.cms",
+    "evidence_weight": 3,
+    "notes": "ET - Tech"
+  },
+  {
+    "captured_at": "2026-08-09T03:10:32.115898",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "DPIIT signs 5 MoUs to expand digital, cloud and investment support for startups",
+    "snippet": "The Department for Promotion of Industry and Internal Trade (DPIIT) has signed five strategic Memoranda of Understanding (MoUs) with industry leaders and ecosystem enablers to expand access to digital infrastructure, technology, mentorship, investment and global markets for startups, the Ministry of",
+    "link": "https://economictimes.indiatimes.com/tech/startups/dpiit-signs-5-mous-to-expand-digital-cloud-and-investment-support-for-startups/articleshow/133051151.cms",
+    "evidence_weight": 3,
+    "notes": "ET - Tech"
+  },
+  {
+    "captured_at": "2026-08-09T03:10:32.115902",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Government examines if Meta recommendation system deciding 'what-to-show-to-whom' fits intermediary status",
+    "snippet": "If a platform determines what content gets shown to users, it amounts to publishing, and platforms would then have to take responsibility for their actions. The issue assumes significance as intermediaries enjoy certain legal protections under the Act, subject to compliance with prescribed condition",
+    "link": "https://economictimes.indiatimes.com/tech/technology/govt-examines-if-meta-recommendation-system-deciding-what-to-show-to-whom-fits-intermediary-status/articleshow/133048786.cms",
+    "evidence_weight": 3,
+    "notes": "ET - Tech"
+  },
+  {
+    "captured_at": "2026-08-09T03:10:32.115906",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Amazon behind massive private gas plant for new data centers",
+    "snippet": "Previously filed permits for the plant show it would have 35 turbines and generate 7.65 gigawatts -- larger than any gas plant currently operating in the United States. A bigger facility, at 9.2 gigawatts, is planned in Ohio under a public-private partnership involving SoftBank. That plant would con",
+    "link": "https://economictimes.indiatimes.com/tech/technology/amazon-behind-massive-private-gas-plant-for-new-data-centers/articleshow/133046837.cms",
+    "evidence_weight": 3,
+    "notes": "ET - Tech"
+  },
+  {
+    "captured_at": "2026-08-09T03:10:32.115909",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Apple and OpenAI escalate legal battle over devices",
+    "snippet": "The case comes at a sensitive time for OpenAI, which is worth a reported $852 billion as it works towards a potential IPO. The lab is also locked into a fierce competition with Anthropic, a rival AI lab in San Francisco that was founded by a group of former OpenAI employees.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/apple-and-openai-escalate-legal-battle-over-devices/articleshow/133046522.cms",
+    "evidence_weight": 3,
+    "notes": "ET - Tech"
+  },
+  {
+    "captured_at": "2026-08-09T03:10:32.115913",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "SK Hynix board approves $38 billion investments for South Korea's Yongin, Cheongju chip plants",
+    "snippet": "The company said Yongin's \"Y2 fab\" \u200bis the second \u200bof four fabrication plants planned for the cluster and will \u2060serve as a production base for dynamic random access memory (DRAM) \u200bchips. DRAM, which temporarily stores data for processors, is a critical \u200bcomponent in the servers powering the AI boom.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-board-approves-38-billion-investments-for-south-koreas-yongin-cheongju-chip-plants/articleshow/133046182.cms",
+    "evidence_weight": 3,
+    "notes": "ET - Tech"
+  },
+  {
+    "captured_at": "2026-08-09T03:10:32.115917",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Data centre firm Switch confidentially files for US IPO: Bloomberg",
+    "snippet": "The company operates \u200blarge-scale data centre campuses that provide power, cooling and connectivity needed for AI computing, enabling cloud providers and enterprises \u200cto deploy GPU clusters used to train and run \u200bAI \u200bmodels.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/data-centre-firm-switch-confidentially-files-for-us-ipo-bloomberg/articleshow/133045976.cms",
+    "evidence_weight": 3,
+    "notes": "ET - Tech"
+  },
+  {
+    "captured_at": "2026-08-09T03:10:32.115920",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -165,142 +300,22 @@
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-08T03:03:34.576677",
+    "captured_at": "2026-08-09T03:10:32.403991",
     "source_channel": "rss",
     "source_type": "news",
-    "geo_primary": "India",
+    "geo_primary": "Global",
     "india_relevance": "Medium",
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Nvidia to invest up to $3 billion in Lancium, the Information reports",
-    "snippet": "Nvidia will get \u200ba 20% \u2060stake in \u200cLancium \u200bfor \u200bthe first $2 \u2060billion investment, and its stake \u200bcould grow to \u200ban additional $1 billion if Lancium  hits certain thresholds, the \u200cInformation said, citing people familiar \u200bwith the \u200bmatter.",
-    "link": "https://economictimes.indiatimes.com/tech/funding/nvidia-to-invest-up-to-3-billion-in-lancium-the-information-reports/articleshow/133045158.cms",
+    "title": "The joy of cooking imaginary food",
+    "snippet": "From \u2018The Sims 2\u2019 to \u2018Overcooked\u2019, video games turn kitchen work into play \u2014 and reveal the satisfaction of making something you cannot eat",
+    "link": "https://www.ft.com/content/9a60eb7c-2662-4767-8de9-dc72d3398d08",
     "evidence_weight": 3,
-    "notes": "ET - Tech"
+    "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-08T03:03:34.576681",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Explainer: How could New Mexico's $567 million ruling change Meta?",
-    "snippet": "The court in Santa Fe ruled on Thursday that Meta must pay $567 million into a New Mexico fund for teen mental health prevention and treatment. Judge \u200bBryan Biedscheid in Santa Fe ordered Meta to implement measures for users in New Mexico intended to protect youth on Facebook and Instagram. The ruli",
-    "link": "https://economictimes.indiatimes.com/tech/technology/explainer-how-could-new-mexicos-567-million-ruling-change-meta/articleshow/133045077.cms",
-    "evidence_weight": 3,
-    "notes": "ET - Tech"
-  },
-  {
-    "captured_at": "2026-08-08T03:03:34.576685",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Optimized builds satellites to focus on Earth, space traffic",
-    "snippet": "Optimized operates through separately registered companies, including Optimized Solutions and Bengaluru-based Optimized Electrotech.",
-    "link": "https://economictimes.indiatimes.com/tech/startups/optimized-builds-satellites-to-focus-on-earth-space-traffic/articleshow/133040859.cms",
-    "evidence_weight": 3,
-    "notes": "ET - Tech"
-  },
-  {
-    "captured_at": "2026-08-08T03:03:34.576689",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "OpenAI\u2019s new device will be hockey puck-sized and cost over $300",
-    "snippet": "The product \u2014 essentially a smart speaker without a display \u2014 will be shaped like a doughnut that\u2019s roughly the size of a hockey puck, said the people, who asked not to be identified because the work is confidential. The idea is to make the device easy to carry around the home with one hand.",
-    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openais-new-device-will-be-hockey-puck-sized-and-cost-over-300/articleshow/133040914.cms",
-    "evidence_weight": 3,
-    "notes": "ET - Tech"
-  },
-  {
-    "captured_at": "2026-08-08T03:03:34.576691",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls",
-    "snippet": "Under OpenAI's safety guidelines, a model reaches the \"critical\" threshold if it can autonomously identify and exploit severe, real-world software vulnerabilities, known \u200cas zero-day \u2060exploits, or \u2060execute complex cyberattacks against highly secure targets without human intervention.",
-    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-flags-possible-critical-cybersecurity-risk-in-upcoming-model-tightens-controls/articleshow/133040002.cms",
-    "evidence_weight": 3,
-    "notes": "ET - Tech"
-  },
-  {
-    "captured_at": "2026-08-08T03:03:34.576694",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Centre approves electronics manufacturing cluster in Rajnandgaon; Rs 3,000 crore investment expected",
-    "snippet": "The approval by the Union Ministry of Electronics and Information Technology (MeitY) is being seen as a major boost to Chhattisgarh's efforts to emerge as a preferred destination for high-tech manufacturing, a state government official said.",
-    "link": "https://economictimes.indiatimes.com/tech/technology/centre-approves-electronics-manufacturing-cluster-in-rajnandgaon-rs-3000-crore-investment-expected/articleshow/133039745.cms",
-    "evidence_weight": 3,
-    "notes": "ET - Tech"
-  },
-  {
-    "captured_at": "2026-08-08T03:03:34.576697",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Payments Council backs UPI merchant charges, says users, small businesses will remain exempt",
-    "snippet": "PCI said small merchants, including kirana stores, should not be charged for accepting UPI payments. Any merchant service charge would be a commercial arrangement between merchants and payment providers, not a charge on customers.",
-    "link": "https://economictimes.indiatimes.com/tech/technology/payments-council-backs-upi-merchant-charges-says-users-small-businesses-will-remain-exempt/articleshow/133037949.cms",
-    "evidence_weight": 3,
-    "notes": "ET - Tech"
-  },
-  {
-    "captured_at": "2026-08-08T03:03:34.576700",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Levi Strauss reveals cybersecurity breach amid wider wave of attacks",
-    "snippet": "The apparel maker joins a growing \u200clist \u2060of major firms \u2060worldwide that are facing a rise in cyberattacks \u200band ransomware incidents that steal sensitive data and disrupt operations.",
-    "link": "https://economictimes.indiatimes.com/tech/technology/levi-strauss-reveals-cybersecurity-breach-amid-wider-wave-of-attacks/articleshow/133037223.cms",
-    "evidence_weight": 3,
-    "notes": "ET - Tech"
-  },
-  {
-    "captured_at": "2026-08-08T03:03:34.576704",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Trump says Congress wants to regulate AI industry 'out of business'",
-    "snippet": "Trump's remarks underscore a widening debate in Washington over how aggressively to police a fast-moving AI industry that has \u200clargely operated \u2060without \u2060new federal rules. Lawmakers have released a range of proposals that have \u200bnot yet moved forward, including a bill that would require developers o",
-    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/trump-says-congress-wants-to-regulate-ai-industry-out-of-business/articleshow/133037164.cms",
-    "evidence_weight": 3,
-    "notes": "ET - Tech"
-  },
-  {
-    "captured_at": "2026-08-08T03:03:34.938741",
+    "captured_at": "2026-08-09T03:10:32.404001",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -315,7 +330,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-08T03:03:34.938753",
+    "captured_at": "2026-08-09T03:10:32.404004",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -330,7 +345,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-08T03:03:34.938757",
+    "captured_at": "2026-08-09T03:10:32.404007",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -345,7 +360,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-08T03:03:34.938760",
+    "captured_at": "2026-08-09T03:10:32.404010",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -360,7 +375,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-08T03:03:34.938763",
+    "captured_at": "2026-08-09T03:10:32.404013",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -375,7 +390,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-08T03:03:34.938766",
+    "captured_at": "2026-08-09T03:10:32.404016",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -390,7 +405,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-08T03:03:34.938768",
+    "captured_at": "2026-08-09T03:10:32.404019",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -405,7 +420,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-08T03:03:34.938771",
+    "captured_at": "2026-08-09T03:10:32.404021",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -420,7 +435,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-08T03:03:34.938773",
+    "captured_at": "2026-08-09T03:10:32.404024",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -435,22 +450,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-08T03:03:34.938776",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Google\u2019s AI shake-up boosts Brin as DeepMind\u2019s Hassabis steps aside",
-    "snippet": "Silicon Valley parent consolidates control as the London lab\u2019s scientific culture gives way to urgency to build AI products",
-    "link": "https://www.ft.com/content/1453e9c2-4922-482f-8720-0bafd7e07df7?syn-25a6b1a6=1",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-08-08T03:03:35.140069",
+    "captured_at": "2026-08-09T03:10:32.600371",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -465,7 +465,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-08T03:03:35.140080",
+    "captured_at": "2026-08-09T03:10:32.600380",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -480,7 +480,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-08T03:03:35.140084",
+    "captured_at": "2026-08-09T03:10:32.600384",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -495,7 +495,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-08T03:03:35.140088",
+    "captured_at": "2026-08-09T03:10:32.600388",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -510,7 +510,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-08T03:03:35.140092",
+    "captured_at": "2026-08-09T03:10:32.600391",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -525,7 +525,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-08T03:03:35.140101",
+    "captured_at": "2026-08-09T03:10:32.600400",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -540,7 +540,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-08T03:03:35.140105",
+    "captured_at": "2026-08-09T03:10:32.600403",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -555,7 +555,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-08T03:03:35.140108",
+    "captured_at": "2026-08-09T03:10:32.600406",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -570,7 +570,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-08T03:03:35.140111",
+    "captured_at": "2026-08-09T03:10:32.600409",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -585,7 +585,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-08T03:03:35.140114",
+    "captured_at": "2026-08-09T03:10:32.600412",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
