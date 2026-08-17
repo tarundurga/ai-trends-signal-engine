@@ -1,6 +1,66 @@
 [
   {
-    "captured_at": "2026-08-16T02:36:55.074243",
+    "captured_at": "2026-08-17T02:36:37.784326",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Crypto wallet provider SafePal discloses data breach affecting nearly 40,000 users order information",
+    "snippet": "SAFEPAL-DATA BREACH/:Crypto wallet provider SafePal discloses data breach affecting nearly 40,000 users' order information",
+    "link": "https://www.livemint.com/technology/crypto-wallet-provider-safepal-discloses-data-breach-affecting-nearly-40-000-users-order-information-11786895492175.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-08-17T02:36:37.784337",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "ChatGPT to the rescue: Goa man uses AI hack to find lost footwear outside Ujjain temple",
+    "snippet": "ChatGPT to the rescue: Goa man uses AI hack to find lost footwear outside Ujjain temple",
+    "link": "https://www.livemint.com/technology/chatgpt-to-the-rescue-goa-man-uses-ai-hack-to-find-lost-footwear-outside-ujjain-temple-11786864876801.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-08-17T02:36:37.784340",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Global AI investment $1 tln in 2026, to reach 1.4 pc global GDP by 2028: Goldman Sachs",
+    "snippet": "Global investment in artificial intelligence is projected to reach around $1 trillion in 2026, with AI-related capital expenditure expected to remain robust in the near term, according to Goldman Sachs Research. The investment is forecast to rise from 0.9 per cent of global GDP in 2026 to 1.3 per ce",
+    "link": "https://www.livemint.com/technology/global-ai-investment-1-tln-in-2026-to-reach-1-4-pc-global-gdp-by-2028-goldman-sachs-11786858002513.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-08-17T02:36:37.784344",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Anthropic CEO Dario Amodei rejects claim AI regulation would concentrate power",
+    "snippet": "Anthropic CEO Dario Amodei has pushed back against claims that regulating artificial intelligence would inevitably concentrate power in the hands of a few companies and governments, arguing that carefully designed rules could instead constrain frontier AI firms while giving smaller competitors more ",
+    "link": "https://www.livemint.com/technology/anthropic-ceo-dario-amodei-rejects-claim-ai-regulation-would-concentrate-power-11786854040200.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-08-17T02:36:37.784347",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -15,7 +75,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-16T02:36:55.074256",
+    "captured_at": "2026-08-17T02:36:37.784350",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -30,7 +90,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-16T02:36:55.074260",
+    "captured_at": "2026-08-17T02:36:37.784357",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -45,7 +105,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-16T02:36:55.074265",
+    "captured_at": "2026-08-17T02:36:37.784362",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -60,7 +120,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-16T02:36:55.074268",
+    "captured_at": "2026-08-17T02:36:37.784366",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -75,7 +135,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-16T02:36:55.074271",
+    "captured_at": "2026-08-17T02:36:37.784369",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -90,67 +150,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-16T02:36:55.074279",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "ASUS ExpertBook Ultra review: A business laptop that doesn't feel like one",
-    "snippet": "The ASUS ExpertBook Ultra weighs just 0.99kg, but packs a powerful processor, OLED display and 70Wh battery into its ultra-light chassis.",
-    "link": "https://www.livemint.com/technology/gadgets/asus-expertbook-ultra-review-a-business-laptop-that-doesnt-feel-like-one-11786684621357.html",
-    "evidence_weight": 3,
-    "notes": "Mint - Tech"
-  },
-  {
-    "captured_at": "2026-08-16T02:36:55.074283",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Exclusive-Apple trains its own AI model for China market with Alibabas support, sources say",
-    "snippet": "APPLE-ALIBABA-AI:Exclusive-Apple trains its own AI model for China market with Alibaba's support, sources say",
-    "link": "https://www.livemint.com/technology/exclusiveapple-trains-its-own-ai-model-for-china-market-with-alibabas-support-sources-say-11786681640581.html",
-    "evidence_weight": 3,
-    "notes": "Mint - Tech"
-  },
-  {
-    "captured_at": "2026-08-16T02:36:55.074287",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Apple sends fresh mercenary spyware warnings to users in 110 countries: What you need to know",
-    "snippet": "Apple has issued threat notifications to users globally, warning of mercenary spyware attacks on iPhones, iPads, and Macs.",
-    "link": "https://www.livemint.com/technology/tech-news/apple-sends-fresh-mercenary-spyware-warnings-to-users-in-110-countries-what-you-need-to-know-11786670522190.html",
-    "evidence_weight": 3,
-    "notes": "Mint - Tech"
-  },
-  {
-    "captured_at": "2026-08-16T02:36:55.074291",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "iPhone 18 Pro Max launching soon: Expected launch date, price, display, battery and specifications",
-    "snippet": "The iPhone 18 Pro series is eagerly anticipated and could potentially debut on 9 September. It may feature new colors, an A20 Pro chipset, and improved camera capabilities,",
-    "link": "https://www.livemint.com/technology/gadgets/iphone-18-pro-max-launching-soon-expected-launch-date-price-display-battery-and-specificiations-11786669670826.html",
-    "evidence_weight": 3,
-    "notes": "Mint - Tech"
-  },
-  {
-    "captured_at": "2026-08-16T02:36:57.515432",
+    "captured_at": "2026-08-17T02:36:38.105474",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -158,14 +158,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Ola Electric looks beyond scooters, unveils new products in Shakti portfolio",
-    "snippet": "Ola Electric is expanding its battery business into energy storage solutions. The company unveiled a three-tier Shakti portfolio for various applications. This new range spans homes, commercial facilities, and grid-scale energy storage. Ola aims to achieve India's energy independence through this st",
-    "link": "https://economictimes.indiatimes.com/tech/technology/ola-electric-looks-beyond-scooters-unveils-new-products-in-shakti-portfolio/articleshow/133265093.cms",
+    "title": "Unveiling The Economic Times Startup Awards 2026 high-powered jury",
+    "snippet": "We\u2019re back with the 12th edition of The Economic Times Startup Awards (ETSA). However hectic it gets for the ETtech team, the thrill of sifting through the best of Indian entrepreneurship makes up for every late night in the newsroom.",
+    "link": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/unveiling-the-economic-times-startup-awards-2026-high-powered-jury/articleshow/133284616.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-16T02:36:57.515442",
+    "captured_at": "2026-08-17T02:36:38.105483",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -173,14 +173,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast",
-    "snippet": "Anthropic is projecting 2028 revenue of roughly $190 billion to $200 billion, according to two people familiar \u200bwith the company's financials, a figure that has not previously been reported. The projection dwarfs the $47 billion revenue \"run rate,\" reflecting the firm's current pace of business, tha",
-    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-ipo-valuation-hinges-on-190-200-billion-2028-revenue-forecast/articleshow/133259667.cms",
+    "title": "US to tell partners they must pick sides in AI race with China",
+    "snippet": "By pressing countries to choose sides the US hopes to starve China of resources in a race to make the most sophisticated AI, which \u200bcould be used for military or economic dominance. In July, Chinese President Xi Jinping launched a rival \"World Artificial Intelligence Cooperation Organization\", promo",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-to-tell-partners-they-must-pick-sides-in-ai-race-with-china/articleshow/133280365.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-16T02:36:57.515446",
+    "captured_at": "2026-08-17T02:36:38.105488",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -188,14 +188,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Maharashtra food safety chief targets Domino's, Eternal, Swiggy, Zepto in sweeping crackdown",
-    "snippet": "Maharashtra's food safety chief has taken decisive action by suspending warehouse permits for leading grocery companies after inspectors uncovered alarming sanitation issues, including cockroach infestations. This effort specifically addresses challenges within the burgeoning quick commerce sector k",
-    "link": "https://economictimes.indiatimes.com/tech/technology/crusading-india-state-food-safety-chief-targets-eternal-swiggy-zepto-in-sweeping-crackdown/articleshow/133259223.cms",
+    "title": "Crypto wallet provider SafePal discloses data breach affecting nearly 40,000 users' order information",
+    "snippet": "An authorization flaw in the order tracking \u200csystem allowed access \u2060to \u2060another customer's order information between March 2, 2025, and April 11, \u200b2026, SafePal said in a statement.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/crypto-wallet-provider-safepal-discloses-data-breach-affecting-nearly-40000-users-order-information/articleshow/133278729.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-16T02:36:57.515454",
+    "captured_at": "2026-08-17T02:36:38.105491",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -203,14 +203,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Josh Kushner\u2019s Thrive Fund grows sevenfold to $3.7 billion on AI bets",
-    "snippet": "The letter highlights an investing strategy that Thrive pioneered in the venture capital industry: concentrating on a small subset of companies, rather than indexing an entire market. While many VC firms spread bets across dozens of companies, Thrive\u2019s strategy is much more focused.",
-    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/kushners-thrive-fund-grows-sevenfold-to-3-7-billion-on-ai-bets/articleshow/133257697.cms",
+    "title": "Ecommerce order volumes up 31% during Independence Day sales",
+    "snippet": "The insights, derived from order items processed on the company's Uniware platform between August 6 and 14, also revealed a 30 per cent jump in total sales value, or gross merchandise value (GMV), compared to the same period in 2025.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/ecommerce-order-volumes-up-31-during-independence-day-sales/articleshow/133277675.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-16T02:36:57.515457",
+    "captured_at": "2026-08-17T02:36:38.105494",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -218,14 +218,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "CM Shivakumar announces AI education programme for schools in Karnataka",
-    "snippet": "He said his government has already formulated programmes to transform the skills of today's youth and enable them to compete globally, adding that AI education would be introduced in schools across Karnataka from Class 6. Shivakumar said the government was also working on establishing India's first ",
-    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/cm-shivakumar-announces-ai-education-programme-for-schools-in-ktaka/articleshow/133256595.cms",
+    "title": "Anthropic CEO Dario Amodei defends AI regulation, argues it can boost competition",
+    "snippet": "It started with a comment from investor Gavin Baker on the All-In Podcast, which set off a public argument about Anthropic's ambitions, pulling in one of the  top researchers in this field,  Advanced Machine Intelligence chair Yann LeCunn, and a public essay from Amodei himself.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/anthropic-ceo-dario-amodei-defends-ai-regulation-argues-it-can-boost-competition/articleshow/133276232.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-16T02:36:57.515460",
+    "captured_at": "2026-08-17T02:36:38.105497",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -233,14 +233,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "We will train 1 crore youth in AI skills over next year: PM Modi",
-    "snippet": "Prime Minister Narendra Modi, referring to India's recent AI Summit, announced a major initiative aimed at expanding AI skills among the country's youth. He also said that India has witnessed a significant rise in entrepreneurship, with more than 2.5 lakh startups operating across the country and yo",
-    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/we-will-work-to-provide-ai-skill-training-to-1-crore-youth-in-coming-one-year-pm-modi/articleshow/133256036.cms",
+    "title": "Berkshire Hathaway boosted stake in Alphabet, homebuilders in the second quarter",
+    "snippet": "The Omaha, Nebraska-based company also continued to pare its stake in financial companies and a number of other stocks in the April-June quarter, according to a regulatory filing filed late Friday. CEO Greg Abel, who took over from Warren Buffett at the start of the year, agreed in June to make a $1",
+    "link": "https://economictimes.indiatimes.com/tech/technology/berkshire-hathaway-boosted-stake-in-alphabet-homebuilders-in-the-second-quarter/articleshow/133271260.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-16T02:36:57.515463",
+    "captured_at": "2026-08-17T02:36:38.105500",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -248,14 +248,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Five to eight more semiconductor plants to come up in eight years: PM Modi",
-    "snippet": "Addressing the nation from the ramparts of the historic Red Fort on the 80th Independence Day, the prime minister said India's semiconductor journey reflects its growing technological self-reliance. Recognising the strategic importance of chips, the prime minister said India has taken decisive steps",
-    "link": "https://economictimes.indiatimes.com/tech/technology/five-to-eight-more-semiconductor-plants-to-come-up-in-eight-years-pm-modi/articleshow/133255200.cms",
+    "title": "AI could cut cost of running insurance by eliminating repetitive work: Report",
+    "snippet": "The report said AI is being embedded across underwriting, customer service, fraud detection, claims processing and internal operations. Instead of replacing insurance professionals, AI is being used to handle routine tasks so employees can focus on decisions that require judgement and experience.",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-could-cut-cost-of-running-insurance-by-eliminating-repetitive-work-report/articleshow/133271231.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-16T02:36:57.515466",
+    "captured_at": "2026-08-17T02:36:38.105503",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -263,14 +263,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Nvidia scales back funding guarantee for Ohio OpenAI data centre: WSJ",
-    "snippet": "According to the report Nvidia and OpenAI are nearing an \u200bagreement, with the chipmaker expected to provide a financial backstop only \u200bfor the first phase of the project. A deal could be signed as early as this weekend, the report said. The change \u2060were made \u200cafter investors raised concerns about Nv",
-    "link": "https://economictimes.indiatimes.com/tech/technology/nvidia-scales-back-funding-guarantee-for-ohio-openai-data-centre-wsj/articleshow/133253982.cms",
+    "title": "US takes risky bet on private 'pirates' to combat cybercrime",
+    "snippet": "The United States will allow private companies to hack foreign cybercriminal groups, a seemingly unprecedented measure that is dividing experts who say it has potential to succeed or spiral out of control. Any company that participates in government-sanctioned hacking \"stops being a neutral defender",
+    "link": "https://economictimes.indiatimes.com/tech/technology/us-takes-risky-bet-on-private-pirates-to-combat-cybercrime/articleshow/133271071.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-16T02:36:57.515469",
+    "captured_at": "2026-08-17T02:36:38.105506",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -278,14 +278,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Amazon reinstates binding arbitration, bars class-action lawsuits",
-    "snippet": "In emails on Friday, Amazon said the changes are effective immediately and customers \u200cagree to the \u2060terms \u2060by continuing to use the company's services. Often, companies alert customers to upcoming changes to \u200btheir terms of service weeks in advance.",
-    "link": "https://economictimes.indiatimes.com/tech/technology/amazon-reinstates-binding-arbitration-bars-class-action-lawsuits/articleshow/133253950.cms",
+    "title": "US states seek $200 billion penalty in blockbuster Meta lawsuit",
+    "snippet": "A coalition of US states will seek around $200 billion in damages against Meta, which they accuse of intentionally designing Facebook and Instagram to be addictive for children, when a landmark trial kicks off on Tuesday. A coalition of states sued Meta in 2023 for allegedly designing addictive feat",
+    "link": "https://economictimes.indiatimes.com/tech/technology/us-states-seek-200-billion-penalty-in-blockbuster-meta-lawsuit/articleshow/133271047.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-16T02:36:57.515472",
+    "captured_at": "2026-08-17T02:36:38.105509",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -293,14 +293,89 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "PayPal in talks with Stripe and private equity firm over sale: report",
-    "snippet": "In July, Stripe and private equity firm Advent International made a joint offer to buy the digital payments pioneer for $60.50 a share, which would have valued PayPal at around $53 billion, according to media reports. PayPal has struggled to compete with other payments providers including Apple Pay ",
-    "link": "https://economictimes.indiatimes.com/tech/technology/paypal-in-talks-with-stripe-and-private-equity-firm-over-sale-report/articleshow/133253761.cms",
+    "title": "Tiger Global Management cuts stakes in Big Tech, buys into SpaceX",
+    "snippet": "The hedge \u2060fund cut \u2060its Alphabet holdings by 45.4% to 5.81 million shares as of June \u200b30 from the end of March, and its Nvidia stake by 6.8% to \u200b11.20 million shares.",
+    "link": "https://economictimes.indiatimes.com/tech/startups/tiger-global-management-cuts-stakes-in-big-tech-buys-into-spacex/articleshow/133271032.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-16T02:36:57.848064",
+    "captured_at": "2026-08-17T02:36:38.466232",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "Global",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "The next China shock will come from open-source AI",
+    "snippet": "Countries adopting Chinese models will also absorb Chinese standards and governance",
+    "link": "https://www.ft.com/content/2f705a5a-2c4e-4bca-b08a-ed9372ef3b2e",
+    "evidence_weight": 3,
+    "notes": "FT - Technology"
+  },
+  {
+    "captured_at": "2026-08-17T02:36:38.466241",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "Global",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Ukraine presses drone attacks on Moscow and Russian logistics",
+    "snippet": "Kyiv launches more than 600 drones at enemy capital in one of its largest assaults of the summer",
+    "link": "https://www.ft.com/content/a71bcea9-b0eb-4ed2-8bc9-f4dace738e37?syn-25a6b1a6=1",
+    "evidence_weight": 3,
+    "notes": "FT - Technology"
+  },
+  {
+    "captured_at": "2026-08-17T02:36:38.466245",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "Global",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Big Tech\u2019s data centre boom poised to drive up carbon emissions",
+    "snippet": "FT analysis finds 60 largest planned facilities could emit equivalent of 27 coal plants or 24mn cars per year",
+    "link": "https://www.ft.com/content/8158cb5a-4bbd-43fd-b329-15a54e8422c8?syn-25a6b1a6=1",
+    "evidence_weight": 3,
+    "notes": "FT - Technology"
+  },
+  {
+    "captured_at": "2026-08-17T02:36:38.466248",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "Global",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "BlackBerry: From phone dinosaur to tech champion",
+    "snippet": "A decade after the disappearance of its handsets, the company\u2019s future rests on car and security software",
+    "link": "https://www.ft.com/content/a026e094-7017-4ff8-8344-213573e973ed",
+    "evidence_weight": 3,
+    "notes": "FT - Technology"
+  },
+  {
+    "captured_at": "2026-08-17T02:36:38.466251",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "Global",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Malaysia profits from data centre boom",
+    "snippet": "Southeast Asian country emerges as key AI hub in boost for its economy",
+    "link": "https://www.ft.com/content/f063b38e-61c0-449b-aca3-968b903091a1?syn-25a6b1a6=1",
+    "evidence_weight": 3,
+    "notes": "FT - Technology"
+  },
+  {
+    "captured_at": "2026-08-17T02:36:38.466254",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -315,7 +390,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-16T02:36:57.848075",
+    "captured_at": "2026-08-17T02:36:38.466256",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -330,7 +405,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-16T02:36:57.848079",
+    "captured_at": "2026-08-17T02:36:38.466259",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -345,7 +420,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-16T02:36:57.848082",
+    "captured_at": "2026-08-17T02:36:38.466262",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -360,7 +435,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-16T02:36:57.848085",
+    "captured_at": "2026-08-17T02:36:38.466265",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -375,82 +450,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-16T02:36:57.848088",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Top French court blocks social media ban for children",
-    "snippet": "Constitutional Council says law is a \u2018disproportionate infringement on freedom of expression\u2019",
-    "link": "https://www.ft.com/content/7cd266e7-8278-4e26-945d-d7412afa9152?syn-25a6b1a6=1",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-08-16T02:36:57.848091",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "The trillion-dollar IPO vibes continue",
-    "snippet": "Anthropic investors expect the AI start-up to float at a valuation of $2tn or more in October",
-    "link": "https://www.ft.com/content/5d2003dc-3e04-40ac-8339-805cbd9763c8?syn-25a6b1a6=1",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-08-16T02:36:57.848094",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-    "snippet": "US groups release cheaper models after new challenges to their trillion-dollar ambitions",
-    "link": "https://www.ft.com/content/32a70a3c-7d28-40b4-808e-36edb58c7d01?syn-25a6b1a6=1",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-08-16T02:36:57.848096",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "AI windfalls revive effective altruism after Bankman-Fried turmoil",
-    "snippet": "Expected IPOs for Anthropic and OpenAI are set to mint a new generation of philanthropists wedded to \u2018effective giving\u2019",
-    "link": "https://www.ft.com/content/938b4b82-06d2-4b92-a807-38d935d7d5c5",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-08-16T02:36:57.848099",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "\u2018Enablers\u2019 are the AI sweet spot for investors",
-    "snippet": "With demand for the technology far outstripping supply, infrastructure providers will be highly sought-after",
-    "link": "https://www.ft.com/content/7b480e56-6646-48b5-871f-76639255da41",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-08-16T02:36:58.023658",
+    "captured_at": "2026-08-17T02:36:38.613353",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -465,7 +465,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-16T02:36:58.023667",
+    "captured_at": "2026-08-17T02:36:38.613361",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -480,7 +480,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-16T02:36:58.023671",
+    "captured_at": "2026-08-17T02:36:38.613365",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -495,7 +495,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-16T02:36:58.023675",
+    "captured_at": "2026-08-17T02:36:38.613369",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -510,7 +510,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-16T02:36:58.023679",
+    "captured_at": "2026-08-17T02:36:38.613372",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -525,7 +525,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-16T02:36:58.023682",
+    "captured_at": "2026-08-17T02:36:38.613376",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -540,7 +540,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-16T02:36:58.023685",
+    "captured_at": "2026-08-17T02:36:38.613379",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -555,7 +555,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-16T02:36:58.023688",
+    "captured_at": "2026-08-17T02:36:38.613382",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -570,7 +570,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-16T02:36:58.023696",
+    "captured_at": "2026-08-17T02:36:38.613392",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -585,7 +585,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-16T02:36:58.023699",
+    "captured_at": "2026-08-17T02:36:38.613395",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
