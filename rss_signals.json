@@ -1,6 +1,21 @@
 [
   {
-    "captured_at": "2026-08-23T02:39:49.702991",
+    "captured_at": "2026-08-24T02:40:19.019359",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "'Its a new tool for creativity': Dr Dre on use of AI in creating music",
+    "snippet": "Dr Dre, the legendary hip-hop producer and performer, sees AI as another tool in the music-tech toolbox akin to synthesisers and asserted that only people \"who have trouble creating\" are afraid of AI, reported Variety.",
+    "link": "https://www.livemint.com/technology/its-a-new-tool-for-creativity-dr-dre-on-use-of-ai-in-creating-music-11787506714476.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-08-24T02:40:19.019372",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -15,7 +30,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-23T02:39:49.703001",
+    "captured_at": "2026-08-24T02:40:19.019376",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -30,7 +45,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-23T02:39:49.703005",
+    "captured_at": "2026-08-24T02:40:19.019379",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -45,7 +60,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-23T02:39:49.703008",
+    "captured_at": "2026-08-24T02:40:19.019382",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -60,7 +75,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-23T02:39:49.703010",
+    "captured_at": "2026-08-24T02:40:19.019386",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -75,7 +90,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-23T02:39:49.703014",
+    "captured_at": "2026-08-24T02:40:19.019392",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -90,7 +105,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-23T02:39:49.703017",
+    "captured_at": "2026-08-24T02:40:19.019397",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -105,7 +120,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-23T02:39:49.703021",
+    "captured_at": "2026-08-24T02:40:19.019401",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -120,7 +135,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-23T02:39:49.703024",
+    "captured_at": "2026-08-24T02:40:19.019405",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -135,22 +150,97 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-23T02:39:49.703027",
+    "captured_at": "2026-08-24T02:40:19.387275",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
-    "india_relevance": "High",
+    "india_relevance": "Medium",
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Next phase of enterprise AI not about deploying models, but managing their evolution: Report",
-    "snippet": "The next phase of enterprise artificial intelligence (AI) will be less about deploying the latest models and more about managing their continuous upgrades, costs and performance, according to a report by Straive.",
-    "link": "https://www.livemint.com/technology/next-phase-of-enterprise-ai-not-about-deploying-models-but-managing-their-evolution-report-11787212375363.html",
+    "title": "VCs chase deeptech; AI takeaways from ET's WLF",
+    "snippet": "Happy Monday! Specialist VC funds are expanding beyond their traditional sectors to invest more in deeptech. This and more in today\u2019s ETtech Morning Dispatch.",
+    "link": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/vcs-chase-deeptech-leaders-on-ai-at-ets-wlf/articleshow/133449179.cms",
     "evidence_weight": 3,
-    "notes": "Mint - Tech"
+    "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-23T02:39:50.354302",
+    "captured_at": "2026-08-24T02:40:19.387285",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Anthropic market debut could break SpaceX IPO record",
+    "snippet": "The company's bankers have told potential investors it could seek to raise \"more than $100 billion\" in its IPO, which could put the company's value at $2 trillion, The New York Times reported Friday, citing two unnamed sources with knowledge of the talks.",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-market-debut-could-break-spacex-ipo-record/articleshow/133442327.cms",
+    "evidence_weight": 3,
+    "notes": "ET - Tech"
+  },
+  {
+    "captured_at": "2026-08-24T02:40:19.387289",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Nvidia customers notified about AI-related price hikes above 15%: Bloomberg",
+    "snippet": "The price hikes will go into effect on \u200bsystems shipped early next year and will impact systems \u200bincluding those with the flagship Vera Rubin and Grace Blackwell chips, Bloomberg said, \u200bciting people familiar with \u2060the process. \u200cThe increases will depend on \u200bNvidia's \u200bchip generation and memory conf",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-customers-notified-about-ai-related-price-hikes-above-15-bloomberg/articleshow/133439724.cms",
+    "evidence_weight": 3,
+    "notes": "ET - Tech"
+  },
+  {
+    "captured_at": "2026-08-24T02:40:19.387293",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "India faces capital, talent gap in foundational AI race: Menlo Ventures\u2019 Deedy Das",
+    "snippet": "India faces hurdles in building globally competitive foundational AI companies, with top research talent concentrated in San Francisco and limited appetite for large, high-risk investments, Menlo Ventures partner Deedy Das said at The Economic Times World Leaders Forum 2026. He sees stronger opportu",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-faces-capital-talent-gap-in-foundational-ai-race-menlo-ventures-deedy-das/articleshow/133438846.cms",
+    "evidence_weight": 3,
+    "notes": "ET - Tech"
+  },
+  {
+    "captured_at": "2026-08-24T02:40:19.387296",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Space, AI and other tech integration to shape a nation's geopolitical future: Minister Shekhawat",
+    "snippet": "Privatisation of space is the \"democratisation of space opportunities,\" Shekhawat asserted at the event, organised by the Space Applications Centre (SAC), Indian Space Research Organisation (ISRO) and the Department of Science. The minister also hailed the visionary leadership of Indian scientist Vi",
+    "link": "https://economictimes.indiatimes.com/tech/technology/space-ai-and-other-tech-integration-to-shape-a-nations-geopolitical-future-minister-shekhawat/articleshow/133438508.cms",
+    "evidence_weight": 3,
+    "notes": "ET - Tech"
+  },
+  {
+    "captured_at": "2026-08-24T02:40:19.387299",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Alibaba proposes $10 billion share placement to fund global AI drive",
+    "snippet": "The Hangzhou-based firm has been ploughing tens of billions of dollars into AI, with its shareholders eager to see how it will monetise the huge investments. The company intends to use all of the net proceeds to invest in its \"full stack AI capabilities, including to expand and enhance its AI infras",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/alibaba-proposes-10-billion-share-placement-to-fund-global-ai-drive/articleshow/133438523.cms",
+    "evidence_weight": 3,
+    "notes": "ET - Tech"
+  },
+  {
+    "captured_at": "2026-08-24T02:40:19.387303",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -165,7 +255,7 @@
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-23T02:39:50.354311",
+    "captured_at": "2026-08-24T02:40:19.387306",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -180,7 +270,7 @@
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-23T02:39:50.354316",
+    "captured_at": "2026-08-24T02:40:19.387309",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -195,7 +285,7 @@
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-23T02:39:50.354318",
+    "captured_at": "2026-08-24T02:40:19.387312",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -210,97 +300,127 @@
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-23T02:39:50.354320",
+    "captured_at": "2026-08-24T02:40:19.687322",
     "source_channel": "rss",
     "source_type": "news",
-    "geo_primary": "India",
+    "geo_primary": "Global",
     "india_relevance": "Medium",
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "AI capex slowdown could derail India's cyclical recovery, weigh on growth: Nuvama",
-    "snippet": "Any slowdown in the global artificial intelligence (AI) capital expenditure boom could pose a significant risk to India's ongoing cyclical recovery, with weaker global demand and commodity prices likely to weigh on corporate revenue and credit growth, while a still narrow domestic recovery could amp",
-    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-capex-slowdown-could-derail-indias-cyclical-recovery-weigh-on-growth-nuvama/articleshow/133416739.cms",
+    "title": "Yahoo, the internet\u2019s \u2018OG\u2019, wants to win over Gen Z",
+    "snippet": "Group\u2019s chief says vintage web name can help draw younger users",
+    "link": "https://www.ft.com/content/50c666af-1979-4411-9d62-34e18cc0ecc9?syn-25a6b1a6=1",
     "evidence_weight": 3,
-    "notes": "ET - Tech"
+    "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-23T02:39:50.354323",
+    "captured_at": "2026-08-24T02:40:19.687334",
     "source_channel": "rss",
     "source_type": "news",
-    "geo_primary": "India",
+    "geo_primary": "Global",
     "india_relevance": "Medium",
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Apollo Global reveals data breach after hackers target financial firms",
-    "snippet": "The New York-based firm was among dozens of prominent US financial institutions and other businesses that were recently targeted by ransom-seeking hackers who use phone \u200ccalls to \u2060compromise their \u2060victims, Reuters reported earlier this month.",
-    "link": "https://economictimes.indiatimes.com/tech/technology/apollo-global-reveals-data-breach-after-hackers-target-financial-firms/articleshow/133416689.cms",
+    "title": "UK energy companies on alert after \u2018Iran-linked hackers\u2019 shut down \u2018peaker\u2019 plant",
+    "snippet": "Security chiefs brief energy bosses with \u2018advice, direction and next steps\u2019 after cyber attack on small gas-fired facility",
+    "link": "https://www.ft.com/content/bae67bb7-ebf8-44fc-8d55-bbfaada47eb7?syn-25a6b1a6=1",
     "evidence_weight": 3,
-    "notes": "ET - Tech"
+    "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-23T02:39:50.354326",
+    "captured_at": "2026-08-24T02:40:19.687338",
     "source_channel": "rss",
     "source_type": "news",
-    "geo_primary": "India",
+    "geo_primary": "Global",
     "india_relevance": "Medium",
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%",
-    "snippet": "The price cuts \u200bare effective on OpenAI's application programming interface, or API, and \u200bare rolling out across eligible plans for credits on its agentic AI product ChatGPT Work \u200band its coding tool Codex, \u2060OpenAI said.",
-    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-cuts-developer-pricing-for-frontier-gpt-5-6-sol-model-by-more-than-20/articleshow/133416508.cms",
+    "title": "Government can bring robotics to life",
+    "snippet": "Without policy, there are few incentives to automate business functions where labour costs are low",
+    "link": "https://www.ft.com/content/a4147c6b-5634-4035-b1a8-ac7bf1eb497d?syn-25a6b1a6=1",
     "evidence_weight": 3,
-    "notes": "ET - Tech"
+    "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-23T02:39:50.354328",
+    "captured_at": "2026-08-24T02:40:19.687341",
     "source_channel": "rss",
     "source_type": "news",
-    "geo_primary": "India",
+    "geo_primary": "Global",
     "india_relevance": "Medium",
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Orbital data center startup Starcloud valued at $2.3 billion in latest funding",
-    "snippet": "SpaceX's blockbuster IPO \u200chas rekindled \u2060investor \u2060interest in the space industry, including in emerging \u200bareas such as orbital data centers.",
-    "link": "https://economictimes.indiatimes.com/tech/technology/orbital-data-center-startup-starcloud-valued-at-2-3-billion-in-latest-funding/articleshow/133416465.cms",
+    "title": "China\u2019s Alibaba plans $10.2bn share placement in AI push",
+    "snippet": "Equity issuance follows a strong reception for its latest Qwen 3.8-Max model",
+    "link": "https://www.ft.com/content/e4ab027e-ed41-48b7-89ac-8250d3054ae6?syn-25a6b1a6=1",
     "evidence_weight": 3,
-    "notes": "ET - Tech"
+    "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-23T02:39:50.354330",
+    "captured_at": "2026-08-24T02:40:19.687344",
     "source_channel": "rss",
     "source_type": "news",
-    "geo_primary": "India",
+    "geo_primary": "Global",
     "india_relevance": "Medium",
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Dutch regulator fines Uber $966 million for automating driver suspensions",
-    "snippet": "The penalty would be the second-largest issued \u200byet under Europe's General Data Protection Regulation. It is behind only a \u20ac1.2 billion fine imposed on Meta by Ireland in 2023 for unlawfully transferring European Facebook users' data to the United States. Meta is appealing.",
-    "link": "https://economictimes.indiatimes.com/tech/technology/dutch-regulator-fines-uber-966-million-for-automating-driver-suspensions/articleshow/133416326.cms",
+    "title": "Anthropic\u2019s best AI model struggles to attract users as cheaper tools thrive",
+    "snippet": "AI lab\u2019s Fable 5 has met with sluggish demand from corporate clients",
+    "link": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245?syn-25a6b1a6=1",
     "evidence_weight": 3,
-    "notes": "ET - Tech"
+    "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-23T02:39:50.354333",
+    "captured_at": "2026-08-24T02:40:19.687347",
     "source_channel": "rss",
     "source_type": "news",
-    "geo_primary": "India",
+    "geo_primary": "Global",
     "india_relevance": "Medium",
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Apple cuts jobs in Siri, Vision Pro immersive video and gaming teams",
-    "snippet": "As part of the changes, the company is largely shutting down a Vision Pro team focused on gaming for the headset and reducing the size of a unit responsible for producing the device\u2019s immersive video content, said the people, who asked not to be identified because the personnel moves haven\u2019t been an",
-    "link": "https://economictimes.indiatimes.com/tech/technology/apple-cuts-jobs-in-siri-vision-pro-immersive-video-and-gaming-teams/articleshow/133416060.cms",
+    "title": "Investors try to catch \u2018falling knife\u2019 with bets on risky funds during chip rout",
+    "snippet": "Leveraged single-stock ETFs attracted billions of dollars of net inflows even as they plunged during market sell-off",
+    "link": "https://www.ft.com/content/5e8072a7-cb99-47a6-9478-e46e7de3b4a2?syn-25a6b1a6=1",
     "evidence_weight": 3,
-    "notes": "ET - Tech"
+    "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-23T02:39:50.870971",
+    "captured_at": "2026-08-24T02:40:19.687350",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "Global",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Legal tech start-ups put AI disruption in a risky new wrapper",
+    "snippet": "Legora is betting AI giants will leave lucrative niches unconquered",
+    "link": "https://www.ft.com/content/3df7712e-f9b6-4afa-ae48-609fb4a6b5e4?syn-25a6b1a6=1",
+    "evidence_weight": 3,
+    "notes": "FT - Technology"
+  },
+  {
+    "captured_at": "2026-08-24T02:40:19.687353",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "Global",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Inside South Korea\u2019s chipmaking cram schools",
+    "snippet": "Private tutors teach semiconductor basics and help polish CVs for hopefuls looking to join lucrative sector",
+    "link": "https://www.ft.com/content/0c9c66a6-339a-420e-9e73-178195382259?syn-25a6b1a6=1",
+    "evidence_weight": 3,
+    "notes": "FT - Technology"
+  },
+  {
+    "captured_at": "2026-08-24T02:40:19.687356",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -315,7 +435,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-23T02:39:50.870981",
+    "captured_at": "2026-08-24T02:40:19.687359",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -330,127 +450,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-23T02:39:50.870984",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Directors\u2019 Deals: Pearson executive cashes in as digital growth boosts shares",
-    "snippet": "First-half revenues at the education group rise by 19 per cent",
-    "link": "https://www.ft.com/content/ead7f466-1d6e-42e3-bedf-0ce5135372c9",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-08-23T02:39:50.870986",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Apollo says hackers accessed personal data in latest Wall Street breach",
-    "snippet": "Alternative asset manager\u2019s probe determined names, home addresses and social security numbers were stolen in cyber attack last month",
-    "link": "https://www.ft.com/content/ac3f252d-bd49-4340-8565-f27a29652759?syn-25a6b1a6=1",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-08-23T02:39:50.870988",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "The US techlash is real",
-    "snippet": "AI companies and social networks should respond to the shift in the public mood",
-    "link": "https://www.ft.com/content/105b8b46-7109-402d-84cf-2616b17bfac1?syn-25a6b1a6=1",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-08-23T02:39:50.870990",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Citadel offloads 80% of portfolio scooped up from Situational Awareness",
-    "snippet": "Ken Griffin\u2019s hedge fund has executed more than $4bn worth of block trades in recent weeks",
-    "link": "https://www.ft.com/content/1603577e-89d8-4cfa-884b-b83fbb8dd20e?syn-25a6b1a6=1",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-08-23T02:39:50.870993",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Uber set for \u20ac825mn Dutch fine over automating driver suspensions",
-    "snippet": "Regulator says ride-hailing group deactivated driver accounts through automated systems without adequately informing them",
-    "link": "https://www.ft.com/content/6a068501-ec65-4061-9716-49c4124025d6?syn-25a6b1a6=1",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-08-23T02:39:50.870995",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Apple paid $17bn in taxes to Ireland after court ruling on back levies",
-    "snippet": "New filings highlight iPhone maker\u2019s global tax liabilities",
-    "link": "https://www.ft.com/content/65fb0ad1-e4d5-43be-9dcf-f7aba1bea3a6?syn-25a6b1a6=1",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-08-23T02:39:50.870997",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "What retail investors need to know before jumping into Anthropic\u2019s IPO",
-    "snippet": "Don\u2019t rush in, there are many business risks for the maker of Claude",
-    "link": "https://www.ft.com/content/a301daae-05dd-4cf9-b78c-7879e4da55ba?syn-25a6b1a6=1",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-08-23T02:39:50.870999",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Blackwater founder Erik Prince launches air-defence systems company",
-    "snippet": "Vectus Air Defense Systems marks former Navy Seal\u2019s latest foray into private military and security services",
-    "link": "https://www.ft.com/content/b9c41dd9-f915-4aee-839e-5981c4b3ad5e?syn-25a6b1a6=1",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-08-23T02:39:51.033103",
+    "captured_at": "2026-08-24T02:40:19.809182",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -465,7 +465,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-23T02:39:51.033112",
+    "captured_at": "2026-08-24T02:40:19.809194",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -480,7 +480,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-23T02:39:51.033115",
+    "captured_at": "2026-08-24T02:40:19.809198",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -495,7 +495,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-23T02:39:51.033117",
+    "captured_at": "2026-08-24T02:40:19.809202",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -510,7 +510,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-23T02:39:51.033120",
+    "captured_at": "2026-08-24T02:40:19.809206",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -525,7 +525,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-23T02:39:51.033123",
+    "captured_at": "2026-08-24T02:40:19.809209",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -540,7 +540,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-23T02:39:51.033125",
+    "captured_at": "2026-08-24T02:40:19.809212",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -555,7 +555,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-23T02:39:51.033130",
+    "captured_at": "2026-08-24T02:40:19.809215",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -570,7 +570,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-23T02:39:51.033132",
+    "captured_at": "2026-08-24T02:40:19.809218",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -585,7 +585,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-23T02:39:51.033135",
+    "captured_at": "2026-08-24T02:40:19.809221",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
