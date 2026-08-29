@@ -1,6 +1,21 @@
 [
   {
-    "captured_at": "2026-08-28T13:01:38.801386",
+    "captured_at": "2026-08-29T07:57:35.452876",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "iPhone 18 Pro Max vs iPhone 18 Pro: Camera, zoom and key differences explained",
+    "snippet": "Apple\u2019s iPhone 18 Pro Max is rumoured to get an exclusive variable aperture camera, a first for the iPhone lineup. The Pro Max could also feature a more powerful telephoto lens with up to 6x optical zoom.",
+    "link": "https://www.livemint.com/technology/iphone-18-pro-max-vs-iphone-18-pro-camera-zoom-and-key-differences-explained-11787922164364.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-08-29T07:57:35.452887",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -15,7 +30,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-28T13:01:38.801397",
+    "captured_at": "2026-08-29T07:57:35.452891",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -30,7 +45,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-28T13:01:38.801401",
+    "captured_at": "2026-08-29T07:57:35.452894",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -45,7 +60,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-28T13:01:38.801405",
+    "captured_at": "2026-08-29T07:57:35.452897",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -60,7 +75,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-28T13:01:38.801408",
+    "captured_at": "2026-08-29T07:57:35.452905",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -75,7 +90,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-28T13:01:38.801415",
+    "captured_at": "2026-08-29T07:57:35.452909",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -90,7 +105,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-28T13:01:38.801418",
+    "captured_at": "2026-08-29T07:57:35.452913",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -105,7 +120,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-28T13:01:38.801423",
+    "captured_at": "2026-08-29T07:57:35.452917",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -120,7 +135,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-28T13:01:38.801427",
+    "captured_at": "2026-08-29T07:57:35.452920",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -135,22 +150,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-28T13:01:38.801430",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "iPhone 17 becomes world\u2019s best-selling phone in Q2 ahead of iPhone 18 arrival; Apple clinches top-3 spots",
-    "snippet": "Apple\u2019s iPhone 17 became the world\u2019s best-selling smartphone in Q2 2026, capturing 6% of global unit sales. Apple and Samsung each placed five models in the global top 10, which together accounted for 26% of smartphone sales.",
-    "link": "https://www.livemint.com/technology/gadgets/iphone-17-becomes-world-s-best-selling-phone-in-q2-ahead-of-iphone-18-arrival-apple-clinches-top-3-spots-11787826197124.html",
-    "evidence_weight": 3,
-    "notes": "Mint - Tech"
-  },
-  {
-    "captured_at": "2026-08-28T13:01:39.534854",
+    "captured_at": "2026-08-29T07:57:35.998808",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -158,14 +158,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "China's Tencent releases new open-source AI model for coding, research tasks",
-    "snippet": "The model, called Hy4 preview, uses a \"mixture-of-experts\" \u200bdesign with 770 billion parameters in total, Tencent said, although only about \u200b49 billion are used \u2060for any \u200cgiven text request.",
-    "link": "https://economictimes.indiatimes.com/tech/technology/chinas-tencent-releases-new-open-source-ai-model-for-coding-research-tasks/articleshow/133588448.cms",
+    "title": "TCS employees get 50-70% variable in Q1",
+    "snippet": "The payout comes after a prolonged period of subdued variable compensation at the company. For nearly two years until the first quarter of fiscal 2026, mid- and senior-level employees received only about 20-40% of their eligible variable pay.",
+    "link": "https://economictimes.indiatimes.com/tech/information-tech/tcs-employees-get-50-70-variable-in-q1/articleshow/133606929.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-28T13:01:39.534862",
+    "captured_at": "2026-08-29T07:57:35.998819",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -173,14 +173,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Meta's Sandhya Devanathan exits after decade-long stint, to join OpenAI",
-    "snippet": "Devanathan joined Meta in 2016 when the company's Singapore office had roughly 300 employees. Over her tenure, she worked across the ecommerce and gaming sectors in APAC, leading teams across India and Southeast Asia.",
-    "link": "https://economictimes.indiatimes.com/tech/technology/meta-executive-sandhya-devanathan-departs-after-decade-long-stint-at-tech-giant/articleshow/133587357.cms",
+    "title": "Andreessen Horowitz raises $1.1 billion for AI infrastructure fund",
+    "snippet": "The \u201cMachine Age Fund\u201d will invest in AI computer infrastructure such as chips, memory, networking and storage, the firm said in a blog post on Friday, and will also include data centers, robotics and home appliances.",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/andreessen-horowitz-raises-1-1-billion-for-ai-infrastructure-fund/articleshow/133603547.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-28T13:01:39.534867",
+    "captured_at": "2026-08-29T07:57:35.998824",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -188,14 +188,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Amaravati to get India\u2019s first quantum-AI university",
-    "snippet": "The 8.5-acre campus will be funded through a grant from the Ministry of Electronics and Information Technology (MeitY). Classes are expected to begin from September 2026 at a temporary facility at Acharya Nagarjuna University in Guntur, before shifting to the permanent Amaravati campus.",
-    "link": "https://economictimes.indiatimes.com/tech/startups/amaravati-to-get-indias-first-quantum-ai-university/articleshow/133587210.cms",
+    "title": "IndiGo Ventures backs sovereign AI firm Sarvam in ongoing Series B funding round",
+    "snippet": "The investment by the corporate venture capital arm of IndiGo builds on an existing relationship between the two entities. Both companies previously collaborated to deploy artificial intelligence technologies aimed at enhancing passenger experience, assisting airline staff, and streamlining operatio",
+    "link": "https://economictimes.indiatimes.com/tech/funding/indigo-ventures-backs-sovereign-ai-firm-sarvam-in-ongoing-series-b-funding-round/articleshow/133602926.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-28T13:01:39.534870",
+    "captured_at": "2026-08-29T07:57:35.998827",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -203,14 +203,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "AI ecommerce projects may fail without clean, centralised data: Report",
-    "snippet": "The report said data readiness is one of the biggest factors determining whether AI projects move beyond experimentation and deliver measurable business outcomes. It noted that AI systems depend heavily on the quality of the information they receive, making data infrastructure a critical foundation ",
-    "link": "https://economictimes.indiatimes.com/tech/technology/ai-ecommerce-projects-may-fail-without-clean-centralised-data-report/articleshow/133586667.cms",
+    "title": "Judge in Google privacy class action awards lawyers $147 million in legal fees",
+    "snippet": "US District Judge Richard Seeborg in San Francisco granted the fee request by law firms Boies Schiller Flexner, Susman Godfrey and \u200cMorgan &amp; Morgan over \u2060objections \u2060from some class members. A jury in September found Google liable for secretly collecting app activity data from millions of \u200busers",
+    "link": "https://economictimes.indiatimes.com/tech/technology/judge-in-google-privacy-class-action-awards-lawyers-147-million-in-legal-fees/articleshow/133602660.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-28T13:01:39.534873",
+    "captured_at": "2026-08-29T07:57:35.998831",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -218,14 +218,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Vietnam urges Qualcomm, Samsung to deepen AI, chip investment as it seeks tech upgrade",
-    "snippet": "At a meeting in Hanoi on Thursday, Communist Party General Secretary and President To \u200cLam asked \u2060Qualcomm Chief \u2060Executive Cristiano Amon to increase its investment in areas including AI, semiconductors, robotics, \u200b5G/6G, data centres and next-generation connectivity technologies, according to a go",
-    "link": "https://economictimes.indiatimes.com/tech/technology/vietnam-urges-qualcomm-samsung-to-deepen-ai-chip-investment-as-it-seeks-tech-upgrade/articleshow/133586362.cms",
+    "title": "Taiwan prosecutors search Unimicron in suspected China fraud case",
+    "snippet": "Prosecutors \u200cin the \u2060northern \u2060city of Taoyuan said they had searched two company \u200blocations and questioned 18 defendants and witnesses.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/taiwan-prosecutors-search-unimicron-in-suspected-china-fraud-case/articleshow/133602615.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-28T13:01:39.534876",
+    "captured_at": "2026-08-29T07:57:35.998834",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -233,14 +233,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "SoftBank seeks another $10 billion loan for OpenAI stake funding",
-    "snippet": "SoftBank  is seeking a $10 billion loan, as it looks for more funding to help refinance debt used for its investment in US tech giant OpenAI. The loan would add to SoftBank\u2019s flurry of recent debt financing activities tied to its bet on OpenAI, including a potential bond sale of as much as $20 billi",
-    "link": "https://economictimes.indiatimes.com/tech/technology/softbank-seeks-another-10-billion-loan-for-openai-stake-funding/articleshow/133586218.cms",
+    "title": "Pinterest finance chief Julia Donnelly to step down in October",
+    "snippet": "Vikram Naidu, \u2060the \u2060image-sharing platform's vice president of finance and \u200bbusiness operations, will be principal financial officer in the \u200binterim.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/pinterest-finance-chief-julia-donnelly-to-step-down-in-october/articleshow/133602502.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-28T13:01:39.534879",
+    "captured_at": "2026-08-29T07:57:35.998837",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -248,14 +248,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Google changes spam policy in EU to avert antitrust fine",
-    "snippet": "The EU said that its monitoring showed that Google's spam policy demoted news \u200bmedia and other publishers' websites and content \u2060in Google \u200csearch results, when those websites include content \u200bfrom commercial \u200bpartners.",
-    "link": "https://economictimes.indiatimes.com/tech/technology/google-changes-spam-policy-in-eu-to-avert-antitrust-fine/articleshow/133583861.cms",
+    "title": "Marvell selloff deepens as investors seek clarity on Google AI deal payoff",
+    "snippet": "Marvell has become a market darling fueled by the AI spending boom as Big Tech races to adopt custom chips for greater cost efficiency and performance, powering \u200cits shares \u2060to nearly \u2060triple this year.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/marvell-selloff-deepens-as-investors-seek-clarity-on-google-ai-deal-payoff/articleshow/133602463.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-28T13:01:39.534882",
+    "captured_at": "2026-08-29T07:57:35.998840",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -263,14 +263,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Need spiritual guidance? Gurus join chatbot trend as people turn to AI for answers",
-    "snippet": "This unfettered access - which can be challenging to find among human gurus - is what's drawing more people to AI for spiritual guidance. This is a big step, particularly in Hinduism, where gurus are part of culture and deemed necessary to attain moksha - liberation from the cycle of birth, death an",
-    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/need-spiritual-guidance-gurus-join-chatbot-trend-as-people-turn-to-ai-for-answers/articleshow/133583826.cms",
+    "title": "Chinese memory chipmaker CXMT sues Pentagon over 'Chinese military company' designation",
+    "snippet": "The company was designated a Chinese military company by the US Defense Department under the Biden administration and was retained on the list by \u200cthe Trump \u2060administration during \u2060a June update.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/chinese-memory-chipmaker-cxmt-sues-pentagon-over-chinese-military-company-designation/articleshow/133602438.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-28T13:01:39.534885",
+    "captured_at": "2026-08-29T07:57:35.998843",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -278,14 +278,14 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Anthropic unveils new framework allowing AI agents to operate physical devices",
-    "snippet": "The \u2060MHS \u2060enables AI agents to operate lab \u200band manufacturing instruments such as microscopes and robotic \u200barms in tandem and perform complex tasks, ranging from routine drug \u200bdiscovery experiments to \u2060laser calibration \u200con a quantum computer, \u200bAnthropic \u200bsaid.",
-    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-unveils-new-framework-allowing-ai-agents-to-operate-physical-devices/articleshow/133583402.cms",
+    "title": "OpenAI to end agreement with SpaceX's AI coding tool Cursor, deepening Musk-Altman clash",
+    "snippet": "OpenAI \u200csaid \u200bit \u200bwas \u2060not confident that SpaceX \u200bwould use its technology \"within \u200bour terms of service.\"",
+    "link": "https://economictimes.indiatimes.com/tech/technology/openai-to-end-partnership-with-spacexs-cursor/articleshow/133602403.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-28T13:01:39.534888",
+    "captured_at": "2026-08-29T07:57:35.998846",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -293,14 +293,89 @@
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Australia data centre firm NextDC reports rising water, energy use with profit beat",
-    "snippet": "The company's water usage effectiveness (WUE) ratio climbed to 2.40 litres per kilowatt-hour in the year to June, from 2.25 the prior year, while its \u200cpower usage effectiveness (PUE) \u2060ratio, \u2060which measures how much electricity a data centre needs for cooling and other overheads, rose to 1.49 from \u200b",
-    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/australia-data-centre-firm-nextdc-reports-rising-water-energy-use-with-profit-beat/articleshow/133582745.cms",
+    "title": "Canada to loan quantum startup Xanadu $140 million to build manufacturing plant",
+    "snippet": "Experts have \u200blong touted quantum computers' potential to solve problems regular computers cannot and speed up \u200bscientific discoveries, but the technology remains error prone because of its extreme sensitivity to any disturbances including sound.",
+    "link": "https://economictimes.indiatimes.com/tech/funding/canada-to-loan-quantum-startup-xanadu-140-million-to-build-manufacturing-plant/articleshow/133597635.cms",
     "evidence_weight": 3,
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-28T13:01:39.864239",
+    "captured_at": "2026-08-29T07:57:36.364743",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "Global",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Could AI revive the socialist dream?",
+    "snippet": "Artificial intelligence has the potential to both reignite and overturn the century-old debate over central economic planning",
+    "link": "https://www.ft.com/content/cd3fcbff-8512-41cf-90eb-f87840c7c20c?syn-25a6b1a6=1",
+    "evidence_weight": 3,
+    "notes": "FT - Technology"
+  },
+  {
+    "captured_at": "2026-08-29T07:57:36.364754",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "Global",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Did AI write this? It\u2019s getting harder to tell",
+    "snippet": "Detection software offers quick answers, but the risk of false positives and the stigma of being accused are leading to societal mistrust in the written word",
+    "link": "https://www.ft.com/content/f100c90b-c138-4125-aaa7-853b77690db9?syn-25a6b1a6=1",
+    "evidence_weight": 3,
+    "notes": "FT - Technology"
+  },
+  {
+    "captured_at": "2026-08-29T07:57:36.364758",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "Global",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "FT stock picking game results: the unexpected triumph of fundamentals",
+    "snippet": "No one ever won a stock picking game by choosing good companies. Or did they?",
+    "link": "https://www.ft.com/content/38a05881-ebfc-47ac-b326-96142edd1bb7?syn-25a6b1a6=1",
+    "evidence_weight": 3,
+    "notes": "FT - Technology"
+  },
+  {
+    "captured_at": "2026-08-29T07:57:36.364761",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "Global",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "China\u2019s actors written out of dramas as AI doubles ready to take their roles",
+    "snippet": "Online performers left jobless as new video-generation programmes sweep industry",
+    "link": "https://www.ft.com/content/7117ff02-d495-4936-8f05-fa73a7a5c669?syn-25a6b1a6=1",
+    "evidence_weight": 3,
+    "notes": "FT - Technology"
+  },
+  {
+    "captured_at": "2026-08-29T07:57:36.364764",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "Global",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Neoclouds show how to amplify risks in AI ecosystems",
+    "snippet": "Fledgling companies that rent out servers and chips are in big demand but any unravelling will be ugly",
+    "link": "https://www.ft.com/content/7af605e0-b528-46f6-b86e-b90b46f03c4c?syn-25a6b1a6=1",
+    "evidence_weight": 3,
+    "notes": "FT - Technology"
+  },
+  {
+    "captured_at": "2026-08-29T07:57:36.364767",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -315,7 +390,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-28T13:01:39.864250",
+    "captured_at": "2026-08-29T07:57:36.364769",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -330,7 +405,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-28T13:01:39.864254",
+    "captured_at": "2026-08-29T07:57:36.364772",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -345,7 +420,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-28T13:01:39.864257",
+    "captured_at": "2026-08-29T07:57:36.364775",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -360,7 +435,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-28T13:01:39.864260",
+    "captured_at": "2026-08-29T07:57:36.364777",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -375,82 +450,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-28T13:01:39.864263",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "China bets on exports of cheap 3D-printed drone killers",
-    "snippet": "Chinese companies rush into sector as global conflicts raise demand for interceptors",
-    "link": "https://www.ft.com/content/547e5366-b476-4695-81e6-579fc452bed6?syn-25a6b1a6=1",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-08-28T13:01:39.864266",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Juspay\u2019s Sheetal Lalwani: payments are all about balancing fraud and friction",
-    "snippet": "Open source is key to the Indian financial infrastructure company\u2019s global expansion",
-    "link": "https://www.ft.com/content/c83f1e1a-86fd-41d9-835d-97f2c9d32144?syn-25a6b1a6=1",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-08-28T13:01:39.864269",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Alphabet agrees to pay \u00a3260mn to settle UK class action lawsuit",
-    "snippet": "Group\u2019s Google business was accused of overcharging developers who made software for the Google Play app store",
-    "link": "https://www.ft.com/content/1d990ab8-bb28-43b6-b9bc-daeb8a32c58f?syn-25a6b1a6=1",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-08-28T13:01:39.864271",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Anthropic launches AI tool that can conduct scientific experiments",
-    "snippet": "Claude chatbot maker unveils a system that autonomously operates a wide range of devices in laboratories",
-    "link": "https://www.ft.com/content/dd069af7-a2a2-4984-8d9a-5edeaf54f2f8?syn-25a6b1a6=1",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-08-28T13:01:39.864274",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "\u2018Headless software\u2019 signals further AI-led shake-up",
-    "snippet": "The SaaS-pocalypse might be easing but industry change is accelerating",
-    "link": "https://www.ft.com/content/febba6ee-9abd-47d4-bac4-3bbe8b64be7f?syn-25a6b1a6=1",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-08-28T13:01:40.014848",
+    "captured_at": "2026-08-29T07:57:36.468379",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -465,7 +465,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-28T13:01:40.014858",
+    "captured_at": "2026-08-29T07:57:36.468390",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -480,7 +480,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-28T13:01:40.014862",
+    "captured_at": "2026-08-29T07:57:36.468394",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -495,7 +495,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-28T13:01:40.014866",
+    "captured_at": "2026-08-29T07:57:36.468398",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -510,7 +510,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-28T13:01:40.014870",
+    "captured_at": "2026-08-29T07:57:36.468401",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -525,7 +525,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-28T13:01:40.014873",
+    "captured_at": "2026-08-29T07:57:36.468405",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -540,7 +540,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-28T13:01:40.014876",
+    "captured_at": "2026-08-29T07:57:36.468408",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -555,7 +555,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-28T13:01:40.014883",
+    "captured_at": "2026-08-29T07:57:36.468415",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -570,7 +570,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-28T13:01:40.014886",
+    "captured_at": "2026-08-29T07:57:36.468417",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -585,7 +585,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-28T13:01:40.014890",
+    "captured_at": "2026-08-29T07:57:36.468420",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
