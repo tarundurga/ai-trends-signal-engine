@@ -1,6 +1,51 @@
 [
   {
-    "captured_at": "2026-08-29T07:57:35.452876",
+    "captured_at": "2026-08-30T06:54:29.722459",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Trust levels for generative AI drops below 40%, yet consumers rely on AI product advice: McKinsey",
+    "snippet": "Consumers do not trust artificial intelligence (AI) advice, as the trust level for generative AI drops below 40 per cent but they turn to it anyway, according to research discussed on The McKinsey Podcast.",
+    "link": "https://www.livemint.com/technology/trust-levels-for-generative-ai-drops-below-40-yet-consumers-rely-on-ai-product-advice-mckinsey-11788064906620.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-08-30T06:54:29.722468",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "How China\u2019s AI policies avoid painful past tech crackdowns",
+    "snippet": "China once waited for fast-growing industries to create problems before cracking down. With artificial intelligence, regulators are creating policies much earlier.",
+    "link": "https://www.livemint.com/technology/how-china-s-ai-policies-avoid-painful-past-tech-crackdowns-11788054929514.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-08-30T06:54:29.722471",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "UAE regulator grants Starlink 10-year licence to provide satellite internet services",
+    "snippet": "The UAE's Telecommunications and Digital Government Regulatory Authority (TDRA) has granted Starlink Satellite Communications LLC a 10-year General Space Services Licence to establish, operate and manage a public satellite communications network and provide broadband satellite internet services in t",
+    "link": "https://www.livemint.com/technology/uae-regulator-grants-starlink-10-year-licence-to-provide-satellite-internet-services-11788013465351.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-08-30T06:54:29.722474",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -15,7 +60,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-29T07:57:35.452887",
+    "captured_at": "2026-08-30T06:54:29.722476",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -30,7 +75,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-29T07:57:35.452891",
+    "captured_at": "2026-08-30T06:54:29.722480",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -45,7 +90,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-29T07:57:35.452894",
+    "captured_at": "2026-08-30T06:54:29.722482",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -60,7 +105,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-29T07:57:35.452897",
+    "captured_at": "2026-08-30T06:54:29.722486",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -75,7 +120,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-29T07:57:35.452905",
+    "captured_at": "2026-08-30T06:54:29.722489",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -90,7 +135,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-29T07:57:35.452909",
+    "captured_at": "2026-08-30T06:54:29.722491",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -105,52 +150,22 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-29T07:57:35.452913",
+    "captured_at": "2026-08-30T06:54:30.452304",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
-    "india_relevance": "High",
+    "india_relevance": "Medium",
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "GTA 6 leak just got bigger: Cyberleek drops Lucia prologue with story spoilers ahead of Netflix debut",
-    "snippet": "Cyberleek had previously shared several short gameplay clips from the highly anticipated Rockstar Games title, as per a report.",
-    "link": "https://www.livemint.com/technology/tech-news/gta-6-leak-just-got-bigger-cyberleek-drops-lucia-prologue-with-story-spoilers-ahead-of-netflix-debut-11787848453316.html",
+    "title": "Social media influencers don entrepreneurial hat; launch VC-backed consumer brands",
+    "snippet": "The rise of social media influencers has given birth to a new wave of consumer brands, garnering tremendous venture capital interest.",
+    "link": "https://economictimes.indiatimes.com/tech/funding/social-media-influencers-don-entrepreneurial-hat-launch-vc-backed-consumer-brands/articleshow/133616136.cms",
     "evidence_weight": 3,
-    "notes": "Mint - Tech"
+    "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-29T07:57:35.452917",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Inside Google\u2019s Vizag data centre: fast approval, GPS for fishermen, AI corridor",
-    "snippet": "Google\u2019s $15 billion, 1GW Vizag data centre is set to anchor an emerging AI corridor in India. Backed by Adani and Airtel, the project benefited from fast approvals and could bring more tech firms to the region, with the first phase expected by mid-2028.",
-    "link": "https://www.livemint.com/technology/google-vizag-data-centre-15-billion-ai-corridor-india-11787825897756.html",
-    "evidence_weight": 3,
-    "notes": "Mint - Tech"
-  },
-  {
-    "captured_at": "2026-08-29T07:57:35.452920",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "They are masters of electronics assembly. But can our factories genuinely Make in India?",
-    "snippet": "While PLI has proven to be a game changer for electronics assembly, the hard part, upgrading factories to manufacture what goes deep inside those products, starts now.",
-    "link": "https://www.livemint.com/technology/india-electronics-manufacturing-automation-components-ecosystem-11787827951542.html",
-    "evidence_weight": 3,
-    "notes": "Mint - Tech"
-  },
-  {
-    "captured_at": "2026-08-29T07:57:35.998808",
+    "captured_at": "2026-08-30T06:54:30.452311",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -165,7 +180,7 @@
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-29T07:57:35.998819",
+    "captured_at": "2026-08-30T06:54:30.452314",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -180,7 +195,7 @@
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-29T07:57:35.998824",
+    "captured_at": "2026-08-30T06:54:30.452317",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -195,7 +210,7 @@
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-29T07:57:35.998827",
+    "captured_at": "2026-08-30T06:54:30.452319",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -210,7 +225,7 @@
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-29T07:57:35.998831",
+    "captured_at": "2026-08-30T06:54:30.452321",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -225,7 +240,7 @@
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-29T07:57:35.998834",
+    "captured_at": "2026-08-30T06:54:30.452323",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -240,7 +255,7 @@
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-29T07:57:35.998837",
+    "captured_at": "2026-08-30T06:54:30.452326",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -255,7 +270,7 @@
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-29T07:57:35.998840",
+    "captured_at": "2026-08-30T06:54:30.452328",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -270,7 +285,7 @@
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-29T07:57:35.998843",
+    "captured_at": "2026-08-30T06:54:30.452330",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -285,22 +300,37 @@
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-29T07:57:35.998846",
+    "captured_at": "2026-08-30T06:54:30.869958",
     "source_channel": "rss",
     "source_type": "news",
-    "geo_primary": "India",
+    "geo_primary": "Global",
     "india_relevance": "Medium",
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Canada to loan quantum startup Xanadu $140 million to build manufacturing plant",
-    "snippet": "Experts have \u200blong touted quantum computers' potential to solve problems regular computers cannot and speed up \u200bscientific discoveries, but the technology remains error prone because of its extreme sensitivity to any disturbances including sound.",
-    "link": "https://economictimes.indiatimes.com/tech/funding/canada-to-loan-quantum-startup-xanadu-140-million-to-build-manufacturing-plant/articleshow/133597635.cms",
+    "title": "Grindr bets wealthy gay men will pay more to find the right match",
+    "snippet": "Dating app\u2019s chief executive plans premium service push to help boost growth",
+    "link": "https://www.ft.com/content/952920f9-429d-451a-9913-a360880ead41",
     "evidence_weight": 3,
-    "notes": "ET - Tech"
+    "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-29T07:57:36.364743",
+    "captured_at": "2026-08-30T06:54:30.869966",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "Global",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Alex Gerko earned a record \u00a3895mn from trading firm XTX in 2025",
+    "snippet": "Payout to one of the UK\u2019s richest people is 31 per cent higher than the year before",
+    "link": "https://www.ft.com/content/c1c79d47-31c0-4e4e-85b6-57527e31d78f?syn-25a6b1a6=1",
+    "evidence_weight": 3,
+    "notes": "FT - Technology"
+  },
+  {
+    "captured_at": "2026-08-30T06:54:30.869968",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -315,7 +345,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-29T07:57:36.364754",
+    "captured_at": "2026-08-30T06:54:30.869970",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -330,7 +360,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-29T07:57:36.364758",
+    "captured_at": "2026-08-30T06:54:30.869972",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -345,7 +375,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-29T07:57:36.364761",
+    "captured_at": "2026-08-30T06:54:30.869974",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -360,7 +390,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-29T07:57:36.364764",
+    "captured_at": "2026-08-30T06:54:30.869977",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -375,7 +405,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-29T07:57:36.364767",
+    "captured_at": "2026-08-30T06:54:30.869979",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -390,7 +420,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-29T07:57:36.364769",
+    "captured_at": "2026-08-30T06:54:30.869981",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -405,7 +435,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-29T07:57:36.364772",
+    "captured_at": "2026-08-30T06:54:30.869983",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -420,37 +450,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-29T07:57:36.364775",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Meta\u2019s $18bn settlement shows the wrong way to keep kids safe",
-    "snippet": "Relying on mutual compromise is a flawed way to protect young users",
-    "link": "https://www.ft.com/content/ef0e436b-5a9f-4284-8df5-1f6bbddf6167?syn-25a6b1a6=1",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-08-29T07:57:36.364777",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "UK venture capital investment rebounds as software and biotech attract funding",
-    "snippet": "Demand is coming mostly from overseas investors",
-    "link": "https://www.ft.com/content/25121087-b57c-4a50-ae83-f09399e2e84d?syn-25a6b1a6=1",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-08-29T07:57:36.468379",
+    "captured_at": "2026-08-30T06:54:31.114225",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -465,7 +465,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-29T07:57:36.468390",
+    "captured_at": "2026-08-30T06:54:31.114233",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -480,7 +480,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-29T07:57:36.468394",
+    "captured_at": "2026-08-30T06:54:31.114237",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -495,7 +495,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-29T07:57:36.468398",
+    "captured_at": "2026-08-30T06:54:31.114239",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -510,7 +510,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-29T07:57:36.468401",
+    "captured_at": "2026-08-30T06:54:31.114242",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -525,7 +525,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-29T07:57:36.468405",
+    "captured_at": "2026-08-30T06:54:31.114244",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -540,7 +540,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-29T07:57:36.468408",
+    "captured_at": "2026-08-30T06:54:31.114246",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -555,7 +555,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-29T07:57:36.468415",
+    "captured_at": "2026-08-30T06:54:31.114251",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -570,7 +570,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-29T07:57:36.468417",
+    "captured_at": "2026-08-30T06:54:31.114253",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -585,7 +585,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-29T07:57:36.468420",
+    "captured_at": "2026-08-30T06:54:31.114255",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
