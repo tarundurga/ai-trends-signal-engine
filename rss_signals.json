@@ -1,6 +1,66 @@
 [
   {
-    "captured_at": "2026-08-30T06:54:29.722459",
+    "captured_at": "2026-08-31T07:08:54.439684",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Tim Cook steps down as Apple CEO: Who is John Ternus and what changes are coming?",
+    "snippet": "Apple CEO Tim Cook steps down on 1 September, with John Ternus taking over as CEO. Here's who John Ternus is, why Apple chose him, what Tim Cook will do as executive chairman and how the leadership change could affect Apple's products and strategy.",
+    "link": "https://www.livemint.com/technology/tim-cook-steps-down-as-apple-ceo-who-is-john-ternus-and-what-changes-are-coming-11788156549877.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-08-31T07:08:54.439696",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Foldable iPhone may get Apple Pencil support; stylus launch could be delayed",
+    "snippet": "Apple has reportedly tested a smaller Apple Pencil prototype for its upcoming foldable iPhone, but the stylus is unlikely to debut with the device. The side-mounted accessory may pose usability issues and risk damaging the foldable display.",
+    "link": "https://www.livemint.com/technology/gadgets/foldable-iphone-may-get-apple-pencil-support-stylus-launch-could-be-delayed-11788149719384.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-08-31T07:08:54.439700",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Apple iPhone 18 Pro Max launch in India: Price, launch date, colours and more- what we know so far",
+    "snippet": "Apple confirmed that the company will hold its \u201cSurprise and Shine\u201d event on September 9. It is likely to unveil the iPhone 18 Pro and iPhone 18 Pro Max on the same day.",
+    "link": "https://www.livemint.com/technology/apple-iphone-18-pro-max-launch-in-india-price-launch-date-colours-and-more-what-we-know-so-far-11788083918294.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-08-31T07:08:54.439704",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Nearly 32% of organizations decide to build in-house software using AI coding agents over purchases: McKinsey",
+    "snippet": "Organizations are increasingly using agentic coding tools to build software in-house in lieu of purchasing it, according to a McKinsey report titled, \"The state of AI in 2026.\"",
+    "link": "https://www.livemint.com/technology/nearly-32-of-organizations-decide-to-build-in-house-software-using-ai-coding-agents-over-purchases-mckinsey-11788076917651.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-08-31T07:08:54.439706",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -15,7 +75,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-30T06:54:29.722468",
+    "captured_at": "2026-08-31T07:08:54.439713",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -30,7 +90,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-30T06:54:29.722471",
+    "captured_at": "2026-08-31T07:08:54.439717",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -45,7 +105,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-30T06:54:29.722474",
+    "captured_at": "2026-08-31T07:08:54.439722",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -60,7 +120,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-30T06:54:29.722476",
+    "captured_at": "2026-08-31T07:08:54.439726",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -75,7 +135,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-30T06:54:29.722480",
+    "captured_at": "2026-08-31T07:08:54.439730",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -90,67 +150,97 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-08-30T06:54:29.722482",
+    "captured_at": "2026-08-31T07:08:54.909429",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
-    "india_relevance": "High",
+    "india_relevance": "Medium",
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Lunar Eclipse 2026: Six pro tips to capture blood moon's best shots with a smartphone",
-    "snippet": "Lunar Eclipse 2026: During the ongoing partial lunar eclipse, known as a Blood Moon, smartphone users can capture stunning images by adjusting settings. Check six pro tips here.",
-    "link": "https://www.livemint.com/technology/lunar-eclipse-2026-six-pro-tips-to-capture-blood-moons-best-shots-with-a-smartphone-11787886310574.html",
+    "title": "French \u200bchip materials maker Soitec locks customers into multi-year deals as AI wafer demand surges",
+    "snippet": "Demand for silicon photonics has surged as hyperscalers increasingly use optical connections to move data inside AI infrastructure, where copper links are becoming less attractive because of power and performance constraints.",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/french-chip-materials-maker-soitec-locks-customers-into-multi-year-deals-as-ai-wafer-demand-surges/articleshow/133642503.cms",
     "evidence_weight": 3,
-    "notes": "Mint - Tech"
+    "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-30T06:54:29.722486",
+    "captured_at": "2026-08-31T07:08:54.909439",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
-    "india_relevance": "High",
+    "india_relevance": "Medium",
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Samsung Galaxy S26 FE launched: One UI 9, upgraded cameras, sale date revealed",
-    "snippet": "Samsung Galaxy S26 FE has been launched with One UI 9, Galaxy AI features and an upgraded triple-camera setup. It features a 6.7-inch 120Hz AMOLED display, Exynos 2500 processor and a 4,900mAh battery with 45W charging.",
-    "link": "https://www.livemint.com/technology/samsung-galaxy-s26-fe-launched-with-one-ui-9-50mp-camera-and-4-900mah-battery-11787889430785.html",
+    "title": "OpenAI issued warrants worth $5.5 billion in SB Energy, WSJ reports",
+    "snippet": "\u200bOpenAI \u200bwas issued \u200bwarrants worth an \u200cestimated $5.5 \u2060billion \u2060in \u200bpower infrastructure firm \u200bSB Energy, the \u200bWall \u2060Street Journal \u200creported \u200bon \u200bSunday, \u2060citing draft IPO \u200bdocuments reviewed \u200bby the Journal.",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-issued-warrants-worth-5-5-billion-in-sb-energy-wsj-reports/articleshow/133641894.cms",
     "evidence_weight": 3,
-    "notes": "Mint - Tech"
+    "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-30T06:54:29.722489",
+    "captured_at": "2026-08-31T07:08:54.909443",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
-    "india_relevance": "High",
+    "india_relevance": "Medium",
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "'AI job disruption inevitable, but tech will be net job creator': NVIDIAs Jensen Huang contradicts Bill Gates",
-    "snippet": "NVIDIA CEO Jensen Huang has disagreed with Bill Gates' views on AI-driven job losses, saying that while \"everybody's jobs will be changed because of AI,\" the technology will ultimately be a \"net job creator.\"",
-    "link": "https://www.livemint.com/technology/ai-job-disruption-inevitable-but-tech-will-be-net-job-creator-nvidias-jensen-huang-contradicts-bill-gates-11787888889389.html",
+    "title": "AI and robotics drive an IPO boom in China as Shein lists in Hong Kong",
+    "snippet": "In the latest big stock listing, shares in China-founded e-commerce and fast fashion giant Shein are due to debut Tuesday in Hong Kong in a blockbuster initial public offering raising $1.7 billion, in one of the city's biggest new share sales this year.",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-and-robotics-drive-an-ipo-boom-in-china-as-shein-lists-in-hong-kong/articleshow/133641386.cms",
     "evidence_weight": 3,
-    "notes": "Mint - Tech"
+    "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-30T06:54:29.722491",
+    "captured_at": "2026-08-31T07:08:54.909446",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
-    "india_relevance": "High",
+    "india_relevance": "Medium",
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Meta settlement falls short on teen mental health protections, whistleblower says",
-    "snippet": "META-LAWSUITS/SETTLEMENT-MENTAL HEALTH (PIX):Meta settlement falls short on teen mental health protections, whistleblower says",
-    "link": "https://www.livemint.com/technology/meta-settlement-falls-short-on-teen-mental-health-protections-whistleblower-says-11787857832431.html",
+    "title": "John Ternus to lead Apple into the age of AI",
+    "snippet": "John Ternus takes over as Apple's chief executive on Tuesday, inheriting a company that towers over the smartphone market but trails its rivals in artificial intelligence. Ives expects the new chief executive to lean into what he knows.",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/john-ternus-to-lead-apple-into-the-age-of-ai/articleshow/133640097.cms",
     "evidence_weight": 3,
-    "notes": "Mint - Tech"
+    "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-30T06:54:30.452304",
+    "captured_at": "2026-08-31T07:08:54.909474",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Big firms eye ISRO's rocket tech; DealShare's sale talks",
+    "snippet": "Happy Monday! Big industrial groups are vying to get a piece of ISRO\u2019s heavy rocket technology. This and more in today\u2019s ETtech Morning Dispatch.",
+    "link": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/big-firms-eye-isros-rocket-tech-dealshares-sale-talks/articleshow/133639674.cms",
+    "evidence_weight": 3,
+    "notes": "ET - Tech"
+  },
+  {
+    "captured_at": "2026-08-31T07:08:54.909477",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "SK hynix open to US investment, sees memory shortage through 2030",
+    "snippet": "SK hynix CEO Kwak Noh-jung said SK hynix was looking globally for potential sites that could support its development and testing needs, citing power, water and government incentives among key considerations. Kwak also said the company's newly established AI Co. would serve as an investment vehicle f",
+    "link": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-open-to-us-investment-sees-memory-shortage-through-2030/articleshow/133628356.cms",
+    "evidence_weight": 3,
+    "notes": "ET - Tech"
+  },
+  {
+    "captured_at": "2026-08-31T07:08:54.909480",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -165,7 +255,7 @@
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-30T06:54:30.452311",
+    "captured_at": "2026-08-31T07:08:54.909483",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -180,7 +270,7 @@
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-30T06:54:30.452314",
+    "captured_at": "2026-08-31T07:08:54.909486",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -195,7 +285,7 @@
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-30T06:54:30.452317",
+    "captured_at": "2026-08-31T07:08:54.909489",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -210,97 +300,97 @@
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-08-30T06:54:30.452319",
+    "captured_at": "2026-08-31T07:08:55.502625",
     "source_channel": "rss",
     "source_type": "news",
-    "geo_primary": "India",
+    "geo_primary": "Global",
     "india_relevance": "Medium",
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Judge in Google privacy class action awards lawyers $147 million in legal fees",
-    "snippet": "US District Judge Richard Seeborg in San Francisco granted the fee request by law firms Boies Schiller Flexner, Susman Godfrey and \u200cMorgan &amp; Morgan over \u2060objections \u2060from some class members. A jury in September found Google liable for secretly collecting app activity data from millions of \u200busers",
-    "link": "https://economictimes.indiatimes.com/tech/technology/judge-in-google-privacy-class-action-awards-lawyers-147-million-in-legal-fees/articleshow/133602660.cms",
+    "title": "Andrew Bailey warns G20 of danger AI poses to financial system",
+    "snippet": "Head of world\u2019s financial stability watchdog urges countries to take steps to control the release of new frontier models",
+    "link": "https://www.ft.com/content/ed723a59-a889-40e0-b601-0c1f16c92f65?syn-25a6b1a6=1",
     "evidence_weight": 3,
-    "notes": "ET - Tech"
+    "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-30T06:54:30.452321",
+    "captured_at": "2026-08-31T07:08:55.502634",
     "source_channel": "rss",
     "source_type": "news",
-    "geo_primary": "India",
+    "geo_primary": "Global",
     "india_relevance": "Medium",
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Taiwan prosecutors search Unimicron in suspected China fraud case",
-    "snippet": "Prosecutors \u200cin the \u2060northern \u2060city of Taoyuan said they had searched two company \u200blocations and questioned 18 defendants and witnesses.",
-    "link": "https://economictimes.indiatimes.com/tech/technology/taiwan-prosecutors-search-unimicron-in-suspected-china-fraud-case/articleshow/133602615.cms",
+    "title": "Tim Cook\u2019s Apple legacy by the numbers",
+    "snippet": "CEO hands over to John Ternus on Tuesday after 15 years",
+    "link": "https://www.ft.com/content/886acdbf-7a9d-4af3-a2e7-3c4a2e446370?syn-25a6b1a6=1",
     "evidence_weight": 3,
-    "notes": "ET - Tech"
+    "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-30T06:54:30.452323",
+    "captured_at": "2026-08-31T07:08:55.502638",
     "source_channel": "rss",
     "source_type": "news",
-    "geo_primary": "India",
+    "geo_primary": "Global",
     "india_relevance": "Medium",
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Pinterest finance chief Julia Donnelly to step down in October",
-    "snippet": "Vikram Naidu, \u2060the \u2060image-sharing platform's vice president of finance and \u200bbusiness operations, will be principal financial officer in the \u200binterim.",
-    "link": "https://economictimes.indiatimes.com/tech/technology/pinterest-finance-chief-julia-donnelly-to-step-down-in-october/articleshow/133602502.cms",
+    "title": "Can robots save US manufacturing?",
+    "snippet": "Wall Street and Silicon Valley have high hopes for AI that interacts with the real world. But unions and economists warn of its effects on jobs and wages",
+    "link": "https://www.ft.com/content/fc8f86f2-96ad-4bfb-bba4-75326115aa24?syn-25a6b1a6=1",
     "evidence_weight": 3,
-    "notes": "ET - Tech"
+    "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-30T06:54:30.452326",
+    "captured_at": "2026-08-31T07:08:55.502641",
     "source_channel": "rss",
     "source_type": "news",
-    "geo_primary": "India",
+    "geo_primary": "Global",
     "india_relevance": "Medium",
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Marvell selloff deepens as investors seek clarity on Google AI deal payoff",
-    "snippet": "Marvell has become a market darling fueled by the AI spending boom as Big Tech races to adopt custom chips for greater cost efficiency and performance, powering \u200cits shares \u2060to nearly \u2060triple this year.",
-    "link": "https://economictimes.indiatimes.com/tech/technology/marvell-selloff-deepens-as-investors-seek-clarity-on-google-ai-deal-payoff/articleshow/133602463.cms",
+    "title": "Big Tech profits get $160bn boost from gains on stakes in other AI companies",
+    "snippet": "Analysts say large paper windfalls on investments in OpenAI, Anthropic and SpaceX have muddied the tech sector\u2019s earnings metrics",
+    "link": "https://www.ft.com/content/a5a0081f-e998-4c80-b967-cc535cbc4933?syn-25a6b1a6=1",
     "evidence_weight": 3,
-    "notes": "ET - Tech"
+    "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-30T06:54:30.452328",
+    "captured_at": "2026-08-31T07:08:55.502644",
     "source_channel": "rss",
     "source_type": "news",
-    "geo_primary": "India",
+    "geo_primary": "Global",
     "india_relevance": "Medium",
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Chinese memory chipmaker CXMT sues Pentagon over 'Chinese military company' designation",
-    "snippet": "The company was designated a Chinese military company by the US Defense Department under the Biden administration and was retained on the list by \u200cthe Trump \u2060administration during \u2060a June update.",
-    "link": "https://economictimes.indiatimes.com/tech/technology/chinese-memory-chipmaker-cxmt-sues-pentagon-over-chinese-military-company-designation/articleshow/133602438.cms",
+    "title": "Americans feel they have lost their agency",
+    "snippet": "People increasingly blame large corporations for the sense that they have ever less control over their own lives",
+    "link": "https://www.ft.com/content/63e8a4f3-7c18-4ddc-b3b7-e472159a7adf?syn-25a6b1a6=1",
     "evidence_weight": 3,
-    "notes": "ET - Tech"
+    "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-30T06:54:30.452330",
+    "captured_at": "2026-08-31T07:08:55.502647",
     "source_channel": "rss",
     "source_type": "news",
-    "geo_primary": "India",
+    "geo_primary": "Global",
     "india_relevance": "Medium",
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "OpenAI to end agreement with SpaceX's AI coding tool Cursor, deepening Musk-Altman clash",
-    "snippet": "OpenAI \u200csaid \u200bit \u200bwas \u2060not confident that SpaceX \u200bwould use its technology \"within \u200bour terms of service.\"",
-    "link": "https://economictimes.indiatimes.com/tech/technology/openai-to-end-partnership-with-spacexs-cursor/articleshow/133602403.cms",
+    "title": "Meta\u2019s settlement is a starting point",
+    "snippet": "Governments can use it as leverage as they mull social media bans for minors",
+    "link": "https://www.ft.com/content/5729b32c-8b7a-42b1-b1e2-b8b0106739cb?syn-25a6b1a6=1",
     "evidence_weight": 3,
-    "notes": "ET - Tech"
+    "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-30T06:54:30.869958",
+    "captured_at": "2026-08-31T07:08:55.502650",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -315,7 +405,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-30T06:54:30.869966",
+    "captured_at": "2026-08-31T07:08:55.502653",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -330,7 +420,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-30T06:54:30.869968",
+    "captured_at": "2026-08-31T07:08:55.502655",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -345,7 +435,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-30T06:54:30.869970",
+    "captured_at": "2026-08-31T07:08:55.502658",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -360,97 +450,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-08-30T06:54:30.869972",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "FT stock picking game results: the unexpected triumph of fundamentals",
-    "snippet": "No one ever won a stock picking game by choosing good companies. Or did they?",
-    "link": "https://www.ft.com/content/38a05881-ebfc-47ac-b326-96142edd1bb7?syn-25a6b1a6=1",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-08-30T06:54:30.869974",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "China\u2019s actors written out of dramas as AI doubles ready to take their roles",
-    "snippet": "Online performers left jobless as new video-generation programmes sweep industry",
-    "link": "https://www.ft.com/content/7117ff02-d495-4936-8f05-fa73a7a5c669?syn-25a6b1a6=1",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-08-30T06:54:30.869977",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Neoclouds show how to amplify risks in AI ecosystems",
-    "snippet": "Fledgling companies that rent out servers and chips are in big demand but any unravelling will be ugly",
-    "link": "https://www.ft.com/content/7af605e0-b528-46f6-b86e-b90b46f03c4c?syn-25a6b1a6=1",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-08-30T06:54:30.869979",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "SpaceX considered as a leasing company",
-    "snippet": "Selling gold nuggets in a shovel rush",
-    "link": "https://www.ft.com/content/a5c1460d-631a-4c4e-8c51-32536de09b80",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-08-30T06:54:30.869981",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Have you got 10 minutes?",
-    "snippet": "The fightback against online \u2018life-hacks\u2019 starts here",
-    "link": "https://www.ft.com/content/226f4996-ea11-45ff-bb22-11b602792bb6?syn-25a6b1a6=1",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-08-30T06:54:30.869983",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Ministers embraced the \u2018world\u2019s safest phone\u2019. Then it unravelled",
-    "snippet": "A security researcher discovered flaws in the first phone to integrate real-time nudity-blocking software",
-    "link": "https://www.ft.com/content/670b2b1d-7e4c-480e-9ed4-9f7f095d7860?syn-25a6b1a6=1",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-08-30T06:54:31.114225",
+    "captured_at": "2026-08-31T07:08:55.611542",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -465,7 +465,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-30T06:54:31.114233",
+    "captured_at": "2026-08-31T07:08:55.611552",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -480,7 +480,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-30T06:54:31.114237",
+    "captured_at": "2026-08-31T07:08:55.611556",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -495,7 +495,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-30T06:54:31.114239",
+    "captured_at": "2026-08-31T07:08:55.611559",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -510,7 +510,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-30T06:54:31.114242",
+    "captured_at": "2026-08-31T07:08:55.611563",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -525,7 +525,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-30T06:54:31.114244",
+    "captured_at": "2026-08-31T07:08:55.611566",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -540,7 +540,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-30T06:54:31.114246",
+    "captured_at": "2026-08-31T07:08:55.611569",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -555,7 +555,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-30T06:54:31.114251",
+    "captured_at": "2026-08-31T07:08:55.611577",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -570,7 +570,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-30T06:54:31.114253",
+    "captured_at": "2026-08-31T07:08:55.611580",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -585,7 +585,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-08-30T06:54:31.114255",
+    "captured_at": "2026-08-31T07:08:55.611583",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
