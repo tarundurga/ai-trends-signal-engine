@@ -1,6 +1,6 @@
 [
   {
-    "captured_at": "2026-09-21T07:12:21.057189",
+    "captured_at": "2026-09-22T06:47:50.419392",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -16,7 +16,7 @@
     "notes": "greenhouse fetch error"
   },
   {
-    "captured_at": "2026-09-21T07:12:21.109654",
+    "captured_at": "2026-09-22T06:47:50.493350",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -32,7 +32,7 @@
     "notes": "greenhouse fetch error"
   },
   {
-    "captured_at": "2026-09-21T07:12:21.183194",
+    "captured_at": "2026-09-22T06:47:50.559865",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -48,7 +48,7 @@
     "notes": "greenhouse fetch error"
   },
   {
-    "captured_at": "2026-09-21T07:12:21.299567",
+    "captured_at": "2026-09-22T06:47:50.626713",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -64,28 +64,7 @@
     "notes": "greenhouse fetch error"
   },
   {
-    "captured_at": "2026-09-21T07:12:21.356388",
-    "segment": "midcap",
-    "source_channel": "ats_jobs",
-    "source_type": "job_posting",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "Groww",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Assistant Manager - Controllership (NBFC)",
-    "snippet": "&lt;div&gt;&lt;strong&gt;About Groww:&lt;/strong&gt;&lt;/div&gt; &lt;div&gt;We are a passionate group of people focused on making financial services accessible to every Indian through a multi-product platform. Each day, we help millions of customers take charge of their financial journey. Customer o",
-    "link": "https://job-boards.eu.greenhouse.io/groww/jobs/4728765101",
-    "evidence_weight": 5,
-    "notes": "greenhouse; location=Bengaluru-VTP, India; team=Finance; created_at=2026-09-21T02:50:37-04:00",
-    "skill_hits": [
-      "design",
-      "governance"
-    ],
-    "ai_related": true
-  },
-  {
-    "captured_at": "2026-09-21T07:12:21.359327",
+    "captured_at": "2026-09-22T06:47:50.710058",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -106,7 +85,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-09-21T07:12:21.361654",
+    "captured_at": "2026-09-22T06:47:50.712887",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -126,7 +105,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-09-21T07:12:21.363449",
+    "captured_at": "2026-09-22T06:47:50.714691",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -146,7 +125,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-09-21T07:12:21.364844",
+    "captured_at": "2026-09-22T06:47:50.716193",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -166,7 +145,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-09-21T07:12:21.366271",
+    "captured_at": "2026-09-22T06:47:50.717583",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -186,7 +165,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-09-21T07:12:21.367539",
+    "captured_at": "2026-09-22T06:47:50.718851",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -206,7 +185,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-09-21T07:12:21.369610",
+    "captured_at": "2026-09-22T06:47:50.720879",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -226,7 +205,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-09-21T07:12:21.729730",
+    "captured_at": "2026-09-22T06:47:50.832964",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -242,7 +221,7 @@
     "notes": "lever fetch error"
   },
   {
-    "captured_at": "2026-09-21T07:12:22.090124",
+    "captured_at": "2026-09-22T06:47:50.979528",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -258,7 +237,7 @@
     "notes": "lever fetch error"
   },
   {
-    "captured_at": "2026-09-21T07:12:22.435091",
+    "captured_at": "2026-09-22T06:47:51.089146",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -274,7 +253,7 @@
     "notes": "lever fetch error"
   },
   {
-    "captured_at": "2026-09-21T07:12:22.774529",
+    "captured_at": "2026-09-22T06:47:51.196396",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -290,7 +269,7 @@
     "notes": "lever fetch error"
   },
   {
-    "captured_at": "2026-09-21T07:12:23.117118",
+    "captured_at": "2026-09-22T06:47:51.306557",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "error",
