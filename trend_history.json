@@ -1163,5 +1163,25 @@
         "midcap": 0
       }
     }
+  },
+  {
+    "week": "2026-W38",
+    "themes": {
+      "Creative & Knowledge Work Reinvention": {
+        "total": 15,
+        "largecap": 5,
+        "midcap": 6
+      },
+      "Agentic & Automated Workflows": {
+        "total": 4,
+        "largecap": 0,
+        "midcap": 0
+      },
+      "Governance, Risk & Trust": {
+        "total": 1,
+        "largecap": 0,
+        "midcap": 0
+      }
+    }
   }
 ]
