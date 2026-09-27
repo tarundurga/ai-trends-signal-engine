@@ -1,6 +1,81 @@
 [
   {
-    "captured_at": "2026-09-26T06:14:51.778877",
+    "captured_at": "2026-09-27T06:42:37.557037",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "When AI agents go rogue: Australia breach offers warning for countries like India",
+    "snippet": "When AI agents go rogue: Australia breach offers warning for countries like India",
+    "link": "https://www.livemint.com/technology/when-ai-agents-go-rogue-australia-breach-offers-warning-for-countries-like-india-11790481067426.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-09-27T06:42:37.557049",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Hyperscaler cloud revenues projected to top USD 1 trillion by 2030 amid AI, digital asset convergence: Report",
+    "snippet": "Hyperscaler cloud revenues could exceed USD 1 trillion annually by 2030, driven by expanding demand for computing resources required to train and run artificial intelligence (AI) systems, according to a BlackRock report. It highlighted how compute capacity is turning into a vital economic resource a",
+    "link": "https://www.livemint.com/technology/hyperscaler-cloud-revenues-projected-to-top-usd-1-trillion-by-2030-amid-ai-digital-asset-convergence-report-11790477745714.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-09-27T06:42:37.557053",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "China and the US agree to set up a new AI safety channel, and to keep talking on trade, military",
+    "snippet": "China and the US agree to set up a new AI safety channel, and to keep talking on trade, military",
+    "link": "https://www.livemint.com/technology/china-and-the-us-agree-to-set-up-a-new-ai-safety-channel-and-to-keep-talking-on-trade-military-11790419688675.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-09-27T06:42:37.557056",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Realme Harry Potter edition sold out soon after launch: Check the smartphone\u2019s features, price and more",
+    "snippet": "The Realme 16 Pro 5G Harry Potter Edition was released in India on 21 September. It includes Hogwarts-themed designs and collectables.",
+    "link": "https://www.livemint.com/technology/gadgets/realme-harry-potter-edition-sold-out-soon-after-launch-check-the-smartphone-s-features-price-and-more-11790418044305.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-09-27T06:42:37.557059",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "India\u2019s semiconductor ecosystem likely to see gradual value creation over next 3-5 years: Report",
+    "snippet": "India\u2019s semiconductor ecosystem is likely to move through project commissioning, customer qualification and yield stabilisation over the next three to five years, with localisation of recurring inputs and higher-value packaging expected to follow, according to a\u00a0 research report by 360 ONE Capital.",
+    "link": "https://www.livemint.com/technology/indias-semiconductor-ecosystem-likely-to-see-gradual-value-creation-over-next-3-5-years-report-11790412262431.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-09-27T06:42:37.557066",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -15,7 +90,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-09-26T06:14:51.778889",
+    "captured_at": "2026-09-27T06:42:37.557069",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -30,7 +105,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-09-26T06:14:51.778893",
+    "captured_at": "2026-09-27T06:42:37.557073",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -45,7 +120,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-09-26T06:14:51.778897",
+    "captured_at": "2026-09-27T06:42:37.557078",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -60,7 +135,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-09-26T06:14:51.778900",
+    "captured_at": "2026-09-27T06:42:37.557081",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -75,82 +150,22 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-09-26T06:14:51.778906",
+    "captured_at": "2026-09-27T06:42:38.029121",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
-    "india_relevance": "High",
+    "india_relevance": "Medium",
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Apple\u2019s next big launch: Touchscreen MacBook, Apple TV 4K and smart home hub reportedly coming soon",
-    "snippet": "Apple is reportedly developing a redesigned MacBook Pro with OLED touchscreen, a new Apple TV 4K with AI-powered Siri, and a long-rumoured HomePad smart hub. Devices could launch in October, though timing remains unconfirmed.",
-    "link": "https://www.livemint.com/technology/apples-next-big-launch-touchscreen-macbook-apple-tv-4k-and-smart-home-hub-reportedly-coming-soon-11790330176111.html",
+    "title": "AI, semiconductors, quantum to drive India's next infrastructure push: FM Sitharaman",
+    "snippet": "Union Finance Minister Nirmala Sitharaman highlighted the need for investment in AI, semiconductor chips, and quantum technology. She stated that strengthening digital infrastructure will support AI adoption across various sectors. Additionally, Sitharaman underscored the importance of providing AI ",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/indias-infrastructure-revolution-fm-sitharaman-promotes-ai-semiconductors-and-quantum-technology-investments/articleshow/134504988.cms",
     "evidence_weight": 3,
-    "notes": "Mint - Tech"
+    "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-09-26T06:14:51.778910",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Australia steps up response to AI after OpenAI bot breaches health system database",
-    "snippet": "OPENAI-CYBERSECURITY/ (PIX):Australia steps up response to AI after OpenAI bot breaches health system database",
-    "link": "https://www.livemint.com/technology/australia-steps-up-response-to-ai-after-openai-bot-breaches-health-system-database-11790316218414.html",
-    "evidence_weight": 3,
-    "notes": "Mint - Tech"
-  },
-  {
-    "captured_at": "2026-09-26T06:14:51.778915",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "PS6 vs Xbox Helix: What the leaked 40 vs 56 TFLOPS specs mean",
-    "snippet": "Sony PS6 and Microsoft\u2019s next-generation Xbox, codenamed Helix, are reportedly nearing key hardware milestones, with leaked AMD RDNA 5 GPU specs suggesting 40 TFLOPS for PS6 and 56 TFLOPS for Xbox. Here\u2019s what the reported specs could mean and why TFLOPS alone does not determine gaming performance.",
-    "link": "https://www.livemint.com/technology/ps6-vs-xbox-helix-what-the-leaked-40-vs-56-tflops-specs-mean-11790312756157.html",
-    "evidence_weight": 3,
-    "notes": "Mint - Tech"
-  },
-  {
-    "captured_at": "2026-09-26T06:14:51.778919",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "'One small step for TPUs': Google CEO Sundar Pichai announces Project Suncatcher to test AI compute in Space",
-    "snippet": "According to Google, Project Suncatcher is a long-term, research moonshot exploring whether space could one day host scalable machine learning infrastructure.",
-    "link": "https://www.livemint.com/technology/one-small-step-for-tpus-google-ceo-sundar-pichai-announces-project-suncatcher-to-test-ai-compute-in-space-11790309041454.html",
-    "evidence_weight": 3,
-    "notes": "Mint - Tech"
-  },
-  {
-    "captured_at": "2026-09-26T06:14:51.778922",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Analysis-Oracle, Blue Owl project delay\u00a0sends ripples through AI financing, sources say",
-    "snippet": "AI-FINANCE-ORACLE-BLUE-OWL-CAPITAL:Analysis-Oracle, Blue Owl project delay\u00a0sends ripples through AI financing, sources say",
-    "link": "https://www.livemint.com/technology/analysisoracle-blue-owl-project-delay-sends-ripples-through-ai-financing-sources-say-11790290849254.html",
-    "evidence_weight": 3,
-    "notes": "Mint - Tech"
-  },
-  {
-    "captured_at": "2026-09-26T06:14:52.331188",
+    "captured_at": "2026-09-27T06:42:38.029131",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -165,7 +180,7 @@
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-09-26T06:14:52.331198",
+    "captured_at": "2026-09-27T06:42:38.029135",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -180,7 +195,7 @@
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-09-26T06:14:52.331203",
+    "captured_at": "2026-09-27T06:42:38.029138",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -195,7 +210,7 @@
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-09-26T06:14:52.331206",
+    "captured_at": "2026-09-27T06:42:38.029142",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -210,7 +225,7 @@
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-09-26T06:14:52.331209",
+    "captured_at": "2026-09-27T06:42:38.029145",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -225,7 +240,7 @@
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-09-26T06:14:52.331212",
+    "captured_at": "2026-09-27T06:42:38.029148",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -240,7 +255,7 @@
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-09-26T06:14:52.331215",
+    "captured_at": "2026-09-27T06:42:38.029151",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -255,7 +270,7 @@
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-09-26T06:14:52.331218",
+    "captured_at": "2026-09-27T06:42:38.029154",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -270,7 +285,7 @@
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-09-26T06:14:52.331221",
+    "captured_at": "2026-09-27T06:42:38.029157",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -285,22 +300,112 @@
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-09-26T06:14:52.331225",
+    "captured_at": "2026-09-27T06:42:38.268128",
     "source_channel": "rss",
     "source_type": "news",
-    "geo_primary": "India",
+    "geo_primary": "Global",
     "india_relevance": "Medium",
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "AI infrastructure investment seen surging to $769 billion in 2026 amid growing safety concerns",
-    "snippet": "The estimate is based on nearly $384 billion invested in the first half of 2026 and assumes the current pace continues through the year. It compares with $145 billion invested in the technology in 2025, making AI infrastructure and model architectures the largest-funded technology trend covered by M",
-    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-infrastructure-investment-seen-surging-to-769-billion-in-2026-amid-growing-safety-concerns/articleshow/134479284.cms",
+    "title": "The rules of AI etiquette",
+    "snippet": "Just because a bot can do something for you doesn\u2019t mean it should",
+    "link": "https://www.ft.com/content/f2b4f961-6c12-4461-b7bf-1fc36b82f153?syn-25a6b1a6=1",
     "evidence_weight": 3,
-    "notes": "ET - Tech"
+    "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-09-26T06:14:52.972007",
+    "captured_at": "2026-09-27T06:42:38.268138",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "Global",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Big dreams and tiny revenue are the new norm for AI IPOs",
+    "snippet": "The nature of the AI boom and the size of valuations make the contrast between ambition and income more striking",
+    "link": "https://www.ft.com/content/b5707707-730e-40d3-9ff7-8ebfe27d5708?syn-25a6b1a6=1",
+    "evidence_weight": 3,
+    "notes": "FT - Technology"
+  },
+  {
+    "captured_at": "2026-09-27T06:42:38.268142",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "Global",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "South Korea bets big on AI for all",
+    "snippet": "Deputy prime minister is an unabashed evangelist for the technology even as some fear it could pose catastrophic risks",
+    "link": "https://www.ft.com/content/2c5e6862-65b6-4569-8c03-464e686ea88e",
+    "evidence_weight": 3,
+    "notes": "FT - Technology"
+  },
+  {
+    "captured_at": "2026-09-27T06:42:38.268145",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "Global",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Big companies warn lack of \u2018AI openness\u2019 could hit investment in Europe",
+    "snippet": "Multinationals evaluating countries\u2019 approach to AI before making expansion plans, say executives",
+    "link": "https://www.ft.com/content/aeabd0d5-be0e-4270-987e-0b119b24b355?syn-25a6b1a6=1",
+    "evidence_weight": 3,
+    "notes": "FT - Technology"
+  },
+  {
+    "captured_at": "2026-09-27T06:42:38.268148",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "Global",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Amazon\u2019s $3bn bet on fast deliveries",
+    "snippet": "Local and foreign groups wage bruising and costly war to lead ultra-competitive race",
+    "link": "https://www.ft.com/content/09cf09c4-c6e1-4560-a085-f8504bc74f58?syn-25a6b1a6=1",
+    "evidence_weight": 3,
+    "notes": "FT - Technology"
+  },
+  {
+    "captured_at": "2026-09-27T06:42:38.268151",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "Global",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Hackers hijack AI accounts and servers to fuel new cyber crime boom",
+    "snippet": "Security researchers warn of surge in \u2018LLM-jacking\u2019 attacks targeting companies\u2019 costly AI resources",
+    "link": "https://www.ft.com/content/3f406fbe-b72e-488f-9975-5b94e95dfe32?syn-25a6b1a6=1",
+    "evidence_weight": 3,
+    "notes": "FT - Technology"
+  },
+  {
+    "captured_at": "2026-09-27T06:42:38.268154",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "Global",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Monzo in talks with Brazil\u2019s Nubank about sale",
+    "snippet": "UK fintech is also in discussions with private equity about selling a significant stake in the business",
+    "link": "https://www.ft.com/content/e375ba2b-8033-426a-aa63-0f22dd06e689?syn-25a6b1a6=1",
+    "evidence_weight": 3,
+    "notes": "FT - Technology"
+  },
+  {
+    "captured_at": "2026-09-27T06:42:38.268157",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -315,7 +420,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-09-26T06:14:52.972018",
+    "captured_at": "2026-09-27T06:42:38.268160",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -330,7 +435,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-09-26T06:14:52.972022",
+    "captured_at": "2026-09-27T06:42:38.268163",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -345,112 +450,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-09-26T06:14:52.972025",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "OpenAI says governments among \u2018dozens\u2019 of organisations hacked by its agents",
-    "snippet": "Company says its models leaked images shared by users in a disclosure that is likely to further inflame AI safety fears",
-    "link": "https://www.ft.com/content/651024b1-d1ce-40c1-acae-a92c3505d3f1?syn-25a6b1a6=1",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-09-26T06:14:52.972028",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Walmart chief rules out personalised pricing as AI transforms retail",
-    "snippet": "Largest US retailer issues open letter saying it will not use electronic shelf labels to change costs based on shopper identity",
-    "link": "https://www.ft.com/content/632e21a3-b889-4423-a1d9-be16b3e680bd?syn-25a6b1a6=1",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-09-26T06:14:52.972031",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "OK, so where are all these data centres?",
-    "snippet": "A construction shortfall so big you can\u2019t see it from space",
-    "link": "https://www.ft.com/content/4c3f75a2-c2f9-4ef7-9895-21daf5e92dfe?syn-25a6b1a6=1",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-09-26T06:14:52.972034",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Bitget crypto exchange hit by $390mn hack",
-    "snippet": "Company said action was \u2018highly consistent\u2019 with methods of North Korean criminals",
-    "link": "https://www.ft.com/content/14aed3cb-492e-45c1-b217-869790b6130d?syn-25a6b1a6=1",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-09-26T06:14:52.972037",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "What an AI maths breakthrough means for human discovery",
-    "snippet": "In solving complex problems, process can be as important as the final result",
-    "link": "https://www.ft.com/content/f9d5e0af-0106-4909-a854-7bd69cbb74ab?syn-25a6b1a6=1",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-09-26T06:14:52.972040",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Submit a question: What\u2019s next for the global economy?",
-    "snippet": "Economics leader writer Tej Parikh and European economics commentator Martin Sandbu will answer reader questions in a live Q&amp;A on Thursday October 1 at 1pm",
-    "link": "https://www.ft.com/content/db266f36-c6d3-4368-8633-290e2c35e54d?syn-25a6b1a6=1",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-09-26T06:14:52.972042",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Russia targets Ukraine\u2019s data centres",
-    "snippet": "Kyiv residents experience two days of internet disruptions, raising fears over access to banking and other online services",
-    "link": "https://www.ft.com/content/7fbecb15-c396-49d2-8cab-1518809a7b2b?syn-25a6b1a6=1",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-09-26T06:14:53.124427",
+    "captured_at": "2026-09-27T06:42:38.428576",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -465,7 +465,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-09-26T06:14:53.124438",
+    "captured_at": "2026-09-27T06:42:38.428587",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -480,7 +480,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-09-26T06:14:53.124443",
+    "captured_at": "2026-09-27T06:42:38.428591",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -495,7 +495,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-09-26T06:14:53.124447",
+    "captured_at": "2026-09-27T06:42:38.428595",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -510,7 +510,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-09-26T06:14:53.124451",
+    "captured_at": "2026-09-27T06:42:38.428599",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -525,7 +525,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-09-26T06:14:53.124459",
+    "captured_at": "2026-09-27T06:42:38.428607",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -540,7 +540,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-09-26T06:14:53.124463",
+    "captured_at": "2026-09-27T06:42:38.428610",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -555,7 +555,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-09-26T06:14:53.124466",
+    "captured_at": "2026-09-27T06:42:38.428613",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -570,7 +570,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-09-26T06:14:53.124469",
+    "captured_at": "2026-09-27T06:42:38.428616",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -585,7 +585,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-09-26T06:14:53.124472",
+    "captured_at": "2026-09-27T06:42:38.428619",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
