@@ -1,6 +1,6 @@
 [
   {
-    "captured_at": "2026-10-03T07:06:26.892564",
+    "captured_at": "2026-10-04T07:24:29.382666",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -16,7 +16,7 @@
     "notes": "greenhouse fetch error"
   },
   {
-    "captured_at": "2026-10-03T07:06:26.989514",
+    "captured_at": "2026-10-04T07:24:29.477111",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -32,7 +32,7 @@
     "notes": "greenhouse fetch error"
   },
   {
-    "captured_at": "2026-10-03T07:06:27.099501",
+    "captured_at": "2026-10-04T07:24:29.552894",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -48,7 +48,7 @@
     "notes": "greenhouse fetch error"
   },
   {
-    "captured_at": "2026-10-03T07:06:27.191526",
+    "captured_at": "2026-10-04T07:24:29.631504",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -64,7 +64,7 @@
     "notes": "greenhouse fetch error"
   },
   {
-    "captured_at": "2026-10-03T07:06:27.295436",
+    "captured_at": "2026-10-04T07:24:29.703742",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -85,7 +85,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-10-03T07:06:27.297978",
+    "captured_at": "2026-10-04T07:24:29.706568",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -105,7 +105,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-10-03T07:06:27.299545",
+    "captured_at": "2026-10-04T07:24:29.708281",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -125,7 +125,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-10-03T07:06:27.300829",
+    "captured_at": "2026-10-04T07:24:29.709693",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -145,7 +145,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-10-03T07:06:27.302022",
+    "captured_at": "2026-10-04T07:24:29.711016",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -165,7 +165,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-10-03T07:06:27.303095",
+    "captured_at": "2026-10-04T07:24:29.712191",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -185,7 +185,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-10-03T07:06:27.304768",
+    "captured_at": "2026-10-04T07:24:29.714122",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -205,7 +205,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-10-03T07:06:27.604524",
+    "captured_at": "2026-10-04T07:24:30.759812",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -221,7 +221,7 @@
     "notes": "lever fetch error"
   },
   {
-    "captured_at": "2026-10-03T07:06:37.044051",
+    "captured_at": "2026-10-04T07:24:30.877910",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -237,7 +237,7 @@
     "notes": "lever fetch error"
   },
   {
-    "captured_at": "2026-10-03T07:06:43.075444",
+    "captured_at": "2026-10-04T07:24:30.991041",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -253,7 +253,7 @@
     "notes": "lever fetch error"
   },
   {
-    "captured_at": "2026-10-03T07:06:43.368710",
+    "captured_at": "2026-10-04T07:24:31.281731",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -269,7 +269,7 @@
     "notes": "lever fetch error"
   },
   {
-    "captured_at": "2026-10-03T07:06:43.828132",
+    "captured_at": "2026-10-04T07:24:31.388827",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "error",
