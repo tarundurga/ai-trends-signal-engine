@@ -1,6 +1,81 @@
 [
   {
-    "captured_at": "2026-10-10T07:21:18.357135",
+    "captured_at": "2026-10-11T07:25:53.186919",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Most trustworthy AI system demands least inherent model trust, says Microsoft CEO Satya Nadella",
+    "snippet": "he most trustworthy Super Intelligence system will not be the one powered by the model users trust the most, but rather the system that allows people to trust the model the least, Microsoft Chief Executive Officer Satya Nadella stated in a post on X.",
+    "link": "https://www.livemint.com/technology/most-trustworthy-ai-system-demands-least-inherent-model-trust-says-microsoft-ceo-satya-nadella-11791687133324.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-10-11T07:25:53.186932",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Google Fitbit Edge tracker to launch on October 12: Expected price, features and India availability",
+    "snippet": "Google teased the Fitbit Edge tracker for October 12, 2026, revealing a metal chassis and canyon color scheme. Leaks suggest seven-day battery life, iPhone support, Gemini integration and a price near $180. Google says the tracker has no confirmed launch date in India, Japan or Turkey.",
+    "link": "https://www.livemint.com/technology/google-fitbit-edge-tracker-to-launch-on-october-12-expected-price-features-and-india-availability-11791649437505.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-10-11T07:25:53.186936",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Venezuela authorises Musks Starlink to operate in country",
+    "snippet": "Venezuela's interim President Delcy Rodriguez has authorised Elon Musk's SpaceX-operated satellite internet service Starlink to operate in the country, Reuters reported, citing a statement from the Venezuelan government.",
+    "link": "https://www.livemint.com/technology/venezuela-authorises-musks-starlink-to-operate-in-country-11791644535437.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-10-11T07:25:53.186939",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Apple cuts iPhone 18 Pro orders: Is its premium pricing backfiring? Here's what report reveals",
+    "snippet": "The reported cuts come as Apple has increased prices across its latest Pro lineup. The iPhone 18 Pro starts at $1,199, while the iPhone 18 Pro Max is priced at $1,299, marking a $100 increase for each model compared with its predecessor",
+    "link": "https://www.livemint.com/technology/tech-news/apple-cuts-iphone-18-pro-orders-is-its-premium-pricing-backfiring-heres-what-report-reveals-11791639424660.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-10-11T07:25:53.186941",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Anthropic restricts internet access in internal AI evaluations after Claude bypasses safeguards, accesses websites",
+    "snippet": "Artificial intelligence company Anthropic has restricted live internet access across its internal evaluations after discovering instances of its Claude models bypassing safeguards, exploiting software vulnerabilities and accessing systems on real-world websites, including those operated by governmen",
+    "link": "https://www.livemint.com/technology/anthropic-restricts-internet-access-in-internal-ai-evaluations-after-claude-bypasses-safeguards-accesses-websites-11791628683049.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-10-11T07:25:53.186944",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -15,7 +90,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-10-10T07:21:18.357146",
+    "captured_at": "2026-10-11T07:25:53.186946",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -30,7 +105,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-10-10T07:21:18.357150",
+    "captured_at": "2026-10-11T07:25:53.186951",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -45,7 +120,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-10-10T07:21:18.357154",
+    "captured_at": "2026-10-11T07:25:53.186954",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -60,7 +135,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-10-10T07:21:18.357156",
+    "captured_at": "2026-10-11T07:25:53.186957",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -75,82 +150,37 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-10-10T07:21:18.357159",
+    "captured_at": "2026-10-11T07:25:53.712018",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
-    "india_relevance": "High",
+    "india_relevance": "Medium",
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "South Korea, Japan buffeted by hacks as AI lowers bar for cybercriminals",
-    "snippet": "SOUTHKOREA-JAPAN/CYBERATTACKS (PIX):South Korea, Japan buffeted by hacks as AI lowers bar for cybercriminals",
-    "link": "https://www.livemint.com/technology/south-korea-japan-buffeted-by-hacks-as-ai-lowers-bar-for-cybercriminals-11791519656868.html",
+    "title": "India's Infosys does not expect material impact from US PERM suspension",
+    "snippet": "The US government said on Thursday it was suspending some major global tech and IT firms, including Infosys, from the PERM green card program, which allows skilled foreign workers to gain permanent residency in the US through their employment.",
+    "link": "https://economictimes.indiatimes.com/tech/information-tech/indias-infosys-does-not-expect-material-impact-from-us-perm-suspension/articleshow/134858725.cms",
     "evidence_weight": 3,
-    "notes": "Mint - Tech"
+    "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-10-10T07:21:18.357163",
+    "captured_at": "2026-10-11T07:25:53.712030",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
-    "india_relevance": "High",
+    "india_relevance": "Medium",
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Apple october launch events: Home Hub, Touchscreen OLED MacBook Pro and OLED iPad Mini tipped",
-    "snippet": "Apple is expected to unveil a new smart home hub, a refreshed HomePod mini and an updated Apple TV at its 13 October event, teased as \u201cWelcome Home\u201d. Bloomberg\u2019s Mark Gurman reports that Apple could introduce its first touchscreen OLED MacBook Pro and a redesigned OLED iPad mini around 27 October.",
-    "link": "https://www.livemint.com/technology/apple-october-launch-events-home-hub-touchscreen-oled-macbook-pro-and-oled-ipad-mini-tipped-11791517094819.html",
+    "title": "India Mobile Congress 2026 concludes with focus on agricultural AI, 5G automation and last-mile connectivity",
+    "snippet": "Held over four days under the theme 'Scale Without Boundaries', the event brought together policymakers, industry leaders and technology developers to discuss applications of emerging technologies and their role in driving inclusive digital growth.",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-mobile-congress-2026-concludes-with-focus-on-agricultural-ai-5g-automation-and-last-mile-connectivity/articleshow/134856745.cms",
     "evidence_weight": 3,
-    "notes": "Mint - Tech"
+    "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-10-10T07:21:18.357167",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Chinese developer makes ARTEX AI agent closed-source after Korean bank hack",
-    "snippet": "SOUTHKOREA-CYBERATTACKS/DEVELOPER:Chinese developer makes ARTEX AI agent closed-source after Korean bank hack",
-    "link": "https://www.livemint.com/technology/chinese-developer-makes-artex-ai-agent-closed-source-after-korean-bank-hack-11791510804166.html",
-    "evidence_weight": 3,
-    "notes": "Mint - Tech"
-  },
-  {
-    "captured_at": "2026-10-10T07:21:18.357171",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Jio\u2019s 1,600-satellite LEO network: 23 ground stations, remote area coverage and more",
-    "snippet": "Reliance Jio has showcased its proposed 1,600-satellite Low Earth Orbit network at India Mobile Congress 2026. The planned constellation, supported by 23 ground stations, aims to provide connectivity across remote villages, islands and border areas and integrate with Jio\u2019s terrestrial network.",
-    "link": "https://www.livemint.com/technology/jios-1-600-satellite-leo-network-23-ground-stations-remote-area-coverage-and-more-11791457201362.html",
-    "evidence_weight": 3,
-    "notes": "Mint - Tech"
-  },
-  {
-    "captured_at": "2026-10-10T07:21:18.357174",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Temple is unlike any smartwatch: Why Deepinder Goyal\u2019s  \u20b91 lakh Brain Flow tech wearable is sparking buzz",
-    "snippet": "Deepinder Goyal\u2019s Temple is an unusual wearable that sits on the side of the head instead of the wrist and uses BrainFlow tech to track blood-flow-related signals. The device could cost around  \u20b91 lakh and is being positioned as a new kind of physiological tracker, with possible future uses.",
-    "link": "https://www.livemint.com/technology/temple-is-unlike-any-smartwatch-why-deepinder-goyal-s-rs-1-lakh-brain-flow-tech-wearable-is-sparking-buzz-11791454487510.html",
-    "evidence_weight": 3,
-    "notes": "Mint - Tech"
-  },
-  {
-    "captured_at": "2026-10-10T07:21:18.672558",
+    "captured_at": "2026-10-11T07:25:53.712034",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -165,7 +195,7 @@
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-10-10T07:21:18.672567",
+    "captured_at": "2026-10-11T07:25:53.712037",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -180,7 +210,7 @@
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-10-10T07:21:18.672572",
+    "captured_at": "2026-10-11T07:25:53.712041",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -195,7 +225,7 @@
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-10-10T07:21:18.672575",
+    "captured_at": "2026-10-11T07:25:53.712043",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -210,7 +240,7 @@
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-10-10T07:21:18.672578",
+    "captured_at": "2026-10-11T07:25:53.712046",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -225,7 +255,7 @@
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-10-10T07:21:18.672581",
+    "captured_at": "2026-10-11T07:25:53.712049",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -240,7 +270,7 @@
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-10-10T07:21:18.672584",
+    "captured_at": "2026-10-11T07:25:53.712051",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -255,7 +285,7 @@
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-10-10T07:21:18.672587",
+    "captured_at": "2026-10-11T07:25:53.712054",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -270,37 +300,112 @@
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-10-10T07:21:18.672590",
+    "captured_at": "2026-10-11T07:25:54.194326",
     "source_channel": "rss",
     "source_type": "news",
-    "geo_primary": "India",
+    "geo_primary": "Global",
     "india_relevance": "Medium",
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Where will India's deep tech be in 10 years? Pixxel, Agrani Labs, BrainSight AI founders explain",
-    "snippet": "",
-    "link": "https://economictimes.indiatimes.com/tech/startups/where-will-indias-deep-tech-be-in-10-years-pixxel-agrani-labs-brainsight-ai-founders-explain/videoshow/134836290.cms",
+    "title": "The problem with your AI therapist",
+    "snippet": "Millions are turning to chatbots for help with mental health but a technology that can\u2019t go beyond words won\u2019t heal them",
+    "link": "https://www.ft.com/content/ab9e2f3e-1586-4c63-b423-6a179437fc13?syn-25a6b1a6=1",
     "evidence_weight": 3,
-    "notes": "ET - Tech"
+    "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-10-10T07:21:18.672593",
+    "captured_at": "2026-10-11T07:25:54.194338",
     "source_channel": "rss",
     "source_type": "news",
-    "geo_primary": "India",
+    "geo_primary": "Global",
     "india_relevance": "Medium",
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Apple names insider Steve Smith as new M&amp;A chief, memo shows",
-    "snippet": "Perica, a more than 17-year veteran of Apple's M&amp;A and corporate development function, also took oversight of iCloud, Fitness+ and News, among other businesses, in 2023, the memo written by services chief Eddy Cue said.",
-    "link": "https://economictimes.indiatimes.com/tech/technology/apple-names-insider-steve-smith-as-new-ma-chief-memo-shows/articleshow/134828173.cms",
+    "title": "What if AI prefers CVs written by AI?",
+    "snippet": "The signs are that it does and one law firm\u2019s experience is revealing",
+    "link": "https://www.ft.com/content/b7671d34-878e-45ae-ba6e-fd83dfcdd46c?syn-25a6b1a6=1",
     "evidence_weight": 3,
-    "notes": "ET - Tech"
+    "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-10-10T07:21:19.011988",
+    "captured_at": "2026-10-11T07:25:54.194341",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "Global",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Russia steps up bid to kill European defence chiefs, spy agencies warn",
+    "snippet": "Companies increase personal security for top executives as Kremlin orders expansion of sabotage and \u2018hybrid\u2019 operations",
+    "link": "https://www.ft.com/content/5da2dd05-9583-4a75-b018-2c5024383ec4?syn-25a6b1a6=1",
+    "evidence_weight": 3,
+    "notes": "FT - Technology"
+  },
+  {
+    "captured_at": "2026-10-11T07:25:54.194344",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "Global",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Academic publishing is a study in fighting AI slop",
+    "snippet": "Original thought, especially in the humanities, is more likely to remain the preserve of humans",
+    "link": "https://www.ft.com/content/ec58cb02-fe44-4d64-af8c-eca22bfa3be3?syn-25a6b1a6=1",
+    "evidence_weight": 3,
+    "notes": "FT - Technology"
+  },
+  {
+    "captured_at": "2026-10-11T07:25:54.194347",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "Global",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Nvidia in talks to acquire US \u2018open\u2019 model start-up Reflection AI",
+    "snippet": "Donald Trump\u2019s administration hopes the company will rival cheap Chinese alternatives such as DeepSeek",
+    "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1",
+    "evidence_weight": 3,
+    "notes": "FT - Technology"
+  },
+  {
+    "captured_at": "2026-10-11T07:25:54.194349",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "Global",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "AI borrowing slows as investors grow wary of debt binge",
+    "snippet": "Appetite for financing infrastructure boom is tested after months of record-breaking bond issuance",
+    "link": "https://www.ft.com/content/9c13d40e-d2b2-45d5-921c-a68cd4b308f9?syn-25a6b1a6=1",
+    "evidence_weight": 3,
+    "notes": "FT - Technology"
+  },
+  {
+    "captured_at": "2026-10-11T07:25:54.194352",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "Global",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "The world of one trade \u2014 AI",
+    "snippet": "Investor portfolios have become alarmingly reliant on the fortunes of just one bet on the build-out of an uncertain technology",
+    "link": "https://www.ft.com/content/3f54c442-c2b7-4876-a960-5229951c9a46?syn-25a6b1a6=1",
+    "evidence_weight": 3,
+    "notes": "FT - Technology"
+  },
+  {
+    "captured_at": "2026-10-11T07:25:54.194354",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -315,7 +420,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-10-10T07:21:19.011999",
+    "captured_at": "2026-10-11T07:25:54.194357",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -330,7 +435,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-10-10T07:21:19.012002",
+    "captured_at": "2026-10-11T07:25:54.194359",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -345,112 +450,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-10-10T07:21:19.012006",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Why OpenAI\u2019s revenue numbers really matter",
-    "snippet": "Vague figures may lay the groundwork for inflated valuations when much-hyped companies finally go public",
-    "link": "https://www.ft.com/content/58e684a0-b8ed-4d7a-a2d6-6bf739cb2fa2?syn-25a6b1a6=1",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-10-10T07:21:19.012009",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "The hazy OpenAI growth metric driving Wall Street",
-    "snippet": "Revelations that the AI giant\u2019s annualised revenues were $20bn less than previously reported triggered volatility in US stocks",
-    "link": "https://www.ft.com/content/62653892-2333-4953-a8d5-cfd760ae3257?syn-25a6b1a6=1",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-10-10T07:21:19.012012",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "US telcos shed $60bn in value after SpaceX announces spectrum purchase",
-    "snippet": "Elon Musk takes big step towards launching Starlink mobile service for US consumers",
-    "link": "https://www.ft.com/content/8c3f95ec-2428-4102-9f67-b707f1264c69?syn-25a6b1a6=1",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-10-10T07:21:19.012015",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "How to shield your portfolio if AI goes ka-boom",
-    "snippet": "If you still wanted to own stocks, it used to be impossible to avoid the fallout. Not any more",
-    "link": "https://www.ft.com/content/ee329e29-aec9-4876-829e-022683f425f8?syn-25a6b1a6=1",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-10-10T07:21:19.012017",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Ukraine strikes Russian tech giant\u2019s data centres",
-    "snippet": "Kyiv attacks facilities of Yandex, known as \u2018Russia\u2019s Google\u2019, in retaliation for strikes on its digital infrastructure",
-    "link": "https://www.ft.com/content/b90417e7-4d32-48cc-a508-5d405e7cd2ee?syn-25a6b1a6=1",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-10-10T07:21:19.012020",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Computer scientist David Silver: \u2018Where are we going without AI?\u2019",
-    "snippet": "The architect of Google DeepMind\u2019s AlphaGo on building machines that can teach themselves \u2014 and why he feels a moral obligation to advance the technology",
-    "link": "https://www.ft.com/content/462c303b-b96c-4262-a7ca-e9ae7e440828?syn-25a6b1a6=1",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-10-10T07:21:19.012023",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Burnham pledges to end use of non-compete clauses",
-    "snippet": "Prime minister says he will legislate against restrictive practices in employment contracts, which are a \u2018drag on innovation\u2019",
-    "link": "https://www.ft.com/content/297ca864-737c-4112-b368-f21a20cc78d2?syn-25a6b1a6=1",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-10-10T07:21:19.145991",
+    "captured_at": "2026-10-11T07:25:54.435311",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -465,7 +465,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-10-10T07:21:19.146004",
+    "captured_at": "2026-10-11T07:25:54.435322",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -480,7 +480,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-10-10T07:21:19.146008",
+    "captured_at": "2026-10-11T07:25:54.435325",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -495,7 +495,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-10-10T07:21:19.146012",
+    "captured_at": "2026-10-11T07:25:54.435328",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -510,7 +510,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-10-10T07:21:19.146016",
+    "captured_at": "2026-10-11T07:25:54.435332",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -525,7 +525,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-10-10T07:21:19.146019",
+    "captured_at": "2026-10-11T07:25:54.435334",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -540,7 +540,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-10-10T07:21:19.146022",
+    "captured_at": "2026-10-11T07:25:54.435337",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -555,7 +555,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-10-10T07:21:19.146026",
+    "captured_at": "2026-10-11T07:25:54.435340",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -570,7 +570,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-10-10T07:21:19.146029",
+    "captured_at": "2026-10-11T07:25:54.435343",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -585,7 +585,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-10-10T07:21:19.146032",
+    "captured_at": "2026-10-11T07:25:54.435346",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
