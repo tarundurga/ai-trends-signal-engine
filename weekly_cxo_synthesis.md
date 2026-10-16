@@ -1,4 +1,4 @@
-# Weekly AI Work & Skills Synthesis — Week of 2026-10-09
+# Weekly AI Work & Skills Synthesis — Week of 2026-10-16
 
 ## 1. What materially changed this week
 This week marked a shift from exploratory AI conversations toward more explicit discussions around how work, roles, and accountability need to change as AI becomes embedded in daily operations.
@@ -14,7 +14,7 @@ Mid-sized organisations (19 signals) are prioritising speed and leverage, expect
 ## 4. Skills & roles leaders should start preparing for
 Leaders should begin preparing for hybrid roles that combine domain expertise, judgement, and AI fluency rather than standalone AI specialists.
 
-Recurring skill signals this week include: design, agents?, python, sql, training.
+Recurring skill signals this week include: design, agents?, evaluation, training.
 
 ## 5. What decisions should NOT be rushed yet
 - Fully autonomous, agent-driven decision systems
