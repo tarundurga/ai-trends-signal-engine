@@ -1,4 +1,4 @@
-# LinkedIn Drafts — Week of 2026-10-09
+# LinkedIn Drafts — Week of 2026-10-16
 
 ## Draft 1 — CXO lens (decision-grade)
 **Hook:** Most AI strategies are still tool strategies. That’s the wrong unit of change.
@@ -63,7 +63,7 @@ A lot of organisations are optimising for training completion and tool usage.
 But the real question is: are decisions getting better?
 
 **What people are saying:** ‘We need more AI tools / pilots to move faster.’
-**What’s actually happening (signals):** Signals point more strongly to enablement + role change + governance than tool novelty (this week: largecap=10, midcap=19; trend_snapshot=2026-W40). Hiring signals increasingly expect AI-in-role rather than ‘AI team’ add-ons.
+**What’s actually happening (signals):** Signals point more strongly to enablement + role change + governance than tool novelty (this week: largecap=10, midcap=19; trend_snapshot=2026-W41). Hiring signals increasingly expect AI-in-role rather than ‘AI team’ add-ons.
 **Why this matters (India):** In India, tool adoption outpaces role clarity. Without explicit accountability, you risk inconsistent outputs and manager confusion—especially in large, distributed teams.
 **Safer move for leaders:** Start with role redesign + manager guidance for 2–3 workflows, then scale tools and standards behind that.
 
