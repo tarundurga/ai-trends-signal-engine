@@ -1,6 +1,66 @@
 [
   {
-    "captured_at": "2026-10-25T06:22:49.756985",
+    "captured_at": "2026-10-26T06:32:33.780340",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Grand Theft Auto VI launch: How is the highly anticipated game moving calendars as fever grips workforce",
+    "snippet": "The survey found that among the 30% of gamers considering time off, about 35-36% admitted they would call in \u201csick\u201d if they took the day off.",
+    "link": "https://www.livemint.com/technology/grand-theft-auto-vi-launch-how-is-the-highly-anticipated-game-moving-calendars-as-fever-grips-workforce-11792988719986.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-10-26T06:32:33.780363",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Deepinder Goyal\u2019s Temple brain wearable:  \u20b985,000 price, pre-order date and features",
+    "snippet": "Deepinder Goyal\u2019s Temple brain-monitoring wearable is reportedly priced at  \u20b985,000, including a lifetime subscription, with pre-orders opening on November 1, 2026. The device tracks changes in cerebral blood flow and generates an Entropy score to indicate physiological strain.",
+    "link": "https://www.livemint.com/technology/tech-news/deepinder-goyal-s-temple-brain-wearable-rs-85-000-price-pre-order-date-and-features-11792924840816.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-10-26T06:32:33.780367",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Tech Layoffs 2026: Job cuts near 2 lakh globally as big tech like Microsoft, Google, Oracle, Meta &amp; more pivot to AI",
+    "snippet": "Tech companies are utilising job cuts to demonstrate a commitment to margin expansion, pushing stock prices higher even as they announce internal restructuring.",
+    "link": "https://www.livemint.com/technology/tech-news/tech-layoffs-2026-job-cuts-near-2-lakh-globally-as-big-tech-like-microsoft-google-oracle-meta-more-pivot-to-ai-11792917241824.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-10-26T06:32:33.780371",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Less than 20 folds, one cracked screen: iPhone Duo buyers raise durability concerns",
+    "snippet": "Apple iPhone Duo buyers have reported cracked inner screens near the hinge within hours of use, with one user claiming the display broke after fewer than 20 folds. Images shared on Reddit reportedly show similar damage across multiple devices, raising concerns about the foldable phone\u2019s durability.",
+    "link": "https://www.livemint.com/technology/tech-news/less-than-20-folds-one-cracked-screen-iphone-duo-buyers-raise-durability-concerns-11792913741891.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-10-26T06:32:33.780374",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -15,7 +75,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-10-25T06:22:49.757001",
+    "captured_at": "2026-10-26T06:32:33.780378",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -30,7 +90,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-10-25T06:22:49.757005",
+    "captured_at": "2026-10-26T06:32:33.780381",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -45,7 +105,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-10-25T06:22:49.757009",
+    "captured_at": "2026-10-26T06:32:33.780386",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -60,7 +120,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-10-25T06:22:49.757012",
+    "captured_at": "2026-10-26T06:32:33.780390",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -75,7 +135,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-10-25T06:22:49.757015",
+    "captured_at": "2026-10-26T06:32:33.780394",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -90,67 +150,97 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-10-25T06:22:49.757018",
+    "captured_at": "2026-10-26T06:32:34.081697",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
-    "india_relevance": "High",
+    "india_relevance": "Medium",
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "HMD 2660 Flip Senior Edition with AI Companion: What it offers specifically for senior citizens",
-    "snippet": "AI companion Mary is available around the clock and can discuss topics such as history and nature, share stories, answer questions, play memory games or simply listen.",
-    "link": "https://www.livemint.com/technology/hmd-2660-flip-senior-edition-with-ai-companion-what-it-offers-specifically-for-senior-citizens-11792779678315.html",
+    "title": "From Carnegie to Claude: AI wealth could reshape philanthropy",
+    "snippet": "A wave of American wealth created by artificial intelligence companies could produce some of the largest charitable sums since the era of Andrew Carnegie and John D. Rockefeller, raising questions about where the money goes. Nan Ransohoff of payments firm Stripe has described the moment as a \"third ",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/from-carnegie-to-claude-ai-wealth-could-reshape-philanthropy/articleshow/135203704.cms",
     "evidence_weight": 3,
-    "notes": "Mint - Tech"
+    "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-10-25T06:22:49.757022",
+    "captured_at": "2026-10-26T06:32:34.081709",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
-    "india_relevance": "High",
+    "india_relevance": "Medium",
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Vivo X500 series Europe launch on October 27: Expected camera specs, battery capacity and key features",
-    "snippet": "The vivo X500 series is expected to focus on photography, video recording and AI-powered productivity.",
-    "link": "https://www.livemint.com/technology/tech-news/vivo-x500-series-europe-launch-on-october-27-expected-camera-specs-battery-capacity-and-key-features-11792767262206.html",
+    "title": "Japanese companies compensate users as cyberattacks buffet economy",
+    "snippet": "GMO Internet Group said customers would be compensated for losses stemming from unauthorised access following a cyberattack on its foreign exchange trading service, and all customers would receive 5,000 yen ($32) as \"an initial gesture of good faith,\" CEO Masatoshi Kumagai said in a blog post on Sun",
+    "link": "https://economictimes.indiatimes.com/tech/technology/japanese-companies-compensate-users-as-cyberattacks-buffet-economy/articleshow/135202436.cms",
     "evidence_weight": 3,
-    "notes": "Mint - Tech"
+    "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-10-25T06:22:49.757026",
+    "captured_at": "2026-10-26T06:32:34.081714",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
-    "india_relevance": "High",
+    "india_relevance": "Medium",
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Apple iPhone 17 Pro price drops to  \u20b972,050 on Flipkart with exchange and bank offers: Check how the deal works",
-    "snippet": "Apple iPhone 17 Pro (256GB) is available at an effective price of  \u20b972,050 on Flipkart, against its listed price of  \u20b91,34,900. Buyers can get an exchange discount of  \u20b957,850 on an eligible iPhone 16 Pro, along with an additional  \u20b95,000 HDFC Bank discount.",
-    "link": "https://www.livemint.com/technology/tech-news/apple-iphone-17-pro-price-drops-to-rs-72-050-on-flipkart-with-exchange-and-bank-offers-check-how-the-deal-works-11792753671959.html",
+    "title": "Talent, compute and R&amp;D key to India's AI ambitions: Report",
+    "snippet": "India will need to strengthen its talent pool, research and development (R&amp;D) capabilities, computing infrastructure and data systems to translate advances in artificial intelligence (AI) and other emerging technologies into economic and social benefits, according to a report by KPMG.",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/talent-compute-and-rd-key-to-indias-ai-ambitions-report/articleshow/135201920.cms",
     "evidence_weight": 3,
-    "notes": "Mint - Tech"
+    "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-10-25T06:22:49.757030",
+    "captured_at": "2026-10-26T06:32:34.081718",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
-    "india_relevance": "High",
+    "india_relevance": "Medium",
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Vivo Y600 with Guinness record-holding 10,000mAh battery to launch next week: Check date, design and expected specs",
-    "snippet": "Vivo Y600 5G will launch in China on October 30, featuring a massive 10,000mAh battery and a design revealed in white and blue colour options. The smartphone reportedly achieved a Guinness World Records title after completing a continuous livestream test lasting 32 hours and 37 minutes.",
-    "link": "https://www.livemint.com/technology/vivo-y600-with-guinness-record-holding-10-000mah-battery-to-launch-next-week-check-date-design-and-expected-specs-11792746104479.html",
+    "title": "Elon Musk says SpaceX raised $40 billion in debt for GPUs",
+    "snippet": "Musk's post comes after Reuters reported earlier this month that SpaceX is in talks with banks and asset managers to raise $40 billion for the purchase of \u200bNvidia artificial intelligence chips.",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/elon-musk-says-spacex-raised-40-billion-in-debt-for-gpus/articleshow/135201386.cms",
     "evidence_weight": 3,
-    "notes": "Mint - Tech"
+    "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-10-25T06:22:50.313211",
+    "captured_at": "2026-10-26T06:32:34.081721",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Anthropic's Claude accessed Georgia state vote count information behind paywall",
+    "snippet": "Anthropic's Claude bypassed a paywall and accessed publicly available US state of Georgia voter data without human authorization, Axios reported on Sunday.",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropics-claude-accessed-georgia-state-vote-count-information-behind-paywall/articleshow/135201024.cms",
+    "evidence_weight": 3,
+    "notes": "ET - Tech"
+  },
+  {
+    "captured_at": "2026-10-26T06:32:34.081725",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Unacademy founders plan AI fund; Flipkart\u2019s premium push",
+    "snippet": "Happy Monday! Unacademy\u2019s founders are raising a fund focused on AI and deeptech. This and more in today\u2019s ETtech Morning Dispatch.",
+    "link": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/unacademy-founders-plan-ai-fund-flipkarts-premium-push/articleshow/135200550.cms",
+    "evidence_weight": 3,
+    "notes": "ET - Tech"
+  },
+  {
+    "captured_at": "2026-10-26T06:32:34.081728",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -165,7 +255,7 @@
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-10-25T06:22:50.313223",
+    "captured_at": "2026-10-26T06:32:34.081733",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -180,7 +270,7 @@
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-10-25T06:22:50.313227",
+    "captured_at": "2026-10-26T06:32:34.081736",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -195,7 +285,7 @@
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-10-25T06:22:50.313230",
+    "captured_at": "2026-10-26T06:32:34.081740",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -210,97 +300,112 @@
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-10-25T06:22:50.313233",
+    "captured_at": "2026-10-26T06:32:34.333303",
     "source_channel": "rss",
     "source_type": "news",
-    "geo_primary": "India",
+    "geo_primary": "Global",
     "india_relevance": "Medium",
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Moonshot curbs hacking ability in new Kimi model as fears grow over AI-powered cyberattacks",
-    "snippet": "Beijing-based Moonshot announced the curbs while introducing Kimi K3.1 Pro, which it describes as its most capable 3-trillion-parameter-class open-weight model. The company plans to publish the model's weights - files allowing outside developers to run and modify it on their own systems - by Novembe",
-    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/moonshot-curbs-hacking-ability-in-new-kimi-model-as-fears-grow-over-ai-powered-cyberattacks/articleshow/135162609.cms",
+    "title": "UK financial ombudsman hits phones to cut through AI hallucinations",
+    "snippet": "Public sector bodies and courts are being weighed down by tech-assisted complaints that are lengthy and inaccurate",
+    "link": "https://www.ft.com/content/5f56b300-f8a6-4834-a2e6-75902880ef87?syn-25a6b1a6=1",
     "evidence_weight": 3,
-    "notes": "ET - Tech"
+    "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-10-25T06:22:50.313236",
+    "captured_at": "2026-10-26T06:32:34.333315",
     "source_channel": "rss",
     "source_type": "news",
-    "geo_primary": "India",
+    "geo_primary": "Global",
     "india_relevance": "Medium",
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "China's Moonshot AI launches Kimi K3.1 Pro; plans full model weights release by November",
-    "snippet": "Chinese artificial intelligence (AI) company Moonshot AI has unveiled Kimi K3.1 Pro, a 3-trillion-parameter open-weight AI model featuring a 1-million-token context window, alongside a high-speed variant, Kimi K3.1 Pro Highspeed, according to a company statement.",
-    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinas-moonshot-ai-launches-kimi-k3-1-pro-plans-full-model-weights-release-by-nov/articleshow/135162538.cms",
+    "title": "Chinese wind turbine maker builds European firewall from Beijing",
+    "snippet": "Ming Yang says Octopus joint venture and separate legal entities will convince customers that China cannot access data",
+    "link": "https://www.ft.com/content/fa2bdd53-29dc-4e3f-bbd2-5510da3cd88c?syn-25a6b1a6=1",
     "evidence_weight": 3,
-    "notes": "ET - Tech"
+    "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-10-25T06:22:50.313240",
+    "captured_at": "2026-10-26T06:32:34.333320",
     "source_channel": "rss",
     "source_type": "news",
-    "geo_primary": "India",
+    "geo_primary": "Global",
     "india_relevance": "Medium",
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "UK government sets out $800 million for AI security funding",
-    "snippet": "The biggest chunk of funding will go to a new biosecurity initiative, including \u00a3100 million for a laboratory using AI to detect biological threats and \u00a365 million to develop countermeasures against pathogens.",
-    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/uk-government-sets-out-800-million-of-ai-security-funding/articleshow/135162312.cms",
+    "title": "We need to know if AI agents are accessing British services",
+    "snippet": "The recent hack of Australian health data is a reminder that this is the biggest cyber security threat facing the UK",
+    "link": "https://www.ft.com/content/a2be99e5-b952-495f-9776-1ce7e4f994aa?syn-25a6b1a6=1",
     "evidence_weight": 3,
-    "notes": "ET - Tech"
+    "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-10-25T06:22:50.313243",
+    "captured_at": "2026-10-26T06:32:34.333323",
     "source_channel": "rss",
     "source_type": "news",
-    "geo_primary": "India",
+    "geo_primary": "Global",
     "india_relevance": "Medium",
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Instacart in talks for sale: The Information",
-    "snippet": "Shares of Instacart closed about 9% higher and were up nearly 1% in extended trading. The company currently has a market value of about $12 billion.",
-    "link": "https://economictimes.indiatimes.com/tech/startups/instacart-in-talks-for-sale-the-information/articleshow/135162186.cms",
+    "title": "Tesla\u2019s AI ambitions take flight as rivals race to keep up",
+    "snippet": "SpaceX merger could give fresh thrust to carmaker\u2019s push into autonomous driving and software as Musk seeks to unlock new profits",
+    "link": "https://www.ft.com/content/c8db9b39-1922-41f3-b8e9-4488d16f8a2c?syn-25a6b1a6=1",
     "evidence_weight": 3,
-    "notes": "ET - Tech"
+    "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-10-25T06:22:50.313246",
+    "captured_at": "2026-10-26T06:32:34.333326",
     "source_channel": "rss",
     "source_type": "news",
-    "geo_primary": "India",
+    "geo_primary": "Global",
     "india_relevance": "Medium",
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "What to know about the AI-detected security bug impacting wide swaths of the internet",
-    "snippet": "PHP is a widely used general-purpose scripting language that is geared toward web development, and thus, it powers the majority of websites around the world. When the organization behind the language and the FBI's cyber division warned Wednesday of significant vulnerabilities in the language, govern",
-    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/what-to-know-about-the-ai-detected-security-bug-impacting-wide-swaths-of-the-internet/articleshow/135162036.cms",
+    "title": "AI has changed banking \u2014 but not the lessons I learnt",
+    "snippet": "A long career brings experience in human behaviour and institutional politics that is valuable even as tech reshapes industry",
+    "link": "https://www.ft.com/content/16a51be0-ddfd-4e45-ae8b-236d6ff99d63",
     "evidence_weight": 3,
-    "notes": "ET - Tech"
+    "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-10-25T06:22:50.313249",
+    "captured_at": "2026-10-26T06:32:34.333330",
     "source_channel": "rss",
     "source_type": "news",
-    "geo_primary": "India",
+    "geo_primary": "Global",
     "india_relevance": "Medium",
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "PHP Foundation 'under-funded' with one full-time staff member, director says",
-    "snippet": "The discovery of two serious flaws in PHP this week set off a global scramble to keep websites safe from hackers, showing just how critical the three-decade-old open-source programming language is to the internet.",
-    "link": "https://economictimes.indiatimes.com/tech/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says/articleshow/135162044.cms",
+    "title": "Toyota takes on Tesla and China in humanoid robot race",
+    "snippet": "Japanese group uses 20 years of research to commercialise intelligent robots",
+    "link": "https://www.ft.com/content/8bf93407-6b93-4ebb-b54b-f290ebd563e3?syn-25a6b1a6=1",
     "evidence_weight": 3,
-    "notes": "ET - Tech"
+    "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-10-25T06:22:50.715666",
+    "captured_at": "2026-10-26T06:32:34.333333",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "Global",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Why students in a midterm battleground fear AI will ruin their future",
+    "snippet": "Young people are increasingly anxious \u2014 and angry \u2014 about the Big Tech revolution and what it means for their job prospects",
+    "link": "https://www.ft.com/content/0a86d4f5-6046-4c1c-89e9-90583cff33f9?syn-25a6b1a6=1",
+    "evidence_weight": 3,
+    "notes": "FT - Technology"
+  },
+  {
+    "captured_at": "2026-10-26T06:32:34.333336",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -315,7 +420,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-10-25T06:22:50.715676",
+    "captured_at": "2026-10-26T06:32:34.333340",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -330,7 +435,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-10-25T06:22:50.715680",
+    "captured_at": "2026-10-26T06:32:34.333343",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -345,112 +450,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-10-25T06:22:50.715683",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "SoftBank-backed drone maker wants every farmer to \u2018have their own robot\u2019",
-    "snippet": "Chinese start-up XAG believes pilotless crop sprayers are the answer to a dwindling workforce and rising temperatures",
-    "link": "https://www.ft.com/content/9fe60016-1520-4bfd-bcfc-f30caa0b1600?syn-25a6b1a6=1",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-10-25T06:22:50.715687",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Musk\u2019s bet of the century",
-    "snippet": "The proposed Tesla-SpaceX merger is going all in on AI",
-    "link": "https://www.ft.com/content/dfe64d5e-f5f3-444f-a233-a516483fa6f0?syn-25a6b1a6=1",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-10-25T06:22:50.715690",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Pegasus spyware founder urges governments to trust his tech and ditch US AI",
-    "snippet": "Former NSO Group boss Shalev Hulio seeks to reinvent himself as a champion of sovereign AI and national security",
-    "link": "https://www.ft.com/content/f9592534-1a3d-409d-9a57-f05919440032?syn-25a6b1a6=1",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-10-25T06:22:50.715693",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "The money questions children ask AI chatbots",
-    "snippet": "Forty per cent of UK youngsters in a survey had asked AI for financial advice",
-    "link": "https://www.ft.com/content/9c00e8f9-b7dc-4893-8b34-66a4bb5a5605",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-10-25T06:22:50.715695",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "How iTunes came back from the dead",
-    "snippet": "Record labels and artists including Taylor Swift and Ariana Grande are using the throwback music store to bolster their chart position and cash in on their fandom",
-    "link": "https://www.ft.com/content/5a21a7fe-3929-4e11-b571-8ce4bfd778ec",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-10-25T06:22:50.715698",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "London\u2019s tennis players cry fault as bots snap up court bookings",
-    "snippet": "\u2018Sniper bots\u2019 that trawl reservation websites are distorting the fight for slots on the capital\u2019s 1,400 public courts",
-    "link": "https://www.ft.com/content/ec4f1473-dfcc-45bc-9705-8c7175f51737?syn-25a6b1a6=1",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-10-25T06:22:50.715701",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "UK sets up AI lab to monitor biosecurity threats",
-    "snippet": "Move comes amid widespread fears that users could create new viruses and bioweapons",
-    "link": "https://www.ft.com/content/e4481867-fecc-48fc-ad9d-4daaf05d14ba?syn-25a6b1a6=1",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-10-25T06:22:50.951866",
+    "captured_at": "2026-10-26T06:32:34.465769",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -465,7 +465,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-10-25T06:22:50.951877",
+    "captured_at": "2026-10-26T06:32:34.465783",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -480,7 +480,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-10-25T06:22:50.951881",
+    "captured_at": "2026-10-26T06:32:34.465788",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -495,7 +495,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-10-25T06:22:50.951885",
+    "captured_at": "2026-10-26T06:32:34.465793",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -510,7 +510,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-10-25T06:22:50.951889",
+    "captured_at": "2026-10-26T06:32:34.465797",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -525,7 +525,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-10-25T06:22:50.951892",
+    "captured_at": "2026-10-26T06:32:34.465801",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -540,7 +540,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-10-25T06:22:50.951896",
+    "captured_at": "2026-10-26T06:32:34.465805",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -555,7 +555,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-10-25T06:22:50.951899",
+    "captured_at": "2026-10-26T06:32:34.465809",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -570,7 +570,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-10-25T06:22:50.951902",
+    "captured_at": "2026-10-26T06:32:34.465813",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -585,7 +585,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-10-25T06:22:50.951905",
+    "captured_at": "2026-10-26T06:32:34.465816",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
