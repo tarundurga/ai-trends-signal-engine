@@ -1,6 +1,51 @@
 [
   {
-    "captured_at": "2026-10-31T07:09:36.470668",
+    "captured_at": "2026-11-01T07:43:08.684378",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "IT hardware reseller lists GPUs from decommissioned Nvidia supercomputer on eBay for $60 million \u2014 What we know",
+    "snippet": "A reseller listed a decommissioned NVIDIA supercomputer on eBay for $59.7 million. The system includes 300 racks, 9,600 A100 GPUs and 4,200 AMD EPYC processors. Here's all we know\u2026&amp;nbsp;",
+    "link": "https://www.livemint.com/technology/nvidia-supercomputer-decommissioned-ebay-sale-a100-chips-gpus-it-hardware-reseller-60-million-best-offer-free-shipping-11793434326099.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-11-01T07:43:08.684393",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "AI search gains 3-fold influence over traditional search in shopping decisions: McKinsey",
+    "snippet": "Artificial intelligence-powered search tools are becoming a stronger influence on consumer buying decisions than traditional search engines, with nearly one-third of AI shoppers identifying them as the biggest factor behind their most recent purchase, according to a report by McKinsey.",
+    "link": "https://www.livemint.com/technology/ai-search-gains-3-fold-influence-over-traditional-search-in-shopping-decisions-mckinsey-11793434097444.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-11-01T07:43:08.684397",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "India",
+    "india_relevance": "High",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "HMD unveils new Nokia 2360 Flip phone for seniors with family assist, SOS features: Check specs, colours and more",
+    "snippet": "HMD has unveiled its new Nokia 2360 Flip 2G phone built for use by senior citizens, offering a number of useful features such as family assist, SOS and parental control. Check the specs, colours and other details here.&amp;nbsp;",
+    "link": "https://www.livemint.com/technology/gadgets/hmd-unveils-new-nokia-2360-flip-phone-india-launch-price-seniors-family-assist-sos-parent-control-features-specs-colours-11793429445556.html",
+    "evidence_weight": 3,
+    "notes": "Mint - Tech"
+  },
+  {
+    "captured_at": "2026-11-01T07:43:08.684400",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -15,7 +60,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-10-31T07:09:36.470680",
+    "captured_at": "2026-11-01T07:43:08.684402",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -30,7 +75,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-10-31T07:09:36.470683",
+    "captured_at": "2026-11-01T07:43:08.684405",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -45,7 +90,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-10-31T07:09:36.470686",
+    "captured_at": "2026-11-01T07:43:08.684407",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -60,7 +105,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-10-31T07:09:36.470688",
+    "captured_at": "2026-11-01T07:43:08.684411",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -75,7 +120,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-10-31T07:09:36.470690",
+    "captured_at": "2026-11-01T07:43:08.684415",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -90,7 +135,7 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-10-31T07:09:36.470693",
+    "captured_at": "2026-11-01T07:43:08.684418",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -105,52 +150,22 @@
     "notes": "Mint - Tech"
   },
   {
-    "captured_at": "2026-10-31T07:09:36.470696",
+    "captured_at": "2026-11-01T07:43:09.202639",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
-    "india_relevance": "High",
+    "india_relevance": "Medium",
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "Shubman Gill joins Temple wearable users: What Deepinder Goyal's  \u20b985,000 device can track",
-    "snippet": "Shubman Gill tested Zomato founder Deepinder Goyal\u2019s unreleased Temple AI fitness tracking device during India\u2019s practice session in Auckland on 29 October. The forehead-mounted wearable is designed to track cerebral blood flow, nervous system responses and cognitive stress during physical activity.",
-    "link": "https://www.livemint.com/technology/tech-news/shubman-gill-tests-deepinder-goyal-s-temple-ai-fitness-device-during-india-s-practice-session-in-auckland-11793333484036.html",
+    "title": "Festive spending drives record UPI transactions in October",
+    "snippet": "Festive spending pushed UPI transactions to a record 25.47 billion in October, up 23% year-on-year, while transaction value rose 16% to a record \u20b931.53 lakh crore, according to NPCI data. Average daily transaction value crossed \u20b91 lakh crore for the first time, driven by festive shopping, dining and",
+    "link": "https://economictimes.indiatimes.com/tech/technology/festive-spending-drives-record-upi-transactions-in-october/articleshow/135420426.cms",
     "evidence_weight": 3,
-    "notes": "Mint - Tech"
+    "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-10-31T07:09:36.470699",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Amazon Prime Video on track to generate tens of billions in revenue, Andy Jassy confirms",
-    "snippet": "Amazon CEO Andy Jassy says Prime Video is now profitable and on track to generate tens of billions of dollars in revenue. Amazon MGM Studios has earned over $1.2 billion at the global box office in 2026, led by hits such as \u2018Project Hail Mary\u2019.",
-    "link": "https://www.livemint.com/technology/apps/amazon-prime-video-on-track-to-generate-tens-of-billions-in-revenue-andy-jassy-confirms-11793331573581.html",
-    "evidence_weight": 3,
-    "notes": "Mint - Tech"
-  },
-  {
-    "captured_at": "2026-10-31T07:09:36.470705",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "India",
-    "india_relevance": "High",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Flipkart Big Bang Diwali Sale 2026: iPhone 17 at  \u20b979,999; iPhone Air at  \u20b999,900 \u2014 check offers",
-    "snippet": "Flipkart Big Bang Diwali Sale 2026 began on October 28, offering discounts on Apple iPhones, laptops, wearables and home appliances. The iPhone 17 is available at an effective price of  \u20b979,999, while the iPhone 15 is listed at  \u20b959,999 with eligible offers.",
-    "link": "https://www.livemint.com/technology/tech-news/flipkart-big-bang-diwali-sale-2026-iphone-17-at-rs-79-999-iphone-air-at-rs-99-900-check-offers-11793270813184.html",
-    "evidence_weight": 3,
-    "notes": "Mint - Tech"
-  },
-  {
-    "captured_at": "2026-10-31T07:09:37.352979",
+    "captured_at": "2026-11-01T07:43:09.202649",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -165,7 +180,7 @@
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-10-31T07:09:37.352990",
+    "captured_at": "2026-11-01T07:43:09.202653",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -180,7 +195,7 @@
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-10-31T07:09:37.352994",
+    "captured_at": "2026-11-01T07:43:09.202656",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -195,7 +210,7 @@
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-10-31T07:09:37.352996",
+    "captured_at": "2026-11-01T07:43:09.202659",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -210,7 +225,7 @@
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-10-31T07:09:37.352999",
+    "captured_at": "2026-11-01T07:43:09.202661",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -225,7 +240,7 @@
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-10-31T07:09:37.353001",
+    "captured_at": "2026-11-01T07:43:09.202663",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -240,7 +255,7 @@
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-10-31T07:09:37.353003",
+    "captured_at": "2026-11-01T07:43:09.202666",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -255,7 +270,7 @@
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-10-31T07:09:37.353006",
+    "captured_at": "2026-11-01T07:43:09.202670",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -270,7 +285,7 @@
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-10-31T07:09:37.353008",
+    "captured_at": "2026-11-01T07:43:09.202673",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "India",
@@ -285,22 +300,52 @@
     "notes": "ET - Tech"
   },
   {
-    "captured_at": "2026-10-31T07:09:37.353010",
+    "captured_at": "2026-11-01T07:43:09.566819",
     "source_channel": "rss",
     "source_type": "news",
-    "geo_primary": "India",
+    "geo_primary": "Global",
     "india_relevance": "Medium",
     "org_name": "",
     "industry": "",
     "role_or_skill_hint": "",
-    "title": "PB Fintech, Delhivery improve Q2 profits; Binance's $6.3 billion caper",
-    "snippet": "PB Fintech on Friday reported a strong jump in profit and revenue for the July-September quarter. This and more in today\u2019s ETtech Top 5.",
-    "link": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/pb-fintech-q2-profit-surges-binance-suffers-6-3-billion-crypto-hack/articleshow/135363878.cms",
+    "title": "Bond investors sit out \u2018most consequential\u2019 US midterm elections in years",
+    "snippet": "Big fund managers are pressing \u2018pause\u2019 as vote and economic data releases loom",
+    "link": "https://www.ft.com/content/937308d7-aa2e-4dac-b19b-423d83bc1253?syn-25a6b1a6=1",
     "evidence_weight": 3,
-    "notes": "ET - Tech"
+    "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-10-31T07:09:37.798959",
+    "captured_at": "2026-11-01T07:43:09.566830",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "Global",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "FBI blames North Korean group for $6.3bn Binance cyber heist",
+    "snippet": "Crypto exchanges move to tighten security after record theft from world\u2019s biggest digital assets venue",
+    "link": "https://www.ft.com/content/c7062e37-86fd-45ef-8f58-573de0fcaaf0?syn-25a6b1a6=1",
+    "evidence_weight": 3,
+    "notes": "FT - Technology"
+  },
+  {
+    "captured_at": "2026-11-01T07:43:09.566833",
+    "source_channel": "rss",
+    "source_type": "news",
+    "geo_primary": "Global",
+    "india_relevance": "Medium",
+    "org_name": "",
+    "industry": "",
+    "role_or_skill_hint": "",
+    "title": "Investors trim growth bets over fears of US economy\u2019s AI exposure",
+    "snippet": "Return to bonds after long sell-off comes as concern rises about over-reliance on tech spending",
+    "link": "https://www.ft.com/content/56b0d5fa-829c-47b1-b07b-b4be18f60151?syn-25a6b1a6=1",
+    "evidence_weight": 3,
+    "notes": "FT - Technology"
+  },
+  {
+    "captured_at": "2026-11-01T07:43:09.566836",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -315,7 +360,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-10-31T07:09:37.798968",
+    "captured_at": "2026-11-01T07:43:09.566838",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -330,7 +375,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-10-31T07:09:37.798971",
+    "captured_at": "2026-11-01T07:43:09.566841",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -345,7 +390,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-10-31T07:09:37.798974",
+    "captured_at": "2026-11-01T07:43:09.566843",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -360,7 +405,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-10-31T07:09:37.798976",
+    "captured_at": "2026-11-01T07:43:09.566846",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -375,7 +420,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-10-31T07:09:37.798978",
+    "captured_at": "2026-11-01T07:43:09.566848",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -390,7 +435,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-10-31T07:09:37.798981",
+    "captured_at": "2026-11-01T07:43:09.566850",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -405,52 +450,7 @@
     "notes": "FT - Technology"
   },
   {
-    "captured_at": "2026-10-31T07:09:37.798983",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "What we know about the $6.3bn Binance hack",
-    "snippet": "Analysis suggests hackers bypassed standard methods used in crypto thefts",
-    "link": "https://www.ft.com/content/58fee10f-8a99-4e8b-835d-ddba5e434ce3?syn-25a6b1a6=1",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-10-31T07:09:37.798985",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "Did Anthropic value itself at $1.2tn in August?",
-    "snippet": "Not quite Navier-Stokes",
-    "link": "https://www.ft.com/content/60fb40ed-f1bf-416e-982b-1b9b80582ab4",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-10-31T07:09:37.798987",
-    "source_channel": "rss",
-    "source_type": "news",
-    "geo_primary": "Global",
-    "india_relevance": "Medium",
-    "org_name": "",
-    "industry": "",
-    "role_or_skill_hint": "",
-    "title": "How North Korea became a hacking superpower",
-    "snippet": "Cash-strapped state, cut off by sanctions, has invested heavily in cyber warfare to help support itself",
-    "link": "https://www.ft.com/content/46c03338-63d5-43fc-a946-ebcbe9e1c07a?syn-25a6b1a6=1",
-    "evidence_weight": 3,
-    "notes": "FT - Technology"
-  },
-  {
-    "captured_at": "2026-10-31T07:09:38.049836",
+    "captured_at": "2026-11-01T07:43:09.739788",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -465,7 +465,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-10-31T07:09:38.049849",
+    "captured_at": "2026-11-01T07:43:09.739800",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -480,7 +480,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-10-31T07:09:38.049852",
+    "captured_at": "2026-11-01T07:43:09.739803",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -495,7 +495,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-10-31T07:09:38.049855",
+    "captured_at": "2026-11-01T07:43:09.739806",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -510,7 +510,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-10-31T07:09:38.049857",
+    "captured_at": "2026-11-01T07:43:09.739810",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -525,7 +525,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-10-31T07:09:38.049861",
+    "captured_at": "2026-11-01T07:43:09.739813",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -540,7 +540,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-10-31T07:09:38.049863",
+    "captured_at": "2026-11-01T07:43:09.739816",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -555,7 +555,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-10-31T07:09:38.049866",
+    "captured_at": "2026-11-01T07:43:09.739819",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -570,7 +570,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-10-31T07:09:38.049868",
+    "captured_at": "2026-11-01T07:43:09.739821",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
@@ -585,7 +585,7 @@
     "notes": "MIT Tech Review"
   },
   {
-    "captured_at": "2026-10-31T07:09:38.049870",
+    "captured_at": "2026-11-01T07:43:09.739824",
     "source_channel": "rss",
     "source_type": "news",
     "geo_primary": "Global",
