@@ -1,4 +1,4 @@
-# Weekly AI Work & Skills Synthesis — Week of 2026-11-06
+# Weekly AI Work & Skills Synthesis — Week of 2026-11-13
 
 ## 1. What materially changed this week
 This week marked a shift from exploratory AI conversations toward more explicit discussions around how work, roles, and accountability need to change as AI becomes embedded in daily operations.
