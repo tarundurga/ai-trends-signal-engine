@@ -1,6 +1,6 @@
 [
   {
-    "captured_at": "2026-11-16T08:36:32.258160",
+    "captured_at": "2026-11-17T09:44:37.086020",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -16,7 +16,7 @@
     "notes": "greenhouse fetch error"
   },
   {
-    "captured_at": "2026-11-16T08:36:32.336660",
+    "captured_at": "2026-11-17T09:44:37.140423",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -32,7 +32,7 @@
     "notes": "greenhouse fetch error"
   },
   {
-    "captured_at": "2026-11-16T08:36:32.404150",
+    "captured_at": "2026-11-17T09:44:37.196499",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -48,7 +48,7 @@
     "notes": "greenhouse fetch error"
   },
   {
-    "captured_at": "2026-11-16T08:36:32.485726",
+    "captured_at": "2026-11-17T09:44:37.257554",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -64,7 +64,7 @@
     "notes": "greenhouse fetch error"
   },
   {
-    "captured_at": "2026-11-16T08:36:32.569197",
+    "captured_at": "2026-11-17T09:44:37.314543",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -85,7 +85,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-11-16T08:36:32.570959",
+    "captured_at": "2026-11-17T09:44:37.316519",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -105,7 +105,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-11-16T08:36:32.572060",
+    "captured_at": "2026-11-17T09:44:37.317738",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -125,7 +125,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-11-16T08:36:32.572910",
+    "captured_at": "2026-11-17T09:44:37.318686",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -145,7 +145,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-11-16T08:36:32.574197",
+    "captured_at": "2026-11-17T09:44:37.320150",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -165,7 +165,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-11-16T08:36:32.575120",
+    "captured_at": "2026-11-17T09:44:37.321191",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -185,7 +185,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-11-16T08:36:32.576009",
+    "captured_at": "2026-11-17T09:44:37.322202",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -206,7 +206,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-11-16T08:36:32.577344",
+    "captured_at": "2026-11-17T09:44:37.323699",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -226,7 +226,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-11-16T08:36:32.578210",
+    "captured_at": "2026-11-17T09:44:37.324639",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -236,17 +236,17 @@
     "industry": "",
     "role_or_skill_hint": "",
     "title": "Relationship Manager",
-    "snippet": "&lt;p&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;About&amp;nbsp;Groww&amp;nbsp;Mutual&amp;nbsp;Fund&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Groww Mutual Fund is on a mission to make mutual fund investing simple, transparent, and accessible for every Indian. As a digital-first AMC, we aim to build strong partner",
+    "snippet": "&lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;About&amp;nbsp;Groww&amp;nbsp;Mutual&amp;nbsp;Fund&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Groww Mutual Fund is on a mission to make mutual fund investing simple, transparent, and accessible for every Indian. As a digital-first AMC, we aim to build stro",
     "link": "https://job-boards.eu.greenhouse.io/groww/jobs/4528370101",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=India; team=Sales; created_at=2026-09-09T07:05:30-04:00",
+    "notes": "greenhouse; location=India; team=Sales; created_at=2026-11-16T06:15:12-05:00",
     "skill_hits": [
       "training"
     ],
     "ai_related": true
   },
   {
-    "captured_at": "2026-11-16T08:36:32.701964",
+    "captured_at": "2026-11-17T09:44:37.341445",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -262,7 +262,7 @@
     "notes": "lever fetch error"
   },
   {
-    "captured_at": "2026-11-16T08:36:32.970814",
+    "captured_at": "2026-11-17T09:44:37.356455",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -278,7 +278,7 @@
     "notes": "lever fetch error"
   },
   {
-    "captured_at": "2026-11-16T08:36:33.065977",
+    "captured_at": "2026-11-17T09:44:37.371254",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -294,7 +294,7 @@
     "notes": "lever fetch error"
   },
   {
-    "captured_at": "2026-11-16T08:36:36.890086",
+    "captured_at": "2026-11-17T09:44:37.394574",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -310,7 +310,7 @@
     "notes": "lever fetch error"
   },
   {
-    "captured_at": "2026-11-16T08:36:37.149243",
+    "captured_at": "2026-11-17T09:44:37.522859",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "error",
