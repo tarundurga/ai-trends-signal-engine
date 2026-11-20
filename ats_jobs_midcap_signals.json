@@ -1,6 +1,6 @@
 [
   {
-    "captured_at": "2026-11-19T09:30:38.227979",
+    "captured_at": "2026-11-20T09:11:11.486414",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -16,7 +16,7 @@
     "notes": "greenhouse fetch error"
   },
   {
-    "captured_at": "2026-11-19T09:30:38.318885",
+    "captured_at": "2026-11-20T09:11:11.537138",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -32,7 +32,7 @@
     "notes": "greenhouse fetch error"
   },
   {
-    "captured_at": "2026-11-19T09:30:38.520064",
+    "captured_at": "2026-11-20T09:11:11.733165",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -48,7 +48,7 @@
     "notes": "greenhouse fetch error"
   },
   {
-    "captured_at": "2026-11-19T09:30:38.600381",
+    "captured_at": "2026-11-20T09:11:11.799122",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -64,7 +64,7 @@
     "notes": "greenhouse fetch error"
   },
   {
-    "captured_at": "2026-11-19T09:30:38.681886",
+    "captured_at": "2026-11-20T09:11:11.857589",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -85,7 +85,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-11-19T09:30:38.684144",
+    "captured_at": "2026-11-20T09:11:11.860284",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -105,7 +105,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-11-19T09:30:38.685545",
+    "captured_at": "2026-11-20T09:11:11.861956",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -125,7 +125,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-11-19T09:30:38.686631",
+    "captured_at": "2026-11-20T09:11:11.863259",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -145,7 +145,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-11-19T09:30:38.688311",
+    "captured_at": "2026-11-20T09:11:11.865244",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -158,14 +158,14 @@
     "snippet": "&lt;div&gt;&lt;strong&gt;About Groww:&lt;/strong&gt;&lt;/div&gt; &lt;div&gt;We are a passionate group of people focused on making financial services accessible to every Indian through a multi-product platform. Each day, we help millions of customers take charge of their financial journey. Customer o",
     "link": "https://job-boards.eu.greenhouse.io/groww/jobs/5000618101",
     "evidence_weight": 5,
-    "notes": "greenhouse; location=Bengaluru-VTP, India; team=Compliance; created_at=2026-11-11T06:18:47-05:00",
+    "notes": "greenhouse; location=Bengaluru-VTP, India; team=Compliance; created_at=2026-11-20T03:50:24-05:00",
     "skill_hits": [
       "design"
     ],
     "ai_related": true
   },
   {
-    "captured_at": "2026-11-19T09:30:38.689490",
+    "captured_at": "2026-11-20T09:11:11.866642",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -185,7 +185,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-11-19T09:30:38.690635",
+    "captured_at": "2026-11-20T09:11:11.868040",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -206,7 +206,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-11-19T09:30:38.692367",
+    "captured_at": "2026-11-20T09:11:11.870084",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -226,7 +226,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-11-19T09:30:38.693447",
+    "captured_at": "2026-11-20T09:11:11.871368",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "job_posting",
@@ -246,7 +246,7 @@
     "ai_related": true
   },
   {
-    "captured_at": "2026-11-19T09:30:38.979097",
+    "captured_at": "2026-11-20T09:11:12.982269",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -262,7 +262,7 @@
     "notes": "lever fetch error"
   },
   {
-    "captured_at": "2026-11-19T09:30:39.257988",
+    "captured_at": "2026-11-20T09:11:13.318008",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -278,7 +278,7 @@
     "notes": "lever fetch error"
   },
   {
-    "captured_at": "2026-11-19T09:30:39.509525",
+    "captured_at": "2026-11-20T09:11:13.623536",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -294,7 +294,7 @@
     "notes": "lever fetch error"
   },
   {
-    "captured_at": "2026-11-19T09:30:39.943485",
+    "captured_at": "2026-11-20T09:11:13.978251",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "error",
@@ -310,7 +310,7 @@
     "notes": "lever fetch error"
   },
   {
-    "captured_at": "2026-11-19T09:30:40.195101",
+    "captured_at": "2026-11-20T09:11:14.518005",
     "segment": "midcap",
     "source_channel": "ats_jobs",
     "source_type": "error",
